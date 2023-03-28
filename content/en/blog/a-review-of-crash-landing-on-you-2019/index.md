@@ -1,13 +1,11 @@
 ---
+author: Ibrahim Fadhil
 title: "A Review of Crash Landing on You (2019)"
 date: "2020-04-15"
 tags: 
   - "crash-landing-on-you"
-  - "drama"
   - "english"
-  - "korean"
   - "review"
-  - "series"
 thumbnail: "/blog/a-review-of-crash-landing-on-you-2019.png"
 ---
 

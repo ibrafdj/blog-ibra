@@ -1,13 +1,11 @@
 ---
+author: Ibrahim Fadhil
 title: "Kuliah Online: Adaptasi atau Mati"
 date: "2020-08-12"
 tags: 
-  - "adaptasi"
-  - "covid-19"
-  - "kuliah"
-  - "online"
-  - "pandemi"
-  - "pendidikan-jarak-jauh"
+  - "indonesian"
+  - "kuliah-online"
+  - "analysis"
 thumbnail: "/blog/kuliah-online-adaptasi-atau-mati.jpg"
 ---
 

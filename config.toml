@@ -110,19 +110,19 @@ DefaultContentLanguageInSubdir = true
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/"
-  [[params.homepage.social.icons]]
-    website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "github"
-    url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
+    url = "https://twitter.com/ibrafdj"
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
+    url = "https://www.instagram.com/ibrafdj/"
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://www.linkedin.com/in/ibrafdj/"
+  [[params.homepage.social.icons]]
+    website = "youtube"
+    url = "https://www.youtube.com/channel/UCtICwiLkIR1QvWJdVCG85MQ"
+  [[params.homepage.social.icons]]
+    website = "github"
+    url = "https://github.com/ibrafdj"
 
 [[menu.main]]
   name = "About"
