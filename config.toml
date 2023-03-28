@@ -1,4 +1,4 @@
-baseurl = "http://www.ibrafdj.com/"
+baseurl = "https://www.ibrafdj.com/"
 metaDataFormat = "yaml"
 title = "Blog Ibrafdj"
 theme = "blist"
