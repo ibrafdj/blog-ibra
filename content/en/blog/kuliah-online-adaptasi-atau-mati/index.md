@@ -1,6 +1,7 @@
 ---
 author: Ibrahim Fadhil
 title: "Kuliah Online: Adaptasi atau Mati"
+description: "Tantangan era baru pendidikan"
 date: "2020-08-12"
 tags: 
   - "indonesian"
@@ -61,7 +62,7 @@ Poin-poin yang akan dibahas di dalam tulisan ini adalah:
 
 Pandemi COVID-19 telah menyerang Indonesia sejak bulan Maret 2020. Kondisi ini mengakibatkan pelaksanaan perkuliahan jarak jauh terpaksa [dilaksanakan secara tiba-tiba](https://www.kemdikbud.go.id/main/blog/2020/03/se-mendikbud-pembelajaran-secara-daring-dan-bekerja-dari-rumah-untuk-mencegah-penyebaran-covid19) dan tanpa persiapan yang matang.
 
-Dalam perkuliahan secara _offline_, proses pembelajaran dilaksanakan dengan penjelasan satu arah oleh dosen ke mahasiswa dalam ruangan kelas. Metode seperti ini akan menyamaratakan proses pembelajaran untuk semua mahasiswa, terlepas dari kemampuan masing-masing individu. Proses pembelajaran yang dilakukan dalam waktu dan tempat yang sama ini disebut dengan _synchronous learning_ \[1\].
+Dalam perkuliahan secara _offline_, proses pembelajaran dilaksanakan dengan penjelasan satu arah oleh dosen ke mahasiswa dalam ruangan kelas. Metode seperti ini akan menyamaratakan proses pembelajaran untuk semua mahasiswa, terlepas dari kemampuan masing-masing individu. Proses pembelajaran yang dilakukan dalam waktu dan tempat yang sama ini disebut dengan _synchronous learning_ [^1].
 
 Saat metode seperti ini tidak mungkin dilaksanakan, bentuk adaptasi yang biasa dilakukan adalah dengan cara melaksanakan kelas melalui _video call_. Atau jika tidak memungkinkan, bisa melalui pemberian tugas-tugas untuk mendorong mahasiswa agar belajar secara mandiri.
 
@@ -75,7 +76,7 @@ Berikut adalah penjelasan singkat dari penyebab ketimpangan dalam kondisi perkul
 
 Walaupun sekarang kita dapat belajar dari kenyamanan rumah masing-masing, **keterjangkauan terhadap kegiatan perkuliahan masih terhambat oleh keterbatasan akses internet di Indonesia.**
 
-Pada tahun 2020, sebanyak 93.25% kelurahan dan desa di Indonesia telah terjangkau oleh layanan seluler \[2\], namun baru sebanyak 65% dari penduduk Indonesia merupakan pengguna internet \[3\]. Hal ini menunjukkan bahwa masih terdapat permasalahan dalam berbagai sektor yang menghambat pemerataan akses internet di seluruh Indonesia.
+Pada tahun 2020, sebanyak 93.25% kelurahan dan desa di Indonesia telah terjangkau oleh layanan seluler [^2], namun baru sebanyak 65% dari penduduk Indonesia merupakan pengguna internet [^3]. Hal ini menunjukkan bahwa masih terdapat permasalahan dalam berbagai sektor yang menghambat pemerataan akses internet di seluruh Indonesia.
 
 {{<img caption="Peta cakupan jaringan selular Telkomsel, _provider_ layanan internet terbesar di Indonesia."
 source="[https://www.nperf.com/id/map/ID/](https://www.nperf.com/id/map/ID/)"
@@ -91,7 +92,7 @@ Di dalam kampus, mahasiswa mendapatkan akses yang sama terhadap berbagai fasilit
 
 Namun dengan perkuliahan _online_, sekarang tempat tinggal dan tempat kuliah kita menjadi satu.
 
-Tidak seperti di dalam kelas, kondisi masing-masing rumah pelajar itu berbeda. Tidak semua keluarga memiliki kemampuan material dan mental yang cukup untuk membuat lingkungan belajar yang ideal di rumah \[4\].
+Tidak seperti di dalam kelas, kondisi masing-masing rumah pelajar itu berbeda. Tidak semua keluarga memiliki kemampuan material dan mental yang cukup untuk membuat lingkungan belajar yang ideal di rumah [^4].
 
 Seorang mahasiswa yang memiliki ruang belajar tersendiri, bebas dari gangguan luar, dan tebebas dari tanggung jawab mengurus rumah akan memiliki pengalaman belajar yang optimal. Sebaliknya, seorang mahasiswa yang tinggal seruangan dengan kakak-adiknya, dan harus bekerja membantu keluarga; dapat terhambat dalam pembelajarannya karena waktu dan fokusnya tersita oleh hal-hal lain.
 
@@ -101,9 +102,9 @@ Dengan kondisi ekonomi dan tempat tinggal yang beragam, **perbedaan lingkungan b
 
 Selama pandemi COVID-19 kesehatan fisik harus diprioritaskan di atas segalanya. Menjaga kesehatan tidak sekadar memakai masker atau melakukan _physical distancing_, namun juga menjaga daya tahan tubuh melalui istirahat yang cukup, olaharaga, dan makan makanan bergizi.
 
-Selain kesehatan fisik, proses pendidikan juga tidak terlepas dari kondisi kesehatan mental dari para pelajar \[5\]. Kondisi krisis dunia oleh pandemi saat ini dapat memberikan dampak mental yang buruk terhadap para pelajar.
+Selain kesehatan fisik, proses pendidikan juga tidak terlepas dari kondisi kesehatan mental dari para pelajar [^5]. Kondisi krisis dunia oleh pandemi saat ini dapat memberikan dampak mental yang buruk terhadap para pelajar.
 
-Hal ini disebabkan oleh faktor-faktor seperti ketakutan untuk menjangkit penyakit COVID-19, ketidakpastian kapan berakhirnya pandemi, keterbatasan interaksi tatap muka, dan kondisi perekonomian yang memburuk \[6\].
+Hal ini disebabkan oleh faktor-faktor seperti ketakutan untuk menjangkit penyakit COVID-19, ketidakpastian kapan berakhirnya pandemi, keterbatasan interaksi tatap muka, dan kondisi perekonomian yang memburuk [^6].
 
 **Mereka yang memiliki daya tahan tubuh rendah memerlukan waktu dan usaha lebih banyak dalam menjaga kesehatan**. Hal ini dapat menyebabkan banyak waktu yang terpakai untuk beristirahat atau berobat. Maka kondisi ini pun dapat mengganggu proses perkuliahan.
 
@@ -113,7 +114,7 @@ src="https://images.unsplash.com/photo-1587815280777-90694ad8c4ac?ixlib=rb-1.2.1
 
 ### Kecepatan Belajar
 
-Terlepas dari metode perkuliahan yang dijalankan, baik _offline_ maupun _online_, setiap mahasiswa memiliki kemampuan dan kecepatan yang berbeda dalam memahami pelajaran \[7\].
+Terlepas dari metode perkuliahan yang dijalankan, baik _offline_ maupun _online_, setiap mahasiswa memiliki kemampuan dan kecepatan yang berbeda dalam memahami pelajaran [^7].
 
 Metode perkuliahan _offline_ mungkin cocok untuk sebagian mahasiswa, namun tidak untuk mahasiswa lainnya. Dalam perkuliahan _offline_, dosen akan menjelaskan materi di depan kelas secara satu arah di depan kelas kepada mahasiswa dalam jumlah besar. Bagi mahasiswa yang tidak dapat mengikuti kecepatan penjelasan dosen, mereka akan tertinggal dari yang lain.
 
@@ -133,7 +134,7 @@ Dalam kondisi ini, perguruan tinggi perlu mengevaluasi diri dan beradaptasi untu
 
 ## Evaluasi
 
-Untuk mengevaluasi kualitas pendidikan dalam perkuliahan _online_, kita akan meninjau faktor-faktor yang mempengaruhi ketercapaian tujuan pendidikan dalam kondisi ini. Tujuan pendidikan dibagi menjadi tiga ranah yaitu **kognitif**, **afektif**, dan **psikomotorik** \[8\].
+Untuk mengevaluasi kualitas pendidikan dalam perkuliahan _online_, kita akan meninjau faktor-faktor yang mempengaruhi ketercapaian tujuan pendidikan dalam kondisi ini. Tujuan pendidikan dibagi menjadi tiga ranah yaitu **kognitif**, **afektif**, dan **psikomotorik** [^8].
 
 {{<img caption="Tiga ranah penddiikan"
 source="[https://teacherofsci.com/learning-theories-in-education/](https://teacherofsci.com/learning-theories-in-education/)"
@@ -141,7 +142,7 @@ src=https://ibrafdj.files.wordpress.com/2020/08/image-3.png?w=781 >}}
 
 ### Kognitif
 
-Ranah pendidikan kognitif meliputi pengembangan kemampuan akal, logika, dan pengetahuan. Capaian pendidikan kognitif terdiri atas: _Remembering, Understanding, Applying, Analyzing, Evaluating,_ dan _Creating_ \[9\].
+Ranah pendidikan kognitif meliputi pengembangan kemampuan akal, logika, dan pengetahuan. Capaian pendidikan kognitif terdiri atas: _Remembering, Understanding, Applying, Analyzing, Evaluating,_ dan _Creating_ [^9].
 
 {{<img caption="Taksonomi pendidikan kognitif beserta penjelasaan setiap tingkat capaian nya"
 source="[https://courses.dcs.wisc.edu/design-teaching/PlanDesign\_Fall2016/2-Online-Course-Design/2\_Learning-Objectives-Alignment/6\_objectives\_blooms-taxonomy.html](https://courses.dcs.wisc.edu/design-teaching/PlanDesign_Fall2016/2-Online-Course-Design/2_Learning-Objectives-Alignment/6_objectives_blooms-taxonomy.html)"
@@ -169,13 +170,13 @@ Kesimpulannya, **pendidikan kognitif tidak banyak terhambat dan dapat diadaptasi
 
 ### Afektif
 
-Ranah pendidikan afektif meliputi pengembangan nilai, sikap, dan emosi. Capaian pendidikan afektif terdiri dari: _Receiving, Responding, Valuing, Organization,_ dan _Characterization_ \[10\].
+Ranah pendidikan afektif meliputi pengembangan nilai, sikap, dan emosi. Capaian pendidikan afektif terdiri dari: _Receiving, Responding, Valuing, Organization,_ dan _Characterization_ [^10].
 
 {{<img caption="Taksonomi pendidikan afektif dan penjelasan setiap tingkat capaiannya"
 source="http://henrythiele.blogspot.com/2015/03/in-response-to-grant-wiggins-5.html"
 src=https://ibrafdj.files.wordpress.com/2020/08/image-6.png?w=940 >}}
 
-Ranah pendidikan afektif memerlukan usaha besar untuk diajarkan dan dievaluasi karena secara umum bersifat subjektif \[11\]. Setiap tingkat capaian afektif sulit untuk dievaluasi dalam kuliah _online_ karena faktor berikut:
+Ranah pendidikan afektif memerlukan usaha besar untuk diajarkan dan dievaluasi karena secara umum bersifat subjektif [^11]. Setiap tingkat capaian afektif sulit untuk dievaluasi dalam kuliah _online_ karena faktor berikut:
 
 - **Keterbatasan metode observasi dan interaksi antara pelajar dengan pengajar**
 
@@ -187,7 +188,7 @@ Di tingkat _Valuing, Organization,_ dan _Characterization_, kebutuhan atas peran
 
 - **Hilangnya lingkungan sosial kampus**
 
-Beraktivitas di dalam kampus lebih dari sekadar belajar di kelas. Kampus juga menjadi tempat untuk bertemu teman baru, aktif melakukan berbagai kegiatan, dan menikmati masa muda. Lingkungan yang terbentuk oleh mahasiswa dan pengajar kampus memiliki peran besar dalam perkembangan kognitif dan afektif mahasiswa \[12\].
+Beraktivitas di dalam kampus lebih dari sekadar belajar di kelas. Kampus juga menjadi tempat untuk bertemu teman baru, aktif melakukan berbagai kegiatan, dan menikmati masa muda. Lingkungan yang terbentuk oleh mahasiswa dan pengajar kampus memiliki peran besar dalam perkembangan kognitif dan afektif mahasiswa [^12].
 
 Lingkungan sosial dan akademik yang diberikan kampus ini sulit digantikan dalam perkuliahan _online_. Hal ini terjadi karena aktivitas dan interaksi sosial terbatas oleh sekat-sekat seperti _group chat_ atau _video meeting_ masing-masing kelompok. Bentukan kegiatan pun terbatas antara dalam bentuk _online_ atau dalam skala kecil dengan protokol kesehatan yang ketat.
 
@@ -201,7 +202,7 @@ Kesimpulannya, **pendidikan afektif sulit dilaksanakan dengan baik dalam perkuli
 
 ### **Psikomotorik**
 
-Ranah pendidikan psikomotorik meliputi pengembangan keterampilan dan keahlian motorik. Terdapat beberapa versi taksonomi psikomotorik dari berbagai ahli. Salah satu versi yang umum digunakan adalah taksonomi buatan Elizabeth Simpson yang terdiri dari: _Perception, Set, Guided Response, Mechanism, Complex Overt Response, Adaptation,_ dan _Origination_ \[13\].
+Ranah pendidikan psikomotorik meliputi pengembangan keterampilan dan keahlian motorik. Terdapat beberapa versi taksonomi psikomotorik dari berbagai ahli. Salah satu versi yang umum digunakan adalah taksonomi buatan Elizabeth Simpson yang terdiri dari: _Perception, Set, Guided Response, Mechanism, Complex Overt Response, Adaptation,_ dan _Origination_ [^13].
 
 {{<img caption="Taksonomi pendidikan psikomotorik"
 source="http://www.nwlink.com/~donclark/hrd/Bloom/psychomotor/_domain.html"
@@ -236,7 +237,7 @@ Kesimpulannya, **pendidikan psikomotorik sulit dilaksanakan dengan baik dalam pe
 
 ### _Massive Online Open Course_
 
-Pada tahun 2012, metode pendidikan _online_ jenis _Massive Online Open Course_ (MOOC) mengalami perkembangan yang pesat \[14\]. MOOC menyediakan konten pendidikan secara terbuka dan harga rendah untuk kalangan yang luas.
+Pada tahun 2012, metode pendidikan _online_ jenis _Massive Online Open Course_ (MOOC) mengalami perkembangan yang pesat [^14]. MOOC menyediakan konten pendidikan secara terbuka dan harga rendah untuk kalangan yang luas.
 
 Walaupun belum berhasil mendisrupsi sistem pendidikan secara menyeluruh, kesuksesan MOOC menunjukkan bahwa proses pembelajaran dapat memaksimalkan potensi dari teknologi, khusunya teknologi _platform_ _online_.
 
@@ -269,7 +270,7 @@ Potensi terbesar dari pendidikan _online_, seperti yang difasilitasi oleh MOOC, 
 
 Dalam perkuliahan _offline_, tingkat interaktivitas dalam prsoses pembelajaran terbatas oleh peralatan yang tersedia di kelas, dan kemampuan komunikasi dosen dalam melibatkan para mahasiswanya dalam diskusi.
 
-Saat seluruh proses pembelajaran berpindah ke ruang virtual, terdapat jauh lebih banyak opsi metode untuk melakukan _interactive learning_. **_Interactive learning_ adalah proses pembelajaran yang mendorong pelajar untuk berinteraksi dengan materi pelajaran dan satu sama lain \[15\].**
+Saat seluruh proses pembelajaran berpindah ke ruang virtual, terdapat jauh lebih banyak opsi metode untuk melakukan _interactive learning_. **_Interactive learning_ adalah proses pembelajaran yang mendorong pelajar untuk berinteraksi dengan materi pelajaran dan satu sama lain [^15].**
 
 Dengan memanfaatkan _interactive learning_, pelibatan mahasiswa dalam proses pembelajaran menjadi lebih tinggi karena mahasiswa dapat langsung mengaplikasikan konsep teoritis yang telah dipelajari.
 
@@ -288,17 +289,17 @@ Maka potensi utama dari pemanfaatan teknologi dalam perkuliahan _online_ adalah 
 
 ### _Blended Learning_
 
-Karena sekarang kita tidak lagi terbatas oleh ruang dan waktu, pendidikan _online_ dapat mengimplementasikan konsep _asynchronous learning_. **_Asynchronous learning_ adalah proses pembelajaran yang dilakukan dalam waktu dan tempat yang berbeda antara pelajar dan pengajar \[16\].**
+Karena sekarang kita tidak lagi terbatas oleh ruang dan waktu, pendidikan _online_ dapat mengimplementasikan konsep _asynchronous learning_. **_Asynchronous learning_ adalah proses pembelajaran yang dilakukan dalam waktu dan tempat yang berbeda antara pelajar dan pengajar [^16].**
 
 Namun, walaupun materinya bisa diakses secara individu dan tanpa batas waktu, sebuah _course_ dalam MOOC tetap didesain secara komunal agar bisa diakses terbuka oleh banyak pelajar dari berbagai latar belakang. Hal ini memungkinkan adanya pelajar yang tidak cocok dengan metode pembelajaran yang dilakukan oleh _course_ tersebut.
 
 Padahal, dengan penjelasan materi yang sudah dipersiapkan di awal, beban kerja pengajar akan berkurang banyak. Karena bahan yang sudah dibuat bisa dipakai berkali-kali untuk pelaksanaan kelas-kelas selanjutnya. Hal ini dapat membebaskan _work load_ pengajar untuk fokus dalam aspek pembelajaran lainnya.
 
-Oleh karena itu diperlukan sebuah pendekatan berupa _personalized learning_ untuk memaksimalkan potensi dari teknologi pembelajaran _online_. **_Personalized learning_ adalah proses pembelajaran yang menyesuaikan dengan preferensi dan kemampuan belajar dari masing-masing pelajar \[17\].**
+Oleh karena itu diperlukan sebuah pendekatan berupa _personalized learning_ untuk memaksimalkan potensi dari teknologi pembelajaran _online_. **_Personalized learning_ adalah proses pembelajaran yang menyesuaikan dengan preferensi dan kemampuan belajar dari masing-masing pelajar [^17].**
 
 Dengan mengimplementasikan konsep _asynchronous_ dan _personalized learning_ ini, pelajar dapat mempelajari materi sesuai dengan jadwal belajar dan kecepatan pemahaman masing-masing tanpa keterpaksaan untuk mengikuti standar pelajar lainnya.
 
-Metode yang dapat mengimplementasi konsep pendidikan ini adalah metode _flipped classroom_. **Dalam _flipped classroom_, proses pemberian materi dilakukan di luar kelas. Sedangkan waktu kelas digunakan untuk melakukan kegiatan belajar secara interaktif \[18\].** Dalam konsep ini pengajar berperan sebagai fasilitator yang membantu kesulitan setiap pelajar dalam proses pembelajaran.
+Metode yang dapat mengimplementasi konsep pendidikan ini adalah metode _flipped classroom_. **Dalam _flipped classroom_, proses pemberian materi dilakukan di luar kelas. Sedangkan waktu kelas digunakan untuk melakukan kegiatan belajar secara interaktif [^18].** Dalam konsep ini pengajar berperan sebagai fasilitator yang membantu kesulitan setiap pelajar dalam proses pembelajaran.
 
 {{<img caption="Konsep _Flipped Classroom_ akan memaksimalkan peran pelajar dengan dibantu fasilitas yang memadai dari pengajar"
 source="https://www.kajianpustaka.com/2020/03/model-pembelajaran-flipped-classroom.html"
@@ -308,11 +309,11 @@ Dengan konsep ini, capaian taksonomi kognitif tingkat rendah. yaitu _Understandi
 
 Pada sesi kelas, pelajar melaksanakan aktivitas untuk mengaplikasikan materi yang telah dipelajari dengan pengawasan dan timbal balik langsung oleh pengajar. Dengan sistem ini pengajar dapat menyesuaikan aktivitas di dalam kelas baik dengan kebutuhan personal setiap pelajar maupun kebutuhan komunal dari pelajar dalam kelas.
 
-Contoh aktivitas yang dapat dilakukan pelajar di dalam kelas adalah melakukan praktikum, mengerjakan tugas kelompok, dan melakukan diskusi tentang materi pembelajaran \[19\].
+Contoh aktivitas yang dapat dilakukan pelajar di dalam kelas adalah melakukan praktikum, mengerjakan tugas kelompok, dan melakukan diskusi tentang materi pembelajaran [^19].
 
 Apakah mungkin konsep _flipped classroom_ ini bisa diimplementasikan? Dalam rapat kerja bersama Komisi X DPR RI (03/07/2020), Mendikbud Nadiem Makarim [menyatakan wacana](https://www.kompas.com/tren/read/2020/07/03/155830065/menteri-nadiem-wacanakan-belajar-jarak-jauh-permanen-setelah-pandemi-covid?page=all) untuk melaksanakan pembelajaran jarak jauh secara permanen dengan system _hybrid learning_.
 
-**_Hybrid_ atau _blended learning_ adalah sistem pembelajaran yang mengintegrasikan metode _offline_ dan _online_** untuk saling melengkapi kelebihan dan kekurangan kedua metode tersebut \[20\].
+**_Hybrid_ atau _blended learning_ adalah sistem pembelajaran yang mengintegrasikan metode _offline_ dan _online_** untuk saling melengkapi kelebihan dan kekurangan kedua metode tersebut [^20].
 
 {{<img caption="_Blended learning_ dapat memaksimalkan potensi dari metode pembelajaran _offline_ dan _online_"
 src=https://ibrafdj.files.wordpress.com/2020/08/image-11.png?w=848 >}}
@@ -400,11 +401,11 @@ Adaptasi tidak cukup dilakukan hanya oleh kampus, namun juga perlu dilakukan ole
 
 Saat ini, kualitas perkuliahan kita memang kurang ideal karena keterbatasan ketercapaian pendidikan, khususnya dalam ranah afektif dan psikomotorik. Dalam sistem perkuliahan baru ini, kita mahasiswa akan dituntut untuk berperan lebih aktif dan mandiri dalam melakukan pembelajaran.
 
-Sistem seperti ini disebut _active learning_, dimana pelajar memiliki peran aktif dalam mencari dan mendalami ilmu pengetahuan \[21\]. Oleh karena itu, **kita mahasiswa harus berperan sebagai _active learner_ yang bisa aktif memanfaatkan fasilitas di dalam dan luar kampus untuk mendalami ilmu pengetahuan**.
+Sistem seperti ini disebut _active learning_, dimana pelajar memiliki peran aktif dalam mencari dan mendalami ilmu pengetahuan [^21]. Oleh karena itu, **kita mahasiswa harus berperan sebagai _active learner_ yang bisa aktif memanfaatkan fasilitas di dalam dan luar kampus untuk mendalami ilmu pengetahuan**.
 
 Pemberian materi secara _asynchronous_ memberikan kita banyak waktu untuk aktivitas lain, baik melalui interaksi di kelas, atau kegiatan mandiri lainnya. Tanpa keinginan dan kedisiplinan untuk terus belajar secara mandiri, waktu bebas ini dapat menjadi jebakan yang menghambat produktivitas.
 
-Kondisi pembelajaran dari rumah masing-masing bukanlah alasan untuk bermalas-malasan**.** Karena dalam kondisi ini lah kita dituntut menjadi mandiri dalam mengatur waktu, menjaga fokus, melaksanakan rutinitas, dan mendalami setiap materi pembelajaran
+Kondisi pembelajaran dari rumah masing-masing bukanlah alasan untuk bermalas-malasan. Karena dalam kondisi ini lah kita dituntut menjadi mandiri dalam mengatur waktu, menjaga fokus, melaksanakan rutinitas, dan mendalami setiap materi pembelajaran
 
 Kesimpulannya, adaptasi yang perlu dilakukan perguruan tinggi adalah **memfasilitasi mahasiswa untuk menjadi lebih aktif dan mandiri dalam proses pembelajaran**.
 
@@ -424,48 +425,44 @@ Jika sekarang kita gagal dalam beradaptasi, maka penerus-penerus kita akan semak
 
 Harapannya, semua adaptasi yang kita perjuangkan hari ini akan membuahkan warisan berharga untuk generasi masa depan.
 
-* * *
+[^1]: Heick, T. (2020, June 19). _The Definition of Synchronous Learning_. Retrieved August 5, 2020, from Teach Thought: https://www.teachthought.com/technology/the-definition-of-synchronous-learning/
 
-## Referensi
+[^2]: Kemkominfo. (2020). _Laporan Kinerja Kementrian Komunikasi dan Informatika 2019._ Jakarta Pusat: Kementrian Komunikasi dan Informatika Republik Indonesia.
 
-\[1\] Heick, T. (2020, June 19). _The Definition of Synchronous Learning_. Retrieved August 5, 2020, from Teach Thought: https://www.teachthought.com/technology/the-definition-of-synchronous-learning/
+[^3]: Kemp, S. (2020, February 18). _DIGITAL 2020: INDONESIA._ Retrieved June 12, 2020, from DATAREPORTAL: https://datareportal.com/reports/digital-2020-indonesia
 
-\[2\] Kemkominfo. (2020). _Laporan Kinerja Kementrian Komunikasi dan Informatika 2019._ Jakarta Pusat: Kementrian Komunikasi dan Informatika Republik Indonesia.
+[^4]: Lamb, S., Maire, Q., Doecke, E., Macklin, S., Noble, K & Pilcher, S. (2020) _Impact of learning from home oneducational outcomes for disadvantaged children._ Centre for International Research on Education Systems andthe Mitchell Institute, Victoria University.
 
-\[3\] Kemp, S. (2020, February 18). _DIGITAL 2020: INDONESIA._ Retrieved June 12, 2020, from DATAREPORTAL: https://datareportal.com/reports/digital-2020-indonesia
+[^5]: VanderLind, R. (2017). Effects of Mental Health on Student Learning. _Learning Assistance Review_, 39-58.
 
-\[4\] Lamb, S., Maire, Q., Doecke, E., Macklin, S., Noble, K & Pilcher, S. (2020) _Impact of learning from home oneducational outcomes for disadvantaged children._ Centre for International Research on Education Systems andthe Mitchell Institute, Victoria University.
+[^6]: World Health Organization. (2020). _Mental health & COVID-19_. Retrieved June 26, 2020, from World Health Organization: https://www.who.int/teams/mental-health-and-substance-use/covid-19
 
-\[5\] VanderLind, R. (2017). Effects of Mental Health on Student Learning. _Learning Assistance Review_, 39-58.
+[^7]: Bjerede, M. (2013, April 25). _To Innovate in Education, First Standardize_. Retrieved August 1, 2020, from Getting Smart: https://www.gettingsmart.com/2013/04/to-innovate-in-education-first-standardize/
 
-\[6\] World Health Organization. (2020). _Mental health & COVID-19_. Retrieved June 26, 2020, from World Health Organization: https://www.who.int/teams/mental-health-and-substance-use/covid-19
+[^8]: Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). _Taxonomy of educational objectives, Handbook I: The cognitive domain._ New York: David McKay Co Inc.
 
-\[7\] Bjerede, M. (2013, April 25). _To Innovate in Education, First Standardize_. Retrieved August 1, 2020, from Getting Smart: https://www.gettingsmart.com/2013/04/to-innovate-in-education-first-standardize/
+[^9]: Anderson, L. W., & Krathwohl, D. R. (2001). _A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives._ New York: Addison Wesley Longman Inc.
 
-\[8\] Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). _Taxonomy of educational objectives, Handbook I: The cognitive domain._ New York: David McKay Co Inc.
+[^10]: Krathwohl, D., Bloom, B. S., & Masia, B. B. (1973). _Taxonomy of Educational Objectives, the Classification of Educational Goals. Handbook II: Affective Domain._ New York: David McKay Co., Inc.
 
-\[9\] Anderson, L. W., & Krathwohl, D. R. (2001). _A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives._ New York: Addison Wesley Longman Inc.
+[^11]: Pascarella, E. T. (1985). Students' Affective Development within the College Environment. _The Journal of Higher Education, Vol. 56, No. 6 (Nov. - Dec., 1985)_, 640-663.
 
-\[10\] Krathwohl, D., Bloom, B. S., & Masia, B. B. (1973). _Taxonomy of Educational Objectives, the Classification of Educational Goals. Handbook II: Affective Domain._ New York: David McKay Co., Inc.
+[^12]: Astin, A.W. (1993). _What matters in college: Four critical years revisited._ San Francisco: Jossey-Bass.
 
-\[11\] Pascarella, E. T. (1985). Students' Affective Development within the College Environment. _The Journal of Higher Education, Vol. 56, No. 6 (Nov. - Dec., 1985)_, 640-663.
+[^13]: Simpson, E. J. (1972). _The Classification of Educational Objectives in the Psychomotor Domain._ Washington DC: Gryphon House.
 
-\[12\] Astin, A.W. (1993). _What matters in college: Four critical years revisited._ San Francisco: Jossey-Bass.
+[^14]: Pappano, L. (2012, November 2). _The Year of the MOOC_. Retrieved July 29, 2020, from The New York Times: https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html
 
-\[13\] Simpson, E. J. (1972). _The Classification of Educational Objectives in the Psychomotor Domain._ Washington DC: Gryphon House.
+[^15]: Renner, R. (2018, December 11). _Interactive Learning Definition_. The Classroom. https://www.theclassroom.com/interactive-learning-definition-5494900.html
 
-\[14\] Pappano, L. (2012, November 2). _The Year of the MOOC_. Retrieved July 29, 2020, from The New York Times: https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html
+[^16]: Heick, T. (2020, April 16). _The Definition of Asynchronous Learning_. Retrieved August 5, 2020, from Teach Thought: https://www.teachthought.com/technology/the-definition-of-asynchronous-learning/
 
-\[15\] Renner, R. (2018, December 11). _Interactive Learning Definition_. The Classroom. https://www.theclassroom.com/interactive-learning-definition-5494900.html
+[^17]: Basye, D. (2018, January 24). _ISTE_. Retrieved August 5, 2020, from Personalized vs. Differentiated vs. Individualized Learning: https://www.iste.org/explore/Education-leadership/Personalized-vs.-differentiated-vs.-individualized-learning?articleid=124
 
-\[16\] Heick, T. (2020, April 16). _The Definition of Asynchronous Learning_. Retrieved August 5, 2020, from Teach Thought: https://www.teachthought.com/technology/the-definition-of-asynchronous-learning/
+[^18]: Johnson, Graham Brent. 2013. _Student Perceptions Of The Flipped Classroom_. Columbia: The University Of British Columbia
 
-\[17\] Basye, D. (2018, January 24). _ISTE_. Retrieved August 5, 2020, from Personalized vs. Differentiated vs. Individualized Learning: https://www.iste.org/explore/Education-leadership/Personalized-vs.-differentiated-vs.-individualized-learning?articleid=124
+[^19]: Riadi, M. (2020, March 28). _Model Pembelajaran Flipped Classroom_. Retrieved July 12, 2020, from Kajian Pustaka: https://www.kajianpustaka.com/2020/03/model-pembelajaran-flipped-classroom.html
 
-\[18\] Johnson, Graham Brent. 2013. _Student Perceptions Of The Flipped Classroom_. Columbia: The University Of British Columbia
+[^20]: Sevima. (2018, August 2). _Pengertian dan Manfaat Model Pembelajaran Blended Learning_. Retrieved July 12, 2020, from Sevima: https://sevima.com/pengertian-dan-manfaat-model-pembelajaran-blended-learning/
 
-\[19\] Riadi, M. (2020, March 28). _Model Pembelajaran Flipped Classroom_. Retrieved July 12, 2020, from Kajian Pustaka: https://www.kajianpustaka.com/2020/03/model-pembelajaran-flipped-classroom.html
-
-\[20\] Sevima. (2018, August 2). _Pengertian dan Manfaat Model Pembelajaran Blended Learning_. Retrieved July 12, 2020, from Sevima: https://sevima.com/pengertian-dan-manfaat-model-pembelajaran-blended-learning/
-
-\[21\] Bonwell, C. C. (1991). _Active learning : Creating excitement in the classroom._ Washington D.C.: School of Education and Human Development, George Washington University.
+[^21]: Bonwell, C. C. (1991). _Active learning : Creating excitement in the classroom._ Washington D.C.: School of Education and Human Development, George Washington University.

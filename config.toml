@@ -1,6 +1,6 @@
 baseurl = "https://www.ibrafdj.com/"
 metaDataFormat = "yaml"
-title = "Blog Ibrafdj"
+title = "A Simple Mind"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Ibrahim Fadhil Djauhari"
-      introSubtitle = "A simple minded thinker"
+      introTitle = "A Simple Mind"
+      introSubtitle = "Where the simplest thoughts prosper. Written in either English or Indonesian."
       introPhoto = "/ibra.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
