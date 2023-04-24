@@ -21,15 +21,19 @@ Dan hari ini, hampir 3 tahun setelah kita berkenalan dan mulai pacaran tak lama 
 
 ## Altruis
 
-Sejak membaca tulisannya tentang pendidikan, aku tau Zahra memiliki jiwa empati yang besar.
+*If I have only one word to define Zahra, that word would be 'altruistic'.*
+
+Zahra punya
+
+<!-- Sejak membaca tulisannya tentang pendidikan, aku tau Zahra memiliki jiwa empati yang besar.
 
 Ia bekerja di *Rujak Center for Urban Studies* (RCUS), sebuah NGO yang melakukan riset dan advokasi untuk masalah *urban housing* di Jakarta.
 
-Ia mengorbankan berbagai kesempatan untuk bekerja di tempat yang lebih tinggi gaji dan prestisenya demi bekerja dekat dengan warga-warga kampunbg kota di Jakarta.
+Ia mengorbankan berbagai kesempatan untuk bekerja di tempat yang lebih tinggi gaji dan prestisenya demi bekerja dekat dengan warga-warga kampunbg kota di Jakarta. -->
 
 ## Idealis
 
-Zahra sangat gigih dalam memperjuangkan apa yang ia percayai.
+Zahra sangat gigih dalam memperjuangkan apa yang ia percayai. 
 
 ## Romantis
 
