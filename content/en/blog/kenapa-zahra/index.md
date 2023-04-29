@@ -9,34 +9,18 @@ thumbnail: "/blog/kuliah-online-adaptasi-atau-mati.jpg"
 draft: true
 ---
 
-Pada bulan Agustus 2020, aku memberanikan diri mengirim pesan DM ke akun instagram seorang Zahra Khairunnisa. Sebelumnya aku telah membaca blog pribadinya yang terpampang di akun instagramnya. Membaca tulisan-tulisan Zahra telah membuatku penasaran dengan pandangan dan cara berpikirnya. 
-
-Oleh karena itu, dengan satu pesan DM aku mengenalkan diri padanya dan mengajak Zahra berdiskusi lebih lanjut terkait salah satu tulisannya, dengan niat untuk mengenalnya lebih dalam. 
+Pada bulan Agustus 2020, aku memberanikan diri mengirim pesan DM ke akun instagram [@zazahrarawr]().
 
 <!-- Gambar chat sama zahra -->
 
-Tanpa melebih-lebihkan hiperbola ini, hidupku berubah setelah berkenalan dengan Zahra.
+Sekarang, hampir 3 tahun setelah momen perkenalan kita, aku mengambil langkah pertama untuk menjadikan Zahra sebagai istriku.
 
-Dan hari ini, hampir 3 tahun setelah kita berkenalan dan mulai pacaran tak lama setelahnya, aku telah melamar Zahra Khairunnisa untuk menjadi istriku.
+## Kenapa?
 
-## Altruis
+Jika aku hanya punya dua kata untuk mendeskripsikan Zahra, kata yang ku pilih adalah "altruis" dan "idealis".
 
-*If I have only one word to define Zahra, that word would be 'altruistic'.*
+Aku percaya manusia adalah mahluk yang egois. Secara sadar maupun tidak sadar, kita memiliki kebutuhan untuk bertahan hidup. Maka, pasti ada momen-momen dimana kita mementingkan kebutuhan kita diatas segalanya.
 
-Zahra punya
+Namun selama aku mengenal Zahra, suatu pertanyaan terus-menerus muncul di benakku: "Bagaimana bisa Zahra tetap bertahan hidup saat ia terus menerus mengorbankan kebutuhannya demi membantu orang lain?"
 
-<!-- Sejak membaca tulisannya tentang pendidikan, aku tau Zahra memiliki jiwa empati yang besar.
-
-Ia bekerja di *Rujak Center for Urban Studies* (RCUS), sebuah NGO yang melakukan riset dan advokasi untuk masalah *urban housing* di Jakarta.
-
-Ia mengorbankan berbagai kesempatan untuk bekerja di tempat yang lebih tinggi gaji dan prestisenya demi bekerja dekat dengan warga-warga kampunbg kota di Jakarta. -->
-
-## Idealis
-
-Zahra sangat gigih dalam memperjuangkan apa yang ia percayai. 
-
-## Romantis
-
-Above all else, Zahra sayang perhatian dalam memberi kasih sayang.
-
-Tiga hal ini, ditambah hal-hal lainnya, adalah mengapa aku yakin memilih Zahra Khairunnisa menjadi istriku.
+Pertanyaan ini berkali-kali muncul selama mengikuti jejak karir Zahra. Setelah lulus dari ITB, ia memilih untuk bekerja dalam NGO *Rujak Center for Urban Studies* (RCUS).
