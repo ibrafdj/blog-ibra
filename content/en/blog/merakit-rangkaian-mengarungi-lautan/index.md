@@ -17,15 +17,15 @@ draft: true
 
 Jika kalian ingin jawaban yang singkat, jawabannya adalah karena aku ingin mendalami bidang *underwater robotics*.
 
-Jika kalian masih membaca kalimat ini setelah sudah membaca jawaban singkat diatas, berarti kalian masih penasaran. Kalian ingin tau bagaimana kisah seorang Ibra bisa memutuskan untuk kuliah S2 di bidang yang cukup jauh dari latar belakangnya.
+Jika kalian masih membaca kalimat ini setelah sudah membaca jawaban singkat diatas, aku anggap kalian masih penasaran. Kalian ingin tau kisah lengkap bagaimana seorang Ibra bisa memutuskan untuk kuliah S2 di bidang yang cukup jauh dari latar belakangnya.
 
 *Well you're in luck*, karena tujuanku menulis tulisan ini adalah:
 - Menceritakan bagaimana aku memilih untuk S2 di bidang *Maritime Engineering*
-- Menjelaskan konsep dan metode yang membantuku dalam menentukan pilihan ini
+- Menjelaskan konsep dan metode yang membantuku dalam menentukan pilihan ini(?)
 
 Sebagai penerima beasiswa [LPDP](https://lpdp.kemenkeu.go.id/en/), aku pun merasa penjelasan tentang tujuan pendidikanku adalah salah satu bentuk pertanggungjawaban dari uang negara yang akan membiayai kuliah S2 ku.
 
-Terlepas dari itu, aku harap tulisanku ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang memikirkan tujuan pendidikan kuliahnya, memikirkan untuk melakukan pergantian karir dari satu bidang ke bidang lain yang berjauhan, dan/atau penasaran dengan bidang yang akan kutekuni.
+Terlepas dari itu, aku harap tulisanku ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang memikirkan tujuan pendidikan kuliahnya, memikirkan untuk melakukan pergantian karir dari satu bidang ke bidang lain yang berjauhan, dan/atau penasaran dengan bidang yang akan kutekuni ini.
 
 # Menemukan Panggilan
 ## ITB *Hybrid Underwater Glider*
@@ -36,22 +36,22 @@ Aku pertama kali mengenal dunia *underwater robotics* saat tingkat akhir kuliahk
 
 Diantara puluhan topik TA yang tersedia, topik yang paling menarik perhatianku adalah topik tentang ITB *Hybrid Underwater Glider* (ITB-HUG). HUG adalah suatu jenis *Autonomous Underwater Vehicle* (AUV), yaitu wahana yang dapat bergerak dalam air tanpa awak untuk melakukan pemetaan bawah laut. Riset AUV, termasuk riset ITB-HUG, sendiri telah dimulai di ITB sejak sekitar tahun 2017. Riset ini dikerjakan oleh gabungan tim mahasiswa S1, S2, dan S3 dengan bimbingan dari Prof. Bambang Riyanto Trilaksono.
 
-Dari membaca deskripsi topik ini saja, aku tau proyek ini sangatlah sulit. Membuat robot biasa saja sudah kompleks, bagaimana dengan robot yang bisa bergerak di bawah air?
+Dari membaca deskripsi topik ini saja, aku tau topik ini akan sangat sulit. Membuat robot saja sudah kompleks, apalagi robot yang bisa bergerak di bawah air?
 
 Tapi... Kapan lagi bisa ngoprek kapal selam robot, kan?
 
-Terlepas dari keunikan bidang *underwater robotics* ini, aku tertarik dengan topik ini karena aku melihat potensi manfaatnya untuk Indonesia. Sebagai negara kepulauan terbesar di dunia, wilayah lautan Indonesia sangatlah luas. Disinilah *Underwater robots* hadir untuk membantu Indonesia menjelajahi dan menjaga lautan kita yang luas.  
+<!-- Terlepas dari keunikan bidang *underwater robotics* ini, aku tertarik dengan topik ini karena aku melihat potensi manfaatnya untuk Indonesia. Sebagai negara kepulauan terbesar di dunia, wilayah lautan Indonesia sangatlah luas. Disinilah *Underwater robots* hadir untuk membantu Indonesia menjelajahi dan menjaga lautan kita yang luas.   -->
 
-Berbekal dengan keyakinan penuh atas kemampuan kami, kami memilih topik ITB-HUG sebagai topik TA kami.  Saat kami pertama bergabung dengan tim riset ITB-HUG, seluruh komponen elektronik dan mekanik dari ITB-HUG sudah selesai dirangkai menjadi suatu wahana utuh. Lalu, apa yang sebenarnya perlu kami kerjakan sebagai TA kami?
+Berbekal keyakinan penuh atas kemampuan kami, pengerjaan TA ITB-HUG kami dimulai. Saat kami pertama bergabung dengan tim riset ITB-HUG, seluruh komponen elektronik dan mekanik dari ITB-HUG sudah selesai dirangkai menjadi suatu wahana utuh. Lalu, apa yang sebenarnya perlu kami kerjakan sebagai TA kami?
 
-Walaupun secara *hardware* sudah lengkap, wahana ITB-HUG belum memiliki sistem *software* untuk bergerak secara otonom. Tujuan TA kami adalah untuk membuat sistem yang dapat menggerakkan ITB-HUG secara otonom mengikuti urutan *waypoint* yang diberikan oleh pengguna.
+Walaupun secara komponen sudah lengkap, wahana ITB-HUG belum memiliki sistem *software* untuk bergerak secara otonom. Target TA kami adalah untuk membuat sistem yang dapat menggerakkan ITB-HUG secara otonom mengikuti urutan *waypoint* yang diberikan oleh pengguna.
 
 Untuk bisa mencapai tujuan ini, terdapat tiga sistem yang perlu diimplementasikan di ITB-HUG: 
 - Sistem *Navigation* yang berfungsi untuk mengetahu posisi, orientasi, dan akselerasi wahana berdasarkan pembacaan data-data sensor 
 - Sistem *Guidance* yang berfungsi untuk memandu atau "menyetir" arah gerak wahana untuk menuju suatu *waypoint*
 - Sistem *Control* yang berfungsi untuk menggerakkan wahana sesuai arah gerak yang ditentukan sistem *guidance*
 
-Setelah hampir satu tahun mengerjakan TA ini, kami berhasil mendesain dan mengimplementasi sistem *Navigation*, *Guidance*, dan *Control* dalam *software* dan *hardware* dari wahana ITB-HUG. Namun karena kondisi pandemi COVID-19, implementasi kami terbatas dengan pengujian [*Hardware-in-the-loop Simulation* (HILS)](https://www.hil-simulation.com/images/stories/Documents/Introduction%20to%20Hardware-in-the-Loop%20Simulation.pdf). 
+Satu tahun silam setelah memulai TA ini, kami berhasil mendesain dan mengimplementasi sistem *Navigation*, *Guidance*, dan *Control* dalam *software* dan *hardware* dari wahana ITB-HUG. Namun karena kondisi pandemi COVID-19, implementasi kami terbatas dengan pengujian [*Hardware-in-the-loop Simulation* (HILS)](https://www.hil-simulation.com/images/stories/Documents/Introduction%20to%20Hardware-in-the-Loop%20Simulation.pdf). 
 
 Sebelum aku lulus dari ITB, dosen pembimbing TA-ku menawarkan aku untuk tetap aktif membantu riset ITB-HUG. Karena ketertarikan aku terhadap bidang *underwater robotics* ini, aku memutuskan untuk terus menjadi asisten riset ITB-HUG sejak lulus sampai sekarang.
 
@@ -68,7 +68,7 @@ Walaupun pada akhirnya aku bekerja *full-time* menjadi seorang *software enginee
 
 Pada tanggal 24 April 2021, 838 meter di bawah perairan laut Bali, kapal selam KRI Nanggala 402 bertemu dengan tempat peristirahatan terakhirnya. Seluruh Indonesia berduka cita atas hilangnya sang kapal selam beserta 53 awaknya. Tanpa peralatan yang memadai untuk melakukan pencarian dalam kedalaman lebih dari 800 meter di bawah air, Indonesia harus bergantung dengan peralatan pinjaman dari para negara tetangga.
 
-Salah satu aset kunci dalam pencarian KRI Nanggala 402 adalah kapal MV Swift Rescue milik Angkatan Laut Singapura. Kapal ini merupakan satu-satunya Submarine Rescue Vessel di Asian Tenggara yang dilengkapi oleh Remotely Operated Vehicle (ROV) untuk pencarian kapal selam. Dengan bantuan ROV tersebut, tim pencarian berhasil mendapatkan foto dan video pertama di lokasi tenggelamnya KRI Nanggala 402.
+Salah satu aset kunci dalam pencarian KRI Nanggala 402 adalah kapal MV *Swift Rescue* milik Angkatan Laut Singapura. Kapal ini merupakan satu-satunya Submarine Rescue Vessel di Asian Tenggara yang dilengkapi oleh Remotely Operated Vehicle (ROV) untuk pencarian kapal selam. Dengan bantuan ROV tersebut, tim pencarian berhasil mendapatkan foto dan video pertama di lokasi tenggelamnya KRI Nanggala 402.
 
 Dengan insiden ini, aku tersadar bahwa keterbatasan *underwater robots* di Indonesia sudah menjadi isu keamanan nasional. Dan aku, sebagai seseorang yang telah berkecimpung di bidang ini, tidak bisa tinggal diam.
 
@@ -82,7 +82,7 @@ Dalam proses meyakinkan diri bahwa tujuan hidupku adalah menjadi *underwater rob
 
 <!-- Gambar Diagram Ikigai -->
 
-Ikigai adalah konsep dari Jepang yang menjelaskan makna kehidupan. Ikigai dapat digunakan untuk menentukan **tujuan hidup**. Tujuan hidup dakam Ikigai merupakan irisan dari empat aspek:
+Ikigai adalah konsep dari Jepang yang menjelaskan tentang makna kehidupan. Ikigai dapat digunakan untuk menentukan **tujuan hidup**. Tujuan hidup dakam Ikigai merupakan irisan dari empat aspek:
 
 - *What you love*
 - *What you are good at*
@@ -95,9 +95,13 @@ Dengan mencari irisan dari empat aspek tersebut, kita dapat menemukan tujuan hid
 
 Sejak kecil tertarik sama komputer dan teknologi. Pengen suatu saat bisa membuat invensi teknologi baru yang bermanfaat untuk banyak orang di dunia.
 
+Aku telah dikenalkan dengan teknologi seperti komputer dan *video game console* sejak kecil. Seiring aku tumbuh, rasa keingintahuanku tentang bagaimana cara teknologi bekerja, khususnya komputer, terus meningkat. Keingintahuan inilah yang membuatku ingin berkuliah S1 Teknik Elektro.
+
+Puncak aktualiasi diri bagi seorang pecinta teknologi adalah membuat teknologi baru. Di sisi lain, permasalahan di dunia tidak ada habisnya. Oleh karena itu, aku yakin bahwa tujuan hidupku adalah membuat teknologi sebagai solusi dari sebagian permasalahan dunia.
+
 ### *2. What you are good at*
 
-Suka belajar matematika dan fisika.
+Aku telah dikenal sebagai orang dengan imaginasi tinggi, logika tajam, dan pemikiran mendalam sejak dulu. Kemampuan ini membuatku dapat menguasai pelajaran seperti fisika dan matematika selama di sekolah.
 
 ### *3. What you can be paid for*
 
@@ -120,15 +124,17 @@ Proses refleksi dalam mencari *Ikigai* ini meyakinkanku bahwa menjadi *underwate
 
 # Membangun Impian
 ## Mimpi
-Sejak kecil, aku memiliki cita-cita untuk menjadi seorang pengusaha. Terinspirasi dari kisah Bill Gates & Steve Jobs yang kubaca saat kecil, aku percaya bahwa membuat suatu **inovasi teknologi baru** kemudian **menjualnya kepada orang yang membutuhkan** adalah jalanku untuk bisa meninggalkan dampak positif yang besar untuk dunia.
+Sejak kecil, aku memiliki cita-cita untuk menjadi seorang pengusaha. Terinspirasi dari kisah Bill Gates & Steve Jobs yang kubaca saat kecil, aku percaya bahwa membuat suatu **inovasi teknologi** kemudian **menjualnya kepada orang yang membutuhkan** adalah jalanku untuk bisa meninggalkan dampak positif yang besar untuk dunia.(???)
 
-Aku melihat kewirausahaan sebagai metode paling *sustainable* untuk mengembangkan teknologi seperti *underwater robots*, karena pengembangan produk akan didorong oleh kapital yang didapatkan dari mereka yang membutuhkan teknologi tersebut.
+Aku melihat kewirausahaan sebagai metode paling *sustainable* untuk mengembangkan teknologi seperti *underwater robots*. Masalah yang diselesaikan teknologi ini cukup rumit, maka pengembangannya membutuhkan dukungan kapital besar dari para lembaga yang membutuhkannya.
 
-Dengan kondisi industri *underwater robotics* yang masih sangat kecil di Indonesia, aku melihat ada potensi besar untuk pengembangan perusahaan-perusahaan baru di bidang ini.
+ karena pengembangan produk akan didorong oleh kapital yang didapatkan dari mereka yang membutuhkan teknologi tersebut.
 
-Oleh karena itu, visiku adalah untuk membangun perusahaan desain dan manufaktur *underwater robots* di Indonesia. Dalam perusahaan ini aku akan berperan sebagai *Chief Technology Officer* (CTO) yang memimpin desain dan produksi dari produk robot kami.
+Melihat kondisi industri *underwater robotics* yang masih sangat kecil di Indonesia, aku melihat ada potensi besar untuk pengembangan perusahaan-perusahaan baru di bidang ini.
 
-Jika tidak memungkinkan untuk membangun perusahaan baru, aku tetap bertujuan untuk menjadi CTO dari perusahaan *underwater robotics* eksisting dan mengembangkannya lebih jauh. 
+Oleh karena itu, visiku adalah untuk membangun perusahaan desain dan manufaktur *underwater robots* di Indonesia. Dalam perusahaan ini aku akan berperan sebagai *Chief Technology Officer* (CTO), *Vice President of Engineering*, atau peran sejenis yang memimpin desain dan produksi dari produk robot kami.
+
+Jika tidak memungkinkan untuk membangun perusahaan baru, aku tetap berambisi menjadi CTO dari perusahaan *underwater robotics* yang eksisting agar dapat mengembangkannya lebih jauh. 
 
 Aku sadar industri ini memiliki *barrier of entry* yang sangat tinggi. Akan diperlukan usaha dan waktu yang tidak sedikit untuk bisa merealisasikan mimpi tersebut. Oleh karena itu, langkah pertamaku adalah untuk menempuh pendidikan S2 untuk mendalami keahlianku di bidang *underwater robotics*. Setelah lulus, aku akan bekerja di industri ini sambil melanjutkan riset ITB-HUG. Harapanku adalah aku dapat mulai menginisiasi perusahaan baru ku dalam 10 tahun setelah aku lulus S2.
 
@@ -173,14 +179,15 @@ Di banyak kisah fiksi, terdapat sebuah *trope* umum bernama ***The Chosen One***
 
 Baik itu **Harry Potter** yang ditakdirkan mengalahkan Voldemort karena ia selamat dari serangannya saat kecil; **Frodo Baggins** yang ditakdirkan mengalahkan Sauron karena menemukan *The One Ring* milik pamannya; maupun **Luke Skywalker** yang ditakdirkan mengalahkan *The Emperor* karena kesaktiannya sebagai anak rahasia Anakin Skywalker; semua karakter tersebut menjadi ***The Chosen One*** karena mereka berada di suatu tempat, waktu, dan kondisi yang tepat.
 
-Tanpa terlihat seperti orang narsis, saat ini akulah yang merasa telah menjadi ***The Chosen One***. 
+*Not to be narcisstic*, tapi saat ini aku merasa telah menjadi ***The Chosen One***. 
 
 Aku memiliki *privilege* untuk melakukan riset di bidang yang sangat langka dan dibutuhkan oleh Indonesia. Aku dapat melanjutkan S2 di bidang yang sesusai dengan tujuanku. Dan aku berambisi untuk mengembangkan industri ini yang skalanya masih sangat kecil di Indonesia.
 
-Untuk mengutip Princess Zelda dari *game* favoritku saat ini, *The Legend of Zelda: Tears of The Kingdom*:
+Untuk mengutip perkataan Princess Zelda dari *game* favoritku saat ini, *The Legend of Zelda: Tears of The Kingdom*:
 
 <!-- Gambar Zelda bawa Master Sword sambil ngomong "I know why I am here. It is something only I can do." -->
 
 
 Ibrahim Fadhil Djauhari
+
 (Future) Underwater Robotics Engineer
