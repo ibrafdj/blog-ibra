@@ -17,7 +17,7 @@ draft: true
 
 Jika kalian ingin jawaban yang singkat, jawabannya adalah karena aku ingin mendalami bidang *underwater robotics*.
 
-Jika kalian masih membaca kalimat ini setelah sudah membaca jawaban singkat diatas, aku anggap kalian masih penasaran. Kalian ingin tau kisah lengkap bagaimana seorang Ibra bisa memutuskan untuk kuliah S2 di bidang yang cukup jauh dari latar belakangnya.
+Jika kalian masih membaca kalimat ini setelah sudah membaca jawaban singkat diatas, aku anggap kalian masih penasaran; kalian ingin tau kisah lengkap bagaimana seorang Ibra bisa memutuskan untuk kuliah S2 di bidang yang cukup jauh dari latar belakangnya.
 
 *Well you're in luck*, karena tujuanku menulis tulisan ini adalah:
 - Menceritakan bagaimana aku memilih untuk S2 di bidang *Maritime Engineering*
@@ -68,7 +68,7 @@ Walaupun pada akhirnya aku bekerja *full-time* menjadi seorang *software enginee
 
 Pada tanggal 24 April 2021, 838 meter di bawah perairan laut Bali, kapal selam KRI Nanggala 402 bertemu dengan tempat peristirahatan terakhirnya. Seluruh Indonesia berduka cita atas hilangnya sang kapal selam beserta 53 awaknya. Tanpa peralatan yang memadai untuk melakukan pencarian dalam kedalaman lebih dari 800 meter di bawah air, Indonesia harus bergantung dengan peralatan pinjaman dari para negara tetangga.
 
-Salah satu aset kunci dalam pencarian KRI Nanggala 402 adalah kapal MV *Swift Rescue* milik Angkatan Laut Singapura. Kapal ini merupakan satu-satunya Submarine Rescue Vessel di Asian Tenggara yang dilengkapi oleh Remotely Operated Vehicle (ROV) untuk pencarian kapal selam. Dengan bantuan ROV tersebut, tim pencarian berhasil mendapatkan foto dan video pertama di lokasi tenggelamnya KRI Nanggala 402.
+Salah satu aset kunci dalam pencarian KRI Nanggala 402 adalah kapal MV *Swift Rescue* milik Angkatan Laut Singapura. Kapal ini merupakan satu-satunya Submarine Rescue Vessel di Asia Tenggara yang dilengkapi oleh Remotely Operated Vehicle (ROV) untuk pencarian kapal selam. Dengan bantuan ROV tersebut, tim pencarian berhasil mendapatkan foto dan video pertama di lokasi tenggelamnya KRI Nanggala 402.
 
 Dengan insiden ini, aku tersadar bahwa keterbatasan *underwater robots* di Indonesia sudah menjadi isu keamanan nasional. Dan aku, sebagai seseorang yang telah berkecimpung di bidang ini, tidak bisa tinggal diam.
 
