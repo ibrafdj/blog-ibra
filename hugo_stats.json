@@ -207,6 +207,7 @@
     "ids": [
       "1-what-you-love",
       "2-what-you-are-good-at",
+      "2what-you-are-good-at",
       "3-what-you-can-be-paid-for",
       "4-what-the-world-needs",
       "TableOfContents",
@@ -277,7 +278,7 @@
       "menemukan-panggilan",
       "menjawab-pertanyaan",
       "menyediakan-fasilitas-yang-memadai-untuk-mengimplementasi-sistem-_blended-learning_",
-      "merakit-rangkaian-mengarungi-lautan",
+      "meratapi-masa-depan",
       "merintis-karir",
       "meyakinkan-pilihan",
       "mimpi",
@@ -289,7 +290,9 @@
       "psikomotorik",
       "setting",
       "spoiler-section",
-      "tragedi-di-laut-bali"
+      "tragedi-di-laut-bali",
+      "underwater-robotics",
+      "underwater-robots"
     ]
   }
 }
