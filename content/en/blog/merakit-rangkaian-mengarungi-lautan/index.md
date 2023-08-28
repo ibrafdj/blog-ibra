@@ -31,6 +31,8 @@ Eksplorasi bawah laut adalah kegiatan yang sangat sulit untuk dilakukan manusia.
 
 Oleh karena itulah *underwater robots* dibuat sebagai solusi penjelajahan bawah laut tanpa perlu membahayakan manusia. (???)
 
+*Underwater robots* terdiri dari *Remotely Operated Vehicle* (ROV) dan *Autonomous Underwater Vehicle* (AUV)
+
 <!-- Saat pertama kali diperkenalkan dengan dunia *underwater robotics* melalui riset ITB-HUG, alasanku merasa sangat tertarik dengan bidang ini adalah potensi pemanfaatannya yang besar untuk Indonesia. -->
 
 ## ITB *Hybrid Underwater Glider*
