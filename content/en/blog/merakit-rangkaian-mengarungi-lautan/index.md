@@ -1,17 +1,20 @@
 ---
 author: Ibrahim Fadhil
 title: "Merakit Rangkaian, Mengarungi Lautan"
-description: "Menjelajahi dunia elektroteknik dan perkapalan"
-date: "2023-05-10"
+description: "Perjalanan menyelam ke dunia baru"
+date: "2023-08-31"
 tags: 
   - "indonesian"
 thumbnail: "/blog/kuliah-online-adaptasi-atau-mati.jpg"
 draft: false
 ---
 
-<!-- Foto LOA keterima di Maritime Engineering Soton -->
+{{<img caption="Umm, I can explain."
+src="images/LOA.jpg" >}}
 
-*I know what you're (probably) thinking*. Kenapa seorang Ibrahim Fadhil Djauhari, yang kuliah S1 *Electrical Engineering* dan kerja di bidang *Software Engineering*, malah lanjut kuliah S2 di bidang *Maritime Engineering?*?
+*I know what you're (probably) thinking*. 
+
+Kenapa seorang Ibrahim Fadhil Djauhari, yang kuliah S1 *Electrical Engineering* dan kerja di bidang *Software Engineering*, malah lanjut kuliah S2 di bidang *Maritime Engineering?*?
 
 Jika kalian ingin jawaban yang singkat, jawabannya adalah karena aku ingin mendalami bidang *underwater robotics*.
 
@@ -21,27 +24,52 @@ Jika kalian masih membaca kalimat ini setelah sudah membaca jawaban singkat diat
 
 Sebagai penerima beasiswa [LPDP](https://lpdp.kemenkeu.go.id/en/), aku pun merasa penjelasan tentang tujuan pendidikanku adalah salah satu bentuk pertanggungjawaban dari uang negara yang akan membiayai kuliah S2 ku.
 
-Terlepas dari itu, aku harap tulisanku ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang memikirkan tujuan pendidikan kuliahnya, memikirkan untuk melakukan pergantian karir dari satu bidang ke bidang lain yang berjauhan, dan/atau penasaran dengan bidang yang akan kutekuni ini.
+Terlepas dari itu, aku harap tulisanku ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang memikirkan tujuan pendidikan kuliahnya, merencanakan pergantian karir dari satu bidang ke bidang lain yang berjauhan, dan/atau penasaran dengan bidang yang akan kutekuni ini.
 
 # Menemukan Panggilan
 ## Underwater Robots
 
-Eksplorasi bawah laut adalah kegiatan yang sangat sulit untuk dilakukan manusia. Semakin dalam kita menyelam ke bawah laut; semakin banyak oksigen yang perlu kita simpan, semakin sedikit pencahayaan dari permukaan, dan semakin kuat tekanan yang harus kita lawan. 
-<!-- Sampai sebagian orang pun berargumen bahwa eksplorasi luar angkasa itu jauh lebih mudah dibanding eksplorasi bawah laut. -->
+Eksplorasi bawah laut adalah kegiatan yang sangat sulit untuk dilakukan manusia. Semakin dalam kita menyelam ke bawah laut; semakin banyak oksigen yang perlu kita simpan, semakin sedikit pencahayaan dari permukaan, dan semakin kuat tekanan yang harus kita lawan.
 
-Oleh karena itulah *underwater robots* dibuat sebagai solusi penjelajahan bawah laut tanpa perlu membahayakan manusia. (???)
+Di banyak bidang lain, isu "Suatu saat robot akan menggantikan pekerjaan manusia!" adalah isu eksistensial yang sangat ditentang. Namun untuk menyelam ke bawah lautan, robot akan diagung-agungkan sebagai pahlawan.
 
-*Underwater robots* terdiri dari *Remotely Operated Vehicle* (ROV) dan *Autonomous Underwater Vehicle* (AUV)
+*Underwater robots* dibagi menjadi dua jenis: 
+- *Remotely Operated Vehicle* (ROV)
 
-<!-- Saat pertama kali diperkenalkan dengan dunia *underwater robotics* melalui riset ITB-HUG, alasanku merasa sangat tertarik dengan bidang ini adalah potensi pemanfaatannya yang besar untuk Indonesia. -->
+  Robot yang dikendalikan secara langsung oleh seorang operator dengan menggunakan *remote control*. Umumnya, ROV dilengkapi dengan kabel yang sangat panjang untuk menerima serta mengirimkan data dari dan ke operator.
+
+  ROV dapat melakukan pergerakan dengan presisi tinggi karena dikendalikan langsung oleh seorang operator. Namun jarak pengoperasiannya terbatas oleh panjang kabel yang dimiliki.
+
+{{<img caption="Mission Specialist DEFENDER ROV"
+source="[TIME Business News](https://timebusinessnews.com/what-is-a-remotely-operated-underwater-vehicle-rov-and-what-are-the-utilization-of-rov/)"
+src="https://timebusinessnews.com/wp-content/uploads/Underwater-Vehicle.jpg" >}}
+
+- *Autonomous Underwater Vehicle* (AUV)
+
+  Robot yang dapat bergerak tanpa dikendalikan secara langsung oleh seorang operator. AUV menerima perintah seperti "Bergerak ke koordinat x,y,z" atau "Pertahankan posisi saat ini" kemudian menjalankannya secara otonom. Pergerakan otonom dilakukan AUV berdasarkan pembacaan kondisi diri dan sekitarnya dari sensor-sensor yang dimilikinya. 
+
+  AUV dapat menjalankan misi dalam jarak jauh dan jangka panjang. Namun presisi pergerakannya lebih rendah dan proses pembuatannya lebih rumit dibanding dengan ROV.
+
+{{<img caption="REMUS-600 AUV"
+source="[Ocean Observatories](https://oceanobservatories.org/marine-technologies/robotic-auvs/)"
+src="https://oceanobservatories.org/wp-content/uploads/2015/07/AUV_deployment.jpg" >}}
 
 ## ITB *Hybrid Underwater Glider*
 
-Aku pertama kali mengenal dunia *underwater robotics* saat tingkat akhir kuliahku di Teknik Elektro ITB. Untuk lulus dari jurusanku, aku wajib mengerjakan Tugas Akhir (TA) berupa sebuah *Capstone Design Project* bersama kelompok yang berisi 2-3 orang. Dalam TA ini, kami wajib membuat suatu alat untuk menyelesaikan suatu masalah. Setiap kelompok dapat memilih topik untuk TA-nya dari *list* topik yang diajukan oleh para calon dosen pembimbing.
+Aku pertama kali mengenal dunia *underwater robotics* saat aku kuliah tingkat akhir di Teknik Elektro ITB. Untuk lulus dari jurusanku, aku wajib mengerjakan Tugas Akhir (TA) berupa sebuah *Capstone Design Project* bersama kelompok yang berisi 2-3 orang. Dalam TA ini, kami wajib membuat suatu alat untuk menyelesaikan suatu masalah. Setiap kelompok dapat memilih topik untuk TA-nya dari *list* topik yang diajukan oleh para calon dosen pembimbing.
 
-<!-- Gambar Model 3D ITB-HUG -->
+Diantara puluhan topik TA yang tersedia, topik yang paling menarik perhatianku adalah topik tentang ITB *Hybrid Underwater Glider* (ITB-HUG). Riset tentang AUV ini telah dimulai di STEI ITB sejak sekitar tahun 2017. Dibawah bimbingan Prof. Bambang Riyanto Trilaksono, riset ini dijalankan oleh gabungan tim mahasiswa S1, S2, dan S3. 
 
-Diantara puluhan topik TA yang tersedia, topik yang paling menarik perhatianku adalah topik tentang ITB *Hybrid Underwater Glider* (ITB-HUG). HUG adalah suatu jenis *Autonomous Underwater Vehicle* (AUV), yaitu wahana yang dapat bergerak dalam air tanpa awak untuk melakukan pemetaan bawah laut. Riset AUV, termasuk riset ITB-HUG, sendiri telah dimulai di ITB sejak sekitar tahun 2017. Riset ini dikerjakan oleh gabungan tim mahasiswa S1, S2, dan S3 dengan bimbingan dari Prof. Bambang Riyanto Trilaksono.
+{{<img caption="<i>I'm not allowed to publicly show a picture of the ITB-HUG, so here's an (old) 3D model of it</i> :)"
+src="images/ITB_HUG.jpg" >}}
+
+Ketertarikanku ke ITB-HUG berakar dari besarnya potensi pemanfaatan AUV di Indonesia. Sebagai negara maritim dengan lautan yang sangat luas, aku percaya bahwa Indonesia perlu melakukan eksplorasi bawah laut dalam skala besar untuk menjaga wilayahnya dan kelestarian lautannya.
+
+HUG merupakan AUV yang dapat bergerak dalam dua mode pergerakan, *propulsion* dan *glide*. Dalam mode *propulsion*, HUG bergerak menggunakan dorongan dari *thruster* (Baling-baling) yang kemudian disetir oleh *rudder* (Sirip). Dalam mode *glide*, HUG bergerak secara *gliding* dengan menenggelamkan dan mengapungkan diri berulang kali dalam suatu siklus.
+
+{{<img caption="Contoh gerakan <i>glide</i> yang dapat dilakukan oleh AUV"
+source="[SeaGlide](http://seaglide.org/about)"
+src="https://images.squarespace-cdn.com/content/v1/52f69916e4b0393d858e6f9f/1391897542872-AHSFKSCSSGJ9WF7VMAZ4/GliderMecnaicsOverview.png?format=2500w" >}}
 
 Dari membaca deskripsi topik ini saja, aku tau topik ini akan sangat sulit. Membuat robot saja sudah kompleks, apalagi robot yang bisa bergerak di bawah air?
 
@@ -49,7 +77,7 @@ Tapi... Kapan lagi bisa ngoprek kapal selam robot, kan?
 
 Berbekal keyakinan penuh atas kemampuan kami, pengerjaan TA ITB-HUG kami dimulai. Saat kami pertama bergabung dengan tim riset ITB-HUG, seluruh komponen elektronik dan mekanik dari ITB-HUG sudah selesai dirangkai menjadi suatu wahana utuh. Lalu, apa yang sebenarnya perlu kami kerjakan sebagai TA kami?
 
-Walaupun secara komponen sudah lengkap, wahana ITB-HUG belum memiliki kemampuan untuk bergerak secara otonom (Tanpa kendali manusia). Target TA kami adalah untuk membuat sistem yang dapat menggerakkan ITB-HUG secara otonom mengikuti urutan *waypoint* yang diberikan oleh pengguna.
+Walaupun komponennya sudah lengkap, wahana ITB-HUG belum memiliki kemampuan untuk bergerak secara otonom (Tanpa kendali manusia). Target TA kami adalah untuk membuat sistem yang dapat menggerakkan ITB-HUG secara otonom mengikuti urutan *waypoint* yang diberikan oleh pengguna.
 
 Untuk bisa mencapai tujuan ini, terdapat tiga sistem yang perlu diimplementasikan di ITB-HUG: 
 - Sistem *Navigation* yang berfungsi untuk mengetahu posisi, orientasi, dan akselerasi wahana berdasarkan pembacaan data-data sensor 
@@ -58,7 +86,7 @@ Untuk bisa mencapai tujuan ini, terdapat tiga sistem yang perlu diimplementasika
 
 Setelah melalui proses yang sulit selama satu tahun mengerjakan TA ini, kami [berhasil](https://digilib.itb.ac.id/gdl/download/214151) mendesain dan mengimplementasi sistem *Navigation*, *Guidance*, dan *Control* dalam *software* dan *hardware* di wahana ITB-HUG. Namun karena kondisi pandemi COVID-19, implementasi kami terbatas dengan pengujian [Hardware-in-the-loop Simulation (HILS)](https://www.hil-simulation.com/images/stories/Documents/Introduction%20to%20Hardware-in-the-Loop%20Simulation.pdf), bukan pengujian langsung di laut. 
 
-Sebelum aku lulus dari ITB, dosen pembimbing TA-ku menawarkan aku untuk tetap aktif membantu riset ITB-HUG. Karena ketertarikan aku terhadap bidang *underwater robotics* ini, sejak saat itu aku memutuskan untuk terus menjadi asisten riset dalam proyek ITB-HUG.
+Sebelum aku lulus dari ITB, dosen pembimbing ku menawarkan aku untuk melanjutkan riset ITB-HUG ini. Walaupun aku belum ada niat untuk mendalami bidang *underwater robotics*, aku sadar bahwa bidang ini sangat menarik dan melakukan riset di bidang ini adalah kesempatan yang sangat langka. Sejak saat itulah aku memutuskan untuk bekerja menjadi asisten riset dalam proyek ITB-HUG.
  
 ## Merintis Karir
 
@@ -66,24 +94,29 @@ Dalam hari-hari menjelang wisuda, berbagai ide tentang rencana karirku kedepanny
 
 Karena pada saat itu aku belum menemukan alasan kuat untuk kuliah S2, aku pun mencoba melamar pekerjaan dalam berbagai bidang dan posisi. Tujuanku adalah untuk bekerja sambil mengeksplor berbagai bidang baru sebelum menentukan jalur karir jangka panjangku. Selain  itu, tentu aku juga melakukannya karena ingin "tebar jalar" agar tidak menjadi pengangguran (Alasan tipikal *job-seeker fresh graduate*).
 
-Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi lain berhasil merayuku untuk bekerja *full-time* sebagai *software engineer*. Walaupun berkarir di bidang ini cukup nyaman dan sangat mungkin untuk diperdalam, pada akhirnya aku belum merasa "terpanggil" disini. Aku tidak menemukan masalah spesifik yang ingin aku selesaikan atau keahlian tertentu yang ingin aku kuasai sebagai *software engineer*. Dari sinilah aku sadar bahwa karirku di bidang ini hanyalah sementara, hanya bagian dari proses ekplorasiku untuk menemukan pekerjaan sebenernya yang ingin aku tekuni.
+{{<img caption="Hari terakhirku sebagai <i>software engineer</i> di <i>Samsung Research Indonesia</i> (SRIN)"
+src="images/SRIN.jpg" >}}
+
+Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi lain berhasil merayuku untuk bekerja *full-time* sebagai *software engineer*. Walaupun berkarir di bidang ini cukup nyaman dan sangat berpotensi untuk diperdalam, pada akhirnya aku belum merasa "terpanggil" disini. Aku tidak menemukan masalah spesifik yang ingin aku selesaikan atau keahlian tertentu yang ingin aku kuasai sebagai *software engineer*. Dari sinilah aku sadar bahwa karirku di bidang ini hanyalah sementara, ini hanya bagian dari proses ekplorasiku untuk menemukan pekerjaan sebenernya yang ingin aku tekuni.
 
 Selama bekerja menjadi *software engineer*, aku tetap berkecimpung di dunia *underwater robotics* sebagai *part-time research assistant* di riset ITB-HUG. Pada saat itu, ide untuk memfokuskan karirku spesifik ke bidang *underwater robotics* memang sempat melintas di pikiran. Namun, keyakinanku untuk menyelam di bidang *underwater robotics* baru memuncak karena suatu kejadian pada awal tahun 2021...
 
 ## Tragedi di Laut Bali
-<!-- Berita Insiden KRI Nanggala 402 -->
+{{<img caption="KRI Nanggala 402"
+source="[AP](https://apnews.com/article/indonesia-missing-submarine-kri-nanggala-402-0f713512d5e53131863a67c99016db64)"
+src="https://dims.apnews.com/dims4/default/188aaba/2147483647/strip/true/crop/3000x1992+0+0/resize/1440x956!/format/webp/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F7609fe7410b84049ac3d03b1c597fc45%2F3000.jpeg" >}}
 
-Pada tanggal 24 April 2021, 838 meter di bawah perairan laut Bali, kapal selam KRI Nanggala 402 bertemu dengan tempat peristirahatan terakhirnya. Seluruh Indonesia berduka cita atas hilangnya sang kapal selam beserta 53 awaknya. Tanpa peralatan yang memadai untuk melakukan pencarian dalam kedalaman lebih dari 800 meter di bawah air, Indonesia harus bergantung dengan peralatan pinjaman dari para negara tetangga.
+Pada tanggal 24 April 2021, 838 meter di bawah perairan laut Bali, kapal selam KRI Nanggala 402 menemukan tempat peristirahatan terakhirnya. Seluruh Indonesia berduka cita atas hilangnya sang kapal selam beserta 53 awaknya. Tanpa peralatan yang memadai untuk melakukan pencarian dalam kedalaman lebih dari 800 meter di bawah air, Indonesia harus bergantung dengan peralatan pinjaman dari para negara tetangga.
 
-Salah satu aset kunci dalam pencarian KRI Nanggala 402 adalah kapal [MV Swift Rescue](https://katadata.co.id/sortatobing/berita/6083c1b7f0536/mv-swift-rescue-kapal-milik-singapura-yang-ikut-mencari-kri-nanggala) milik Angkatan Laut Singapura. Kapal ini merupakan satu-satunya *Submarine Rescue Vessel* di Asia Tenggara yang dilengkapi oleh sebuah *Remotely Operated Vehicle* (ROV) untuk pencarian kapal selam. Dengan bantuan ROV tersebut, tim pencarian berhasil mendapatkan foto dan video pertama di lokasi tenggelamnya KRI Nanggala 402.
+Salah satu aset kunci dalam pencarian KRI Nanggala 402 adalah kapal [MV Swift Rescue](https://katadata.co.id/sortatobing/berita/6083c1b7f0536/mv-swift-rescue-kapal-milik-singapura-yang-ikut-mencari-kri-nanggala) milik Angkatan Laut Singapura. Kapal ini merupakan satu-satunya *Submarine Rescue Vessel* di Asia Tenggara yang dilengkapi oleh sebuah ROV untuk pencarian kapal selam. Dengan bantuan ROV tersebut, tim pencarian berhasil mendapatkan foto dan video pertama di lokasi tenggelamnya KRI Nanggala 402.
 
 {{<img caption="Kronologi Penemuan KRI Nanggala 402"
-source="[TEMPO](https://grafis.tempo.co/read/2658/kronologi-kri-rigel-dan-mv-swift-rescue-temukan-kri-nanggala-402)"
-src="https://cdn.tmpo.co/flash/data/flashgrafis/2658/20210426kronologi-nanggala-ditemukan.jpg" >}}
+source="[ANTARANEWS](https://www.antaranews.com/infografik/2123446/kronologi-penemuan-kri-nanggala-402)"
+src="https://img.antaranews.com/cache/infografis/1140x2100/2021/04/26/20210426kronologi-nanggala-ditemukan.jpg?quality=85" >}}
 
-Dengan insiden ini, aku tersadar bahwa keterbatasan *underwater robots* di Indonesia sudah menjadi isu keamanan nasional. Dan aku, sebagai seseorang yang telah berkecimpung di bidang ini, tidak bisa tinggal diam.
+Dengan insiden ini, aku tersadar bahwa terbatasnya keahlian *underwater robotics* di Indonesia sudah menjadi isu keamanan nasional; dan aku, sebagai seseorang yang telah berkecimpung di bidang ini, tidak bisa tinggal diam.
 
-Saat seluruh penjuru tanah air berduka, aku membulatkan tekadku untuk mendalami bidang *underwater robotics* dengan melanjutkan pendidikanku ke jenjang yang lebih tinggi (S2).
+Saat seluruh penjuru tanah air berduka, aku membulatkan tekadku untuk mendalami bidang *underwater robotics* dengan melanjutkan pendidikanku ke jenjang yang lebih tinggi.
 
 # Meyakinkan Pilihan
 
@@ -91,7 +124,7 @@ Untuk meyakinkan diri bahwa tujuan hidupku adalah menjadi *underwater robotics e
 
 ## *Ikigai*
 
-{{<img caption="Kronologi Penemuan KRI Nanggala 402"
+{{<img caption="Diagram <i>Ikigai</i>"
 source="[TheMindFool](https://themindfool.com/ikigai/)"
 src="https://themindfool.com/wp-content/uploads/2020/09/Ikigai_doagram-15-15-1024x1024.jpg" >}}
 
@@ -106,37 +139,45 @@ Dengan mencari irisan dari empat aspek tersebut, kita dapat menemukan tujuan hid
 
 ### 1. *What you love*
 
-Aku telah dikenalkan dengan teknologi seperti komputer dan *video game console* sejak kecil. Sebagai anak kecil, kemampuan untuk bermain beragam *video game* dengan teknologi ini sangat menarik perhatianku. Seiring aku tumbuh, rasa keingintahuanku tentang bagaimana cara teknologi bekerja, khususnya komputer, terus meningkat. Aku pun berandai-andai untuk suatu saat bisa membuat teknologi canggih seperti senjata laser dan mesin waktu. Keinginan inilah yang pada akhirnya akan membawaku kuliah di Teknik Elektro ITB.
+Aku telah dikenalkan dengan **teknologi** seperti komputer dan *video game console* sejak kecil. Sebagai anak kecil, kemampuan untuk bermain beragam *video game* dengan teknologi ini sangat menarik perhatianku. Seiring aku tumbuh, rasa keingintahuanku tentang bagaimana cara teknologi bekerja, khususnya komputer, terus meningkat. Aku pun berandai-andai untuk suatu saat bisa membuat teknologi canggih seperti senjata laser dan mesin waktu. Keinginan inilah yang pada akhirnya akan membawaku kuliah di Teknik Elektro ITB.
 
-Puncak aktualiasi diri bagi seorang pecinta teknologi adalah membuat teknologi baru. Di sisi lain, permasalahan di dunia tidak ada habisnya. Oleh karena itu, aku yakin bahwa tujuan hidupku adalah membuat teknologi sebagai solusi dari sebagian permasalahan dunia.
+Puncak aktualiasi diri bagi seorang pecinta teknologi adalah membuat teknologi baru. Di saat bersamaan, permasalahan di dunia tidak ada habisnya. Oleh karena itu, aku yakin bahwa tujuan hidupku adalah **membuat teknologi untuk menyelesaikan sebagian permasalahan dunia**.
 
 ### 2. *What you are good at*
 
-Karena ketertarikanku dengan teknologi dan keterpaparanku dengan film *science-fiction*, aku telah minat dengan ilmu Fisika dan Matematika sejak kecil. Minat membantuku mendapatkan nilai yang cukup baik dalam dua mata pelajaran ini selama sekolah dan mendorongku untuk mempelajari bidang *Engineering* saat kuliah.
+Karena ketertarikanku dengan teknologi dan keterpaparanku dengan film *science-fiction*, aku telah minat dengan ilmu **Fisika dan Matematika** sejak kecil. Minat ini membantuku mendapatkan nilai yang cukup baik dalam dua mata pelajaran ini selama sekolah dan mendorongku untuk mempelajari bidang *Engineering* saat kuliah.
 
-Walaupun aku tidak menguasai pelajaran Fisika & Matematika, aku yakin dua bidang ini adalah bidang yang paling aku pahami diantara semua bidang keilmuan lainnya. Kedua bidang ini adalah pondasi dari segala ilmu *Engineering* yang telah dan akan aku pelajari, baik itu ilmu Teknik Elektro, Informatika, maupun Perkapalan.
+Walaupun aku tidak menguasai pelajaran Fisika & Matematika, aku yakin dua keilmuan ini adalah bidang yang paling aku pahami diantara bidang keilmuan lainnya. Kedua bidang ini adalah pondasi dari segala ilmu *Engineering* yang telah dan akan aku pelajari, baik itu ilmu Teknik Elektro, Informatika, maupun Perkapalan.
 
 ### 3. *What you can be paid for*
 
-Secara umum, bidang STEM (*Science, Technology, Engineering, and Mathematics*) adalah salah satu bidang keilmuan dengan [gaji paling tinggi](https://cew.georgetown.edu/cew-reports/valueofcollegemajors/) di dunia. Dengan aku bekerja di bidang ini; baik itu sebagai *Electrical*, *Software*, atau *Maritime Engineer*; seharusnya aku tidak akan kesulitan secara finansial (aminnn).
+Secara umum, bidang STEM (*Science, Technology, Engineering, and Mathematics*) adalah salah satu bidang keilmuan dengan gaji paling tinggi di dunia[^1]. Maka dengan aku berkarir di bidang **Engineering**; baik itu sebagai *Electrical*, *Software*, atau *Maritime Engineer*; seharusnya aku tidak akan kesulitan secara finansial (*aminnn*).
 
 ### 4. *What the world needs*
 
-Sebagian besar topografi bawah laut Indonesia belum dipetakan (???). Sebagian besar dasar laut di dunia juga belum terpetakan.
-Penguasaan terhadap *underwater robotics* berperan penting untuk pertahanan dan keamanan negara (???)
+Pada tahun 2023, tercatat bahwa baru 24.9% dari dasar laut Bumi telah dipetakan dalam resolusi yang memadai[^2]. Padahal, pemetaan bawah laut atau batimetri memiliki berbagai aplikasi penting seperti pembuatan *nautical chart* untuk navigasi kapal, pengamatan pergeseran tektonik, dan pembangunan infrastruktur *offshore*. 
 
-Saat ini, hanya ada satu perusahaan yang bergerak di bidang *underwater robotics* di Indonesia: Robo Marine Indonesia. Sedangkan dari sisi akademik, hanya ada 4 universitas yang melakukan riset *underwater robotics*, khususnya tentang AUV (Termasuk riset ITB-HUG).
+Namun seperti yang telah kutuliskan sebelumnya, eksplorasi bawah laut sangat sulit untuk dilakukan manusia. Inilah mengapa diperlukan solusi untuk **melakukan pemetaan bawah laut secara aman dan efisien**. Disinilah *underwater robots* hadir sebagai salah satu solusinya.
 
-Aku, sebagai orang yang ber-*privilege* mendapatkan kesempatan melakukan riset penting dalam bidang yang sangat langka ini (ITB-HUG), mengemban tanggung jawab untuk terus mengembangkan bidang *underwater robotics* Indonesia.
+Saat ini ahli dalam bidang ini di Indonesia masih terbatas. Hanya ada satu perusahaan yang bergerak di bidang *underwater robotics* di Indonesia: Robo Marine Indonesia. Sedangkan dari sisi akademik, hanya ada 4 universitas yang melakukan riset *underwater robotics* tentang AUV (Termasuk riset ITB-HUG).
 
-Hasilnya, aku membuat diagram *Ikigai* sebagai berikut (Disederhanakan):
+Aku, sebagai orang yang ber-*privilege* mendapatkan kesempatan melakukan riset penting (ITB-HUG) dalam bidang yang sangat langka ini (*Underwater robotics*), mengemban tanggung jawab untuk terus mengembangkan bidang *underwater robotics* Indonesia.
 
-<!-- Gambar Ikigai Ibra -->
+### Hasil
 
-Proses refleksi dalam mencari *Ikigai* ini meyakinkanku bahwa menjadi *underwater robotics engineer* adalah tujuan hidup paling cocok untukku.
+Dengan menjawab empat pertanyaan di atas, aku membuat diagram *Ikigai* sebagai berikut:
+
+{{<img caption="Ilustrasi <i>Ikigai</i> Ibra"
+src="images/Ikigai_Ibra.jpg" >}}
+
+Proses refleksi dalam mencari *Ikigai* ini meyakinkanku bahwa menjadi *underwater robotics engineer* adalah tujuan hidup yang cocok untukku.
 
 # Membangun Impian
 ## Mimpi
+
+{{<img caption="<i>What motivates me to keep pushing forward</i>"
+source="[Pinterest](https://www.pinterest.com/pin/488359153320778468/)"
+src="https://i.pinimg.com/originals/bf/41/cd/bf41cdcb78d70e939578774053efa147.jpg" >}}
 
 Sejak kecil, aku sering membaca kisah tentang orang-orang sukses dunia. Dua orang diantara mereka meninggalkan kisah yang paling berkesan bagiku: Bill Gates & Steve Jobs. Kedua pengusaha muda yang "seangkatan" ini terkenal dengan kesuksesannya membangun Microsoft dan Apple, dua nama besar dari *Silicon Valley* yang masih disegani dunia sampai hari ini. Terlepas dari beragam kontroversi mereka, kemampuan mereka untuk membuat suatu **inovasi teknologi** kemudian mengembangkan inovasi tersebut menjadi **perusahaan penghasil teknologi** telah menginspirasiku sejak dulu untuk mengikuti jalan mereka.
 
@@ -154,15 +195,21 @@ Karena bidang *underwater robotics* adalah keilmuan yang multidisiplin, aku perl
 
 Konsep *T-shaped person* beserta turunannya seperti *M-shaped person* sering digunakan untuk mendeskripsikan tingkat keahlian seseorang. Garis horizontal dalam "T" menggambarkan bidang-bidang keahlian yang berbeda, sedangkan garis vertikal menggambarkan kedalaman pemahaman seseorang di salah satu bidang tersebut.
 
+{{<img caption="Penjelasan <i>I-shaped</i>, <i>T-shaped</i>, dan <i>M-shaped person</i>"
+source="[Mäd](https://www.mad.co/insights/the-mad-m-shaped-person)"
+src="https://assets-global.website-files.com/62454cf2c3e61dfda26dfade/624aa4164c04f5a361442550__m-shape-02.png" >}}
+
 Seseorang disebut *T-shaped* saat ia memiliki keahlian dasar dalam banyak bidang, namun juga memiliki keahlian mendalam di salah satu bidang tersebut. Sebagai contoh, inilah gambaran keahlianku sebagai *T-shaped person* saat aku lulus kuliah S1 Teknik Elektro ITB:
 
-<!-- Gambar T-shaped Ibra di Teknik Elektro -->
+{{<img caption="Ilustrasi <i>T-Shaped skills</i> Ibra"
+src="images/T.jpg" >}}
 
 Saat aku baru lulus S1, aku memiliki dasar keahlian matematika dan fisika yang dimiliki mahasiswa teknik secara umum, ditambah keahlian mendalam di bidang teknik elektro yang kupelajari dari jurusanku.
 
 Saat aku mulai berkarir sebagai *Software Engineer*, bidang keahlian yang kudalami bertambah. Keahlianku sekarang dapat digambarkan seperti berikut:
 
-<!-- Gambar π-shaped Ibra -->
+{{<img caption="Ilustrasi <i>π-Shaped skills</i> Ibra"
+src="images/Pi.jpg" >}}
 
 Seseorang dengan bentuk keahlian seperti diatas sering disebut sebagai *π-shaped person* (Karena bentuknya mirip simbol pi atau π).
 
@@ -182,9 +229,10 @@ Sebagai *engineer* yang akan bergerak dalam bidang *underwater robotics*, teknik
 
 Oleh karena itu, aku berharap setelah aku lulus S2 dan bekerja di bidang *underwater robotics* aku akan memiliki keahlian seperti berikut:
 
-<!-- Gambar M-Shaped Ibra -->
+{{<img caption="Ilustrasi <i>M-Shaped skills</i> Ibra"
+src="images/M.jpg" >}}
 
-Seseorang dengan keahlian mendalam di tiga bidang inilah yang disebut sebagai *M-Shaped person*. Inilah gambaran keahlian diriku yang menjadi pedomanku untuk merealisasikan impianku.
+Seseorang dengan keahlian mendalam di tiga bidang inilah yang disebut sebagai *M-Shaped person*. Inilah gambaran keahlian diriku yang menjadi pedomanku untuk merealisasikan impianku menjadi *underwater robotics engineer*.
 
 
 # Meratapi Masa Depan
@@ -193,20 +241,23 @@ Di banyak kisah fiksi, terdapat sebuah *trope* umum bernama ***The Chosen One***
 
 Baik itu **Harry Potter** yang ditakdirkan mengalahkan Voldemort karena ia selamat dari serangannya saat kecil; **Frodo Baggins** yang ditakdirkan mengalahkan Sauron karena menemukan *The One Ring* milik pamannya; maupun **Luke Skywalker** yang ditakdirkan mengalahkan *The Emperor* karena kesaktiannya sebagai anak rahasia Anakin Skywalker; semua karakter tersebut menjadi ***The Chosen One*** karena mereka berada di suatu tempat, waktu, dan kondisi yang tepat.
 
-*Not to be narcisstic*, tapi saat ini aku merasa aku juga telah menjadi ***The Chosen One***. *It's as if everything I have achieved has led to this moment*. 
+*Not to be narcisstic*, tapi aku juga merasa telah menjadi ***The Chosen One***. \
+*I feel as if everything I have achieved has led to this moment*. 
 
-Aku memiliki *privilege* untuk melakukan riset di bidang yang sangat langka dan dibutuhkan oleh Indonesia. 
+Aku yang memiliki *privilege* untuk melakukan riset di bidang *underwater robotics* yang sangat langka dan dibutuhkan oleh Indonesia. 
 
-Aku telah mendapatkan kesempatan untuk melanjutkan kuliah S2 di bidang yang sesusai dengan tujuanku. 
+Aku yang telah mendapatkan kesempatan untuk melanjutkan kuliah S2 di bidang yang sesuai dengan impianku. 
 
-Aku mendapatkan dukungan beasiswa dari negara untuk meraih tujuan pendidikanku. 
+Aku yang mendapatkan dukungan beasiswa dari negara untuk meraih tujuan pendidikanku. 
 
-Aku yang bermimpi sejak kecil untuk menjadi pengusaha, sebuah mimpi yang dapat direalisaikan dengan membangun perusahaan *underwater robotics* nanti.
+Dan aku yang sejak kecil bermimpi untuk menjadi pengusaha bidang teknologi.
 
 Maka kalau bukan aku, siapa lagi? 
 
-<!-- Gambar Zelda bawa Master Sword sambil ngomong "I know why I am here. It is something only I can do." -->
+{{<img caption="<i>I feel you, Zelda</i>"
+source="<i>The Legend of Zelda: Tears of the Kingdom</i>"
+src="images/Zelda.jpg" >}}
 
-Ibrahim Fadhil Djauhari
+[^1]: Carnevale, A. P., Cheah, B., & Hanson, A. (2015). The Economic Value of College Majors. Georgetown University Center on Education and the Workforce. Retrieved August 31, 2023, from https://repository.library.georgetown.edu/handle/10822/1050288
 
-(Future) Underwater Robotics Engineer
+[^2]: Seabed 2030. (2023, June 29). Our Mission - Seabed 2030. Retrieved August 31, 2023, from https://seabed2030.org/our-mission/
