@@ -1,5 +1,5 @@
 ---
-author: Ibrahim Fadhil
+author: Ibrahim Fadhil Djauhari
 title: "Kenapa Zahra?"
 description: "Alasanku memilih Zahra Khairunnisa"
 date: "2023-04-18"

@@ -1,5 +1,5 @@
 ---
-author: Ibrahim Fadhil
+author: Ibrahim Fadhil Djauhari
 title: "Kuliah Online: Adaptasi atau Mati"
 description: "Tantangan era baru pendidikan"
 date: "2020-08-12"

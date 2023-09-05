@@ -1,5 +1,5 @@
 ---
-author: Ibrahim Fadhil
+author: Ibrahim Fadhil Djauhari
 title: About Me
 date: 2023-03-28
 description:

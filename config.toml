@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "A Simple Mind"
-      introSubtitle = "Where the simplest thoughts prosper. Written in either English or Indonesian."
+      introSubtitle = "Where the simplest thoughts prosper"
       introPhoto = "/ibra.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
