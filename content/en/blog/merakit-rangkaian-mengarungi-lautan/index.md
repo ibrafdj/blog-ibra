@@ -21,9 +21,9 @@ Kalau jawaban panjangnya? *Well I'm glad you asked, because that's exactly why I
 
 Selain untuk menjawab pertanyaan yang sering ditanyakan orang lain, harapanku tulisan ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang **merencanakan tujuan kuliahnya** (Terutama merencanakan kuliah S2/S3 namun jurusan S1-nya berbeda jauh), **merencanakan pergantian karir** antara dua bidang yang berbeda, dan/atau **penasaran dengan bidang *underwater robotics*** yang akan kutekuni ini.
 
-Sebagai penerima beasiswa [LPDP](https://lpdp.kemenkeu.go.id/en/), aku pun merasa penjelasan tentang tujuan pendidikanku adalah salah satu bentuk pertanggungjawaban dari uang negara yang akan membiayai kuliah S2 ku.
+Sebagai penerima beasiswa [LPDP](https://lpdp.kemenkeu.go.id/en/), aku pun merasa penjelasan tentang tujuan pendidikanku adalah salah satu bentuk pertanggungjawaban dari uang negara yang akan membiayai kuliah S2-ku.
 
-Perjalananku "pindah jurusan" dan *"career switch"* ini dimulai dari kisah bagaimana proses aku **menemukan "panggilan" untuk mendalami bidang *underwater robotics***, kemudian proses refleksi diri yang kulakukan untuk **meyakinkan diri atas tujuan hidup yang telah kupilih**, dilanjut dengan proses aku **membangun impian yang ingin kucapai dan rencana merealisasikannya melalui *maritime engineering***, dan ditutup dengan **meratapi perjalananku sejauh ini dan yang akan datang pada masa depan**.
+Perjalananku "pindah jurusan" dan *"career switch"* ini dimulai dari kisah bagaimana proses aku **menemukan "panggilan" untuk mendalami bidang *underwater robotics***, kemudian proses refleksi diri yang kulakukan untuk **meyakinkan diri atas tujuan hidup yang telah kupilih**, dilanjut dengan proses aku **membangun impian yang ingin kucapai dan rencana merealisasikannya**, dan ditutup dengan **merefleksikan perjalananku sejauh ini**.
 
 # Menemukan Panggilan
 
@@ -88,7 +88,7 @@ Untuk bisa mencapai tujuan ini, terdapat tiga sistem yang perlu diimplementasika
 - Sistem *Guidance* yang berfungsi untuk memandu atau "menyetir" arah gerak wahana untuk menuju suatu *waypoint*
 - Sistem *Control* yang berfungsi untuk menggerakkan wahana sesuai arah gerak yang ditentukan sistem *guidance*
 
-Setelah melalui proses yang sulit selama satu tahun mengerjakan TA ini, kami [berhasil](https://digilib.itb.ac.id/gdl/download/214151) mendesain dan mengimplementasi sistem *Navigation*, *Guidance*, dan *Control* dalam *software* dan *hardware* di wahana ITB-HUG. Namun karena kondisi pandemi COVID-19, implementasi kami terbatas dengan pengujian [Hardware-in-the-loop Simulation (HILS)](https://www.hil-simulation.com/images/stories/Documents/Introduction%20to%20Hardware-in-the-Loop%20Simulation.pdf), bukan pengujian langsung di laut.
+Setelah melalui proses yang sulit selama satu tahun mengerjakan TA ini, kami [berhasil](https://digilib.itb.ac.id/gdl/download/214151) mendesain dan mengimplementasi sistem *Navigation*, *Guidance*, dan *Control* dalam *software* dan *hardware* di wahana ITB-HUG. Walaupun karena kondisi pandemi COVID-19 implementasi kami terbatas dengan pengujian *Hardware-in-the-loop Simulation*, bukan pengujian langsung di laut.
 
 Sebelum aku lulus dari ITB, dosen pembimbing ku menawarkan aku untuk melanjutkan riset ITB-HUG ini. Walaupun aku belum ada niat untuk mendalami bidang *underwater robotics*, aku sadar bahwa bidang ini sangat menarik dan melakukan riset di bidang ini adalah kesempatan yang sangat langka. Sejak saat itulah aku memutuskan untuk bekerja menjadi asisten riset dalam proyek ITB-HUG.
 
@@ -101,7 +101,7 @@ Karena pada saat itu aku belum menemukan alasan kuat untuk kuliah S2, aku pun me
 {{<img caption="Hari terakhirku sebagai <i>software engineer</i> di <i>Samsung Research Indonesia</i> (SRIN)"
 src="images/SRIN.jpg" >}}
 
-Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi lain berhasil merayuku untuk bekerja *full-time* sebagai *software engineer*. Walaupun berkarir di bidang ini cukup nyaman dan sangat berpotensi untuk diperdalam, pada akhirnya aku belum merasa "terpanggil" disini. Aku tidak menemukan masalah spesifik yang ingin aku selesaikan atau keahlian tertentu yang ingin aku kuasai sebagai *software engineer*. Dari sinilah aku sadar bahwa karirku di bidang ini hanyalah sementara, ini hanya bagian dari proses ekplorasiku untuk menemukan pekerjaan sebenernya yang ingin aku tekuni.
+Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi lain berhasil merayuku untuk bekerja *full-time* sebagai *software engineer*. Walaupun berkarir di bidang ini cukup nyaman dan sangat berpotensi untuk diperdalam, pada akhirnya aku belum merasa "terpanggil" disini. Aku tidak menemukan masalah spesifik yang ingin aku selesaikan atau keahlian tertentu yang ingin aku kuasai sebagai *software engineer*. Dari sinilah aku sadar bahwa karirku di bidang ini hanyalah pemberhentian sementara. Berkarir di bidang ini merupakan dari proses ekplorasiku untuk menemukan pekerjaan sebenernya yang ingin aku tekuni.
 
 Selama bekerja menjadi *software engineer*, aku tetap berkecimpung di dunia *underwater robotics* sebagai *part-time research assistant* di riset ITB-HUG. Pada saat itu, ide untuk memfokuskan karirku spesifik ke bidang *underwater robotics* memang sempat melintas di pikiran. Namun, keyakinanku untuk menyelam di bidang *underwater robotics* baru memuncak karena suatu kejadian pada awal tahun 2021...
 
@@ -181,7 +181,7 @@ Proses refleksi dalam mencari *Ikigai* ini meyakinkanku bahwa menjadi *underwate
 
 Perlu jadi catatan bahwa proses merancang tujuan hidup adalah proses yang akan **berjalan terus seumur hidup**. ***It's completely fine*** untuk merasa belum 100% yakin dengan tujuan hidup yang kita pilih saat ini. Tujuan kita bisa berubah seiring kita merasakan pengalaman baru, memasuki lingkungan baru, bertemu orang baru, atau menyadari hal-hal baru. 
 
-Mengisi diagram *ikigai* di atas pun seperti itu. Dulu diagram *ikigai*-ku belum sedetil dan selengkap diagram di atas. Namun seiring berjalannya waktu, melalui segala kejadian yang kutulis di bagian [**Menemukan Panggilan**](#menemukan-panggilan), satu per satu lingkaran di diagram *ikigai*-ku semakin terisi. Sampai pada akhirnya aku cukup yakin dengan tujuan hidup yang kupilih.
+Mengisi diagram *ikigai* di atas pun seperti itu. Dulu diagram *ikigai*-ku belum sedetil dan selengkap diagram di atas. Namun seiring berjalannya waktu, melalui segala kejadian yang kutulis di bagian [Menemukan Panggilan](#menemukan-panggilan), satu per satu lingkaran di diagram *ikigai*-ku semakin terisi. Sampai pada akhirnya aku yakin dengan tujuan hidup yang kupilih.
 
 # Membangun Impian
 
@@ -203,9 +203,9 @@ Melihat kondisi industri *underwater robotics* yang masih sangat kecil di Indone
 
 Jika memang tidak memungkinkan untuk membangun perusahaan baru, aku tetap berambisi menjadi CTO / VP Engineering dari perusahaan *underwater robotics* eksisting agar dapat mengembangkannya lebih jauh.
 
-Aku sadar industri ini memiliki *barrier of entry* yang sangat tinggi. Akan diperlukan usaha dan waktu yang tidak sedikit untuk bisa merealisasikan mimpi tersebut. Oleh karena itu, langkah pertamaku adalah untuk menempuh pendidikan S2 untuk mendalami keahlianku di bidang *underwater robotics*. Setelah lulus, aku akan bekerja di industri ini sambil melanjutkan riset ITB-HUG. Harapanku adalah aku dapat mulai menginisiasi perusahaan baru ku dalam 10 tahun setelah aku lulus S2.
+Aku sadar industri ini memiliki *barrier of entry* yang sangat tinggi. Akan diperlukan usaha dan waktu yang tidak sedikit untuk bisa merealisasikan mimpi tersebut. Oleh karena itu, langkah pertamaku adalah untuk **menempuh pendidikan S2** untuk mendalami keahlianku di bidang *underwater robotics*. Setelah lulus, aku akan bekerja di industri ini sambil melanjutkan riset ITB-HUG. Harapanku adalah aku dapat mulai menginisiasi perusahaan baru ku dalam 10 tahun setelah aku lulus S2.
 
-Karena bidang *underwater robotics* adalah keilmuan yang multidisiplin, aku perlu menentukan disiplin apa yang akan kuperdalam dari bidang ini. Spesifiknya, pilihan ini dapat menentukan jurusan apa yang akan kupelajari di S2 ku. Untuk menentukan pilihan ini, aku memanfaatkan konsep *M-Shaped Person*.
+Karena bidang *underwater robotics* adalah keilmuan yang multidisiplin, aku perlu menentukan disiplin apa yang akan kuperdalam dari bidang ini. Spesifiknya, pilihan ini dapat menentukan jurusan apa yang akan kupelajari di S2-ku. Untuk menentukan pilihan ini, aku memanfaatkan konsep *M-Shaped Person*.
 
 ## *M-Shaped Person*
 
