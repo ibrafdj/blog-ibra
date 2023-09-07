@@ -2,7 +2,7 @@
 author: Ibrahim Fadhil Djauhari
 title: "Merakit Rangkaian, Mengarungi Lautan"
 description: "Perjalanan menyelam ke dunia baru"
-date: "2023-08-31"
+date: "2023-09-07"
 tags: 
   - "indonesian"
 thumbnail: "/blog/merakit-rangkaian-mengarungi-lautan.jpg"
@@ -27,7 +27,7 @@ Perjalananku "pindah jurusan" dan *"career switch"* ini dimulai dari kisah bagai
 
 # Menemukan Panggilan
 
-Panggilan untuk mendedikasikan diri ke suatu tujuan bisa datang dari mana saja. Aku sendiri mulai merasa terpanggil ke tujuan hidupku sekarang saat aku pertama kali mengenal bidang *underwater robotics*.
+Panggilan untuk mendedikasikan diri ke suatu tujuan bisa datang kapan saja dan dari mana saja. Bagiku, perjalanan menemukan panggilan  hidupku sekarang dimulai saat aku pertama kali mengenal bidang *underwater robotics*.
 
 ## Underwater Robots
 
@@ -67,9 +67,9 @@ Diantara puluhan topik TA yang tersedia, topik yang paling menarik perhatianku a
 {{<img caption="<i>I'm not allowed to publicly show a photo of the ITB-HUG, so here's an (old) 3D model of it</i> :)"
 src="images/ITB_HUG.jpg" >}}
 
-Ketertarikanku ke ITB-HUG berakar dari besarnya potensi pemanfaatan AUV di Indonesia. Sebagai negara maritim dengan lautan yang sangat luas, aku percaya bahwa Indonesia perlu melakukan eksplorasi bawah laut dalam skala besar untuk menjaga keamanan dan kelestarian lautannya.
+Ketertarikanku ke ITB-HUG berakar dari besarnya potensi pemanfaatan AUV di Indonesia. Sebagai negara maritim dengan lautan yang sangat luas, aku percaya bahwa Indonesia perlu melakukan eksplorasi bawah laut dalam skala besar untuk memanfaatkan, mengamankan, dan melestarikan lautannya.
 
-HUG merupakan AUV yang dapat bergerak dalam dua mode pergerakan, *propulsion* dan *glide*. Dalam mode *propulsion*, HUG bergerak menggunakan dorongan dari *thruster* (Baling-baling) yang kemudian disetir oleh *rudder* (Sirip). Dalam mode *glide*, HUG bergerak secara *gliding* dengan menenggelamkan dan mengapungkan diri berulang kali dalam suatu siklus.
+HUG merupakan AUV yang dapat bergerak dalam dua mode pergerakan: *propulsion* dan *glide*. Dalam mode *propulsion*, HUG bergerak menggunakan dorongan dari *thruster* (Baling-baling) yang kemudian disetir oleh *rudder* (Sirip). Dalam mode *glide*, HUG bergerak secara *gliding* dengan menenggelamkan dan mengapungkan diri berulang kali dalam suatu siklus.
 
 {{<img caption="Contoh gerakan <i>glide</i> yang dapat dilakukan oleh AUV"
 source="[SeaGlide](http://seaglide.org/about)"
@@ -101,7 +101,7 @@ Karena pada saat itu aku belum menemukan alasan kuat untuk kuliah S2, aku pun me
 {{<img caption="Hari terakhirku sebagai <i>software engineer</i> di <i>Samsung Research Indonesia</i> (SRIN)"
 src="images/SRIN.jpg" >}}
 
-Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi lain berhasil merayuku untuk bekerja *full-time* sebagai *software engineer*. Walaupun berkarir di bidang ini cukup nyaman dan sangat berpotensi untuk diperdalam, pada akhirnya aku belum merasa "terpanggil" disini. Aku tidak menemukan masalah spesifik yang ingin aku selesaikan atau keahlian tertentu yang ingin aku kuasai sebagai *software engineer*. Dari sinilah aku sadar bahwa karirku di bidang ini hanyalah pemberhentian sementara. Berkarir di bidang ini merupakan dari proses ekplorasiku untuk menemukan pekerjaan sebenernya yang ingin aku tekuni.
+Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi lain berhasil merayuku untuk bekerja *full-time* sebagai *software engineer*. Walaupun berkarir di bidang ini cukup nyaman dan sangat berpotensi untuk diperdalam, pada akhirnya aku belum merasa "terpanggil" disini. Aku tidak menemukan masalah spesifik yang ingin aku selesaikan atau keahlian tertentu yang ingin aku kuasai sebagai *software engineer*. **Pada saat itulah aku sadar bahwa karirku sebagai *software engineer* ini hanyalah pemberhentian sementara**. Berkarir di bidang ini adalah proses ekplorasiku untuk menemukan pekerjaan sebenernya yang ingin aku tekuni.
 
 Selama bekerja menjadi *software engineer*, aku tetap berkecimpung di dunia *underwater robotics* sebagai *part-time research assistant* di riset ITB-HUG. Pada saat itu, ide untuk memfokuskan karirku spesifik ke bidang *underwater robotics* memang sempat melintas di pikiran. Namun, keyakinanku untuk menyelam di bidang *underwater robotics* baru memuncak karena suatu kejadian pada awal tahun 2021...
 
@@ -121,7 +121,7 @@ src="https://img.antaranews.com/cache/infografis/1140x2100/2021/04/26/20210426kr
 
 Insiden ini menyadarkanku bahwa kurangnya keahlian *underwater robotics* di Indonesia sudah menjadi isu keamanan nasional; dan aku, sebagai seseorang yang telah berkecimpung di bidang ini, tidak bisa tinggal diam.
 
-Saat seluruh penjuru tanah air berduka, aku membulatkan tekadku untuk mendalami bidang *underwater robotics* dengan melanjutkan pendidikanku ke jenjang yang lebih tinggi.
+Saat seluruh penjuru tanah air berduka, aku membulatkan tekadku untuk mendalami bidang *underwater robotics*.
 
 # Meyakinkan Pilihan
 
@@ -195,7 +195,7 @@ Untuk menjawab dua pertanyaan yang menghantuiku ini, aku menerawang kembali ke *
 source="[Pinterest](https://www.pinterest.com/pin/488359153320778468/)"
 src="https://i.pinimg.com/originals/bf/41/cd/bf41cdcb78d70e939578774053efa147.jpg" >}}
 
-Sejak kecil, aku sering membaca kisah tentang orang-orang sukses dunia. Dua orang diantara mereka meninggalkan kisah yang paling berkesan bagiku: Bill Gates & Steve Jobs. Kedua pengusaha muda yang "seangkatan" ini terkenal dengan kesuksesannya membangun Microsoft dan Apple, dua nama besar dari *Silicon Valley* yang masih disegani dunia sampai hari ini. Terlepas dari beragam kontroversi mereka, kemampuan mereka untuk membuat suatu **inovasi teknologi** kemudian mengembangkan inovasi tersebut menjadi **perusahaan penghasil teknologi** telah menginspirasiku sejak dulu untuk mengikuti jalan mereka.
+Sejak kecil, aku sering membaca kisah tentang orang-orang sukses dunia. Dua orang diantara mereka meninggalkan kisah yang paling berkesan bagiku: Bill Gates & Steve Jobs. Kedua pengusaha muda yang "seangkatan" ini terkenal dengan kesuksesannya membangun Microsoft dan Apple, dua nama besar dari *Silicon Valley* yang masih disegani dunia sampai hari ini. Terlepas dari beragam kontroversi mereka, kemampuan mereka untuk membuat suatu **inovasi teknologi** kemudian mengembangkan inovasi tersebut menjadi **perusahaan penghasil teknologi** sebagai seorang *technopreneur* telah menginspirasiku untuk mengikuti jalan mereka.
 
 Aku melihat kewirausahaan sebagai metode paling *sustainable* untuk mengembangkan teknologi seperti *underwater robots*. Karena masalah yang dapat diselesaikan teknologi ini sangatlah rumit dan pengembangannya membutuhkan dukungan kapital yang besar. Menjual suatu teknologi untuk mereka yang membutuhkannya (dengan harga yang sesuai) adalah metode yang dapat menjamin proses pengumpulan kapital sekaligus pengembangan teknologi tersebut.
 
@@ -241,7 +241,7 @@ Karena impianku adalah menjadi CTO yang membangun perusahaan desain dan manufakt
 
 Maka pilihanku ada dua: Belajar ilmu teknik robotika atau perkapalan. Kedua keilmuan ini telah melekat dengan bidang *underwater robotics* itu sendiri. Karena aku sudah mempelajari ilmu robotika selama kuliah Teknik Elektro ITB, aku **memutuskan untuk mendalami ilmu teknik perkapalan atau *maritime engineering***.
 
-Sebagai *engineer* yang akan bergerak dalam bidang *underwater robotics*, teknik perkapalan adalah keilmuan yang harus kupelajari *sooner or later*. Maka bukankah alangkah baiknya kalau aku mempelajarinya secara terukur dan terstruktur dengan **berkuliah S2 di bidang tersebut**? 
+Sebagai *engineer* yang akan bergerak dalam bidang *underwater robotics*, teknik perkapalan adalah keilmuan yang harus kupelajari *sooner or later*. Maka bukankah alangkah baiknya kalau aku mempelajarinya secara terukur dan terstruktur dengan **berkuliah S2 di bidang tersebut?** 
 
 Pilihanku mempelajari *maritime engineering* ini juga merupakan suatu langkah pragmatis. Dengan kondisi industri *underwater robotics* di Indonesia yang masih sangat kecil, aku tetap harus siap untuk bekerja dalam posisi manapun.
 
@@ -254,20 +254,22 @@ Seseorang dengan keahlian mendalam di tiga bidang inilah yang disebut sebagai *M
 
 # Merefleksikan Perjalanan
 
-Sampai saat aku menulis ini, masih terdapat keraguan di hatiku terhadap jalan yang telah kupilih. Mungkin, menulis *post* ini adalah caraku untuk semakin meyakinkan diriku. Setiap kali aku merasa keraguan pada masa yang akan datang, aku bisa kembali mengingatkan diri kenapa aku memulai semua ini.
+Sampai saat aku menulis ini, masih terdapat keraguan di hatiku terhadap jalan yang telah kupilih. Mungkin, menulis *post* ini adalah salah satu caraku untuk kembali meyakinkan diriku. Setiap kali aku merasa keraguan pada masa yang akan datang, aku bisa kembali mengingatkan diri kenapa aku memulai semua ini.
 
-Pelajaran paling penting yang kudapat sejauh ini adalah: *Find your Niche!*. Aku sadar sejak awal bidang *underwater robotics* sangat spesifik dan *niche*. Dengan mendalami bidang ini, terutama di Indonesia yang ahli *underwater robotics*-nya masih sedikit , aku dapat menjadi orang dengan keahlian yang **unik** dan **langka**. Walaupun mayoritas orang tidak akan *relate* dengan keahlianku, mereka yang benar-benar membutuhkan keahlian *underwater robotics* akan tau mereka perlu mencari siapa: **Aku!**
+Pelajaran paling penting yang kudapat sejauh ini adalah: *Find your Niche!*. Aku sadar sejak awal bidang *underwater robotics* sangat spesifik dan *niche*. Dengan mendalami bidang ini, terutama di Indonesia yang ahli *underwater robotics*-nya masih sedikit, aku dapat menjadi orang dengan keahlian yang **unik** dan **spesial**. Walaupun mayoritas orang tidak akan *relate* dengan keahlianku, mereka yang benar-benar membutuhkan keahlian *underwater robotics* akan tau mereka perlu mencari siapa: **Aku!**
 
 Ya, perjalanan ini menyadariku akan satu hal yang sangat memotivasiku untuk terus berjuang: **Aku ini orang yang terpilih**.
 
 ## Sang Terpilih
 
-Seringkali, kisah fiksi menceritakan satu orang terpilih yang ditakdirkan untuk melakukan suatu tugas penting untuk menyelamatkan dunia (atau sejenisnya). *Trope* untuk karakter seperti ini disebut dengan [***The Chosen One***](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenOne).
+Seringkali, kisah fiksi menceritakan satu orang terpilih yang ditakdirkan untuk melakukan suatu tugas penting untuk menyelamatkan dunia (atau sejenisnya). *Trope* untuk karakter seperti ini disebut dengan *[The Chosen One](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenOne)*.
 
 Baik itu **Harry Potter** yang ditakdirkan mengalahkan Voldemort karena ia selamat dari serangannya saat kecil; **Frodo Baggins** yang ditakdirkan mengalahkan Sauron karena menemukan *The One Ring* milik pamannya; maupun **Luke Skywalker** yang ditakdirkan mengalahkan *The Emperor* karena kesaktiannya sebagai anak rahasia Anakin Skywalker; semua karakter tersebut menjadi ***The Chosen One*** karena mereka berada di suatu **tempat, waktu, dan kondisi yang tepat**.
 
-*Not to be narcisstic*, tapi aku juga merasa telah menjadi ***The Chosen One***. \
+*Not to be narcissistic*, tapi aku juga merasa telah menjadi ***The Chosen One***. \
 *I feel as if everything I have achieved has led to this moment*.
+
+Aku yang sejak kecil bermimpi untuk menjadi pengusaha bidang teknologi.
 
 Aku yang memiliki *privilege* untuk melakukan riset di bidang *underwater robotics* yang sangat langka dan dibutuhkan oleh Indonesia.
 
@@ -275,7 +277,7 @@ Aku yang telah mendapatkan kesempatan untuk melanjutkan kuliah S2 di bidang yang
 
 Aku yang mendapatkan dukungan beasiswa dari negara untuk meraih tujuan pendidikanku.
 
-Dan aku yang sejak kecil bermimpi untuk menjadi pengusaha bidang teknologi.
+Dan aku yang memberanikan diri pindah karir dan pindah jurusan baru.
 
 Maka kalau bukan aku, siapa lagi?
 
