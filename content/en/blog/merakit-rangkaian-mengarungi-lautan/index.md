@@ -44,7 +44,7 @@ Di banyak bidang lain, isu "Suatu saat robot akan menggantikan pekerjaan manusia
 
 {{<img caption="Mission Specialist DEFENDER ROV"
 source="[TIME Business News](https://timebusinessnews.com/what-is-a-remotely-operated-underwater-vehicle-rov-and-what-are-the-utilization-of-rov/)"
-src="https://timebusinessnews.com/wp-content/uploads/Underwater-Vehicle.jpg" >}}
+src="https://timebusinessnews.com/wp-content/uploads/Underwater-Vehicle-800x445.jpg" >}}
 
 - *Autonomous Underwater Vehicle* (AUV)
 
