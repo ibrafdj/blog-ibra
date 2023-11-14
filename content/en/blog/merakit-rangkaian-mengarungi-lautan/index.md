@@ -42,9 +42,9 @@ Di banyak bidang lain, isu "Suatu saat robot akan menggantikan pekerjaan manusia
 
   ROV dapat melakukan pergerakan dengan presisi tinggi karena dikendalikan langsung oleh seorang operator. Namun jarak pengoperasiannya terbatas oleh panjang kabel yang dimiliki.
 
-{{<img caption="Mission Specialist DEFENDER ROV"
-source="[TIME Business News](https://timebusinessnews.com/what-is-a-remotely-operated-underwater-vehicle-rov-and-what-are-the-utilization-of-rov/)"
-src="https://timebusinessnews.com/wp-content/uploads/Underwater-Vehicle-800x445.jpg" >}}
+{{<img caption="ROV Hercules"
+source="[NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/technology/subs/rovs/rovs.html)"
+src="https://oceanexplorer.noaa.gov/technology/subs/rovs/media/hercules2-hires.jpg" >}}
 
 - *Autonomous Underwater Vehicle* (AUV)
 
