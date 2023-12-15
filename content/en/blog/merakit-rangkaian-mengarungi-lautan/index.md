@@ -3,6 +3,7 @@ author: Ibrahim Fadhil Djauhari
 title: "Merakit Rangkaian, Mengarungi Lautan"
 description: "Perjalanan menyelam ke dunia baru"
 date: "2023-09-07"
+keywords: ["kuliah", "s2"]
 tags: 
   - "indonesian"
 thumbnail: "/blog/merakit-rangkaian-mengarungi-lautan.jpg"
@@ -17,7 +18,7 @@ Kenapa seorang Ibrahim Fadhil Djauhari, yang kuliah S1 ***Electrical Engineering
 
 Jika kalian ingin jawaban yang singkat, jawabannya adalah karena aku ingin mendalami bidang ***underwater robotics***.
 
-Kalau jawaban panjangnya? *Well I'm glad you asked, because that's exactly why I wrote this post.*
+Kalau jawaban panjangnya? *Well, I'm glad you asked because that's precisely why I wrote this post.*
 
 Selain untuk menjawab pertanyaan yang sering ditanyakan orang lain, harapanku tulisan ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang **merencanakan tujuan kuliahnya** (Terutama merencanakan kuliah S2/S3 namun jurusan S1-nya berbeda jauh), **merencanakan pergantian karir** antara dua bidang yang berbeda, dan/atau **penasaran dengan bidang *underwater robotics*** yang akan kutekuni ini.
 
@@ -25,17 +26,18 @@ Sebagai penerima beasiswa [LPDP](https://lpdp.kemenkeu.go.id/en/), aku pun meras
 
 Perjalananku "pindah jurusan" dan *"career switch"* ini dimulai dari kisah bagaimana proses aku **menemukan "panggilan" untuk mendalami bidang *underwater robotics***, kemudian proses refleksi diri yang kulakukan untuk **meyakinkan diri atas tujuan hidup yang telah kupilih**, dilanjut dengan proses aku **membangun impian yang ingin kucapai dan rencana merealisasikannya**, dan ditutup dengan **merefleksikan perjalananku sejauh ini**.
 
-# Menemukan Panggilan
+## Menemukan Panggilan
 
 Panggilan untuk mendedikasikan diri ke suatu tujuan bisa datang kapan saja dan dari mana saja. Bagiku, perjalanan menemukan panggilan  hidupku sekarang dimulai saat aku pertama kali mengenal bidang *underwater robotics*.
 
-## Underwater Robots
+### Underwater Robots
 
 Eksplorasi bawah laut adalah kegiatan yang sangat sulit untuk dilakukan manusia. Semakin dalam kita menyelam ke bawah laut; semakin banyak oksigen yang perlu kita simpan, semakin sedikit pencahayaan dari permukaan, dan semakin kuat tekanan yang harus kita lawan.
 
 Di banyak bidang lain, isu "Suatu saat robot akan menggantikan pekerjaan manusia!" adalah isu eksistensial yang sangat ditentang. Namun untuk menyelam ke bawah lautan, robot akan diagung-agungkan sebagai pahlawan.
 
 *Underwater robots* dibagi menjadi dua jenis:
+
 - *Remotely Operated Vehicle* (ROV)
 
   Robot yang dikendalikan secara langsung oleh seorang operator dengan menggunakan *remote control*. Umumnya, ROV dilengkapi dengan kabel yang sangat panjang untuk menerima serta mengirimkan data dari dan ke operator.
@@ -58,7 +60,7 @@ src="https://oceanobservatories.org/wp-content/uploads/2015/07/AUV_deployment.jp
 
 *Underwater robotics* merupakan bidang yang sangat spesifik dan *niche*. Aku pun tidak akan bisa terekspos ke bidang ini tanpa pengalamanku pada tahun terakhir di Teknik Elektro ITB...
 
-## ITB *Hybrid Underwater Glider*
+### ITB *Hybrid Underwater Glider*
 
 Aku pertama kali mengenal dunia *underwater robotics* saat aku kuliah tingkat akhir di Teknik Elektro ITB. Untuk lulus dari jurusanku, aku wajib mengerjakan Tugas Akhir (TA) berupa sebuah *Capstone Design Project* bersama kelompok yang berisi 2-3 orang. Dalam TA ini, kami wajib membuat suatu alat untuk menyelesaikan suatu masalah. Setiap kelompok dapat memilih topik untuk TA-nya dari *list* topik yang diajukan oleh para calon dosen pembimbing.
 
@@ -84,6 +86,7 @@ Berbekal keyakinan penuh atas kemampuan kami, pengerjaan TA ITB-HUG kami dimulai
 Walaupun komponennya sudah lengkap, wahana ITB-HUG belum memiliki kemampuan untuk bergerak secara otonom (Tanpa kendali manusia). Target TA kami adalah untuk membuat sistem yang dapat menggerakkan ITB-HUG secara otonom mengikuti urutan *waypoint* yang diberikan oleh pengguna.
 
 Untuk bisa mencapai tujuan ini, terdapat tiga sistem yang perlu diimplementasikan di ITB-HUG:
+
 - Sistem *Navigation* yang berfungsi untuk mengetahu posisi, orientasi, dan akselerasi wahana berdasarkan pembacaan data-data sensor
 - Sistem *Guidance* yang berfungsi untuk memandu atau "menyetir" arah gerak wahana untuk menuju suatu *waypoint*
 - Sistem *Control* yang berfungsi untuk menggerakkan wahana sesuai arah gerak yang ditentukan sistem *guidance*
@@ -92,7 +95,7 @@ Setelah melalui proses yang sulit selama satu tahun mengerjakan TA ini, kami [be
 
 Sebelum aku lulus dari ITB, dosen pembimbing ku menawarkan aku untuk melanjutkan riset ITB-HUG ini. Walaupun aku belum ada niat untuk mendalami bidang *underwater robotics*, aku sadar bahwa bidang ini sangat menarik dan melakukan riset di bidang ini adalah kesempatan yang sangat langka. Sejak saat itulah aku memutuskan untuk bekerja menjadi asisten riset dalam proyek ITB-HUG.
 
-## Merintis Karir
+### Merintis Karir
 
 Dalam hari-hari menjelang wisuda, berbagai ide tentang rencana karirku kedepannya telah berkumpul di dalam kepalaku. Diantaranya adalah rencana untuk bekerja di bidang robotika, *Internet of Things*, *software engineering*, telekomunikasi, konsultan; atau langsung melanjutkan kuliah S2.
 
@@ -105,7 +108,7 @@ Pada akhirnya, *demand* yang tinggi ditambah gaji yang besar dibanding profesi l
 
 Selama bekerja menjadi *software engineer*, aku tetap berkecimpung di dunia *underwater robotics* sebagai *part-time research assistant* di riset ITB-HUG. Pada saat itu, ide untuk memfokuskan karirku spesifik ke bidang *underwater robotics* memang sempat melintas di pikiran. Namun, keyakinanku untuk menyelam di bidang *underwater robotics* baru memuncak karena suatu kejadian pada awal tahun 2021...
 
-## Tragedi di Laut Bali
+### Tragedi di Laut Bali
 
 {{<img caption="KRI Nanggala 402"
 source="[AP](https://apnews.com/article/indonesia-missing-submarine-kri-nanggala-402-0f713512d5e53131863a67c99016db64)"
@@ -123,13 +126,13 @@ Insiden ini menyadarkanku bahwa kurangnya keahlian *underwater robotics* di Indo
 
 Saat seluruh penjuru tanah air berduka, aku membulatkan tekadku untuk mendalami bidang *underwater robotics*.
 
-# Meyakinkan Pilihan
+## Meyakinkan Pilihan
 
 Saat aku mulai berpikir serius untuk menjadi *underwater robotics engineer*, hati dan pikiranku dipenuhi dengan ketidakyakinan. Bidang *underwater robotics* ini sangat spesifik dan peluang karirnya di Indonesia, bahkan di dunia, sangat sempit. Latar belakang pendidikan dan pekerjaan ku di bidang ini masih sedikit. Terlebih lagi aku harus meninggalkan karir *software engineer*-ku yang peluang kerjanya luas dan gajinya cukup tinggi.
 
 Namun pada akhirnya aku yakin bahwa menjadi *underwater robotics engineer* merupakan puncak dari aktualisasi diriku dan jalanku untuk memberikan dampak besar untuk dunia. Keyakinan diri ini datang dari proses refleksi diri yang mendalam dengan mengimplementasikan konsep [Ikigai](https://positivepsychology.com/ikigai/).
 
-## *Ikigai*
+### *Ikigai*
 
 {{<img caption="Diagram <i>Ikigai</i>"
 source="[TheMindFool](https://themindfool.com/ikigai/)"
@@ -144,23 +147,23 @@ src="https://themindfool.com/wp-content/uploads/2020/09/Ikigai_doagram-15-15-102
 
 Dengan mencari irisan dari empat aspek tersebut, kita dapat menemukan tujuan hidup yang kita sukai, kita kuasai, dapat menghasilkan uang, dan dapat membantu orang lain. Berikut adalah caraku dalam menemukan *Ikigai*-ku:
 
-### 1. *What you love*
+#### 1. *What you love*
 
 Aku telah dikenalkan dengan **teknologi** seperti komputer dan *video game console* sejak kecil. Sebagai anak kecil, kemampuan untuk bermain beragam *video game* dengan teknologi ini sangat menarik perhatianku. Seiring aku tumbuh, rasa keingintahuanku tentang bagaimana cara teknologi bekerja, khususnya komputer, terus meningkat. Aku pun berandai-andai untuk suatu saat bisa membuat teknologi canggih seperti senjata laser dan mesin waktu. Keinginan inilah yang pada akhirnya akan membawaku kuliah di Teknik Elektro ITB.
 
 Puncak aktualiasi diri bagi seorang pecinta teknologi adalah membuat teknologi baru. Di saat bersamaan, permasalahan di dunia tidak ada habisnya. Oleh karena itu, aku yakin bahwa tujuan hidupku adalah **membuat teknologi untuk menyelesaikan sebagian permasalahan dunia**.
 
-### 2. *What you are good at*
+#### 2. *What you are good at*
 
 Karena ketertarikanku dengan teknologi dan keterpaparanku dengan film *science-fiction*, aku telah minat dengan ilmu **Fisika dan Matematika** sejak kecil. Minat ini membantuku mendapatkan nilai yang cukup baik dalam dua mata pelajaran ini selama sekolah dan mendorongku untuk mempelajari bidang *Engineering* saat kuliah.
 
 Walaupun aku tidak menguasai pelajaran Fisika & Matematika, aku yakin dua keilmuan ini adalah bidang yang paling aku pahami diantara bidang keilmuan lainnya. Kedua bidang ini adalah pondasi dari segala ilmu *Engineering* yang telah dan akan aku pelajari, baik itu ilmu Teknik Elektro, Informatika, maupun Perkapalan.
 
-### 3. *What you can be paid for*
+#### 3. *What you can be paid for*
 
 Secara umum, bidang STEM (*Science, Technology, Engineering, and Mathematics*) adalah salah satu bidang keilmuan dengan gaji paling tinggi di dunia[^1]. Maka dengan aku berkarir di bidang **Engineering**; baik itu sebagai *Electrical*, *Software*, atau *Maritime Engineer*; seharusnya aku tidak akan kesulitan secara finansial (*aminnn*).
 
-### 4. *What the world needs*
+#### 4. *What the world needs*
 
 Pada tahun 2023, tercatat bahwa baru 24.9% dari dasar laut Bumi telah dipetakan dalam resolusi yang memadai[^2]. Padahal, pemetaan bawah laut atau batimetri memiliki berbagai aplikasi penting seperti pembuatan *nautical chart* untuk navigasi kapal, pengamatan pergeseran tektonik, dan pembangunan infrastruktur *offshore*.
 
@@ -170,7 +173,7 @@ Saat ini ahli dalam bidang ini di Indonesia masih terbatas. Hanya ada satu perus
 
 Aku, sebagai orang yang ber-*privilege* mendapatkan kesempatan melakukan riset penting (ITB-HUG) dalam bidang yang sangat langka ini (*Underwater robotics*), mengemban tanggung jawab untuk terus mengembangkan bidang *underwater robotics* Indonesia.
 
-### Hasil
+#### Hasil
 
 Dengan menjawab empat pertanyaan di atas, aku membuat diagram *Ikigai* sebagai berikut:
 
@@ -183,13 +186,13 @@ Perlu jadi catatan bahwa proses merancang tujuan hidup adalah proses yang akan *
 
 Mengisi diagram *ikigai* di atas pun seperti itu. Dulu diagram *ikigai*-ku belum sedetil dan selengkap diagram di atas. Namun seiring berjalannya waktu, melalui segala kejadian yang kutulis di bagian [Menemukan Panggilan](#menemukan-panggilan), satu per satu lingkaran di diagram *ikigai*-ku semakin terisi. Sampai pada akhirnya aku yakin dengan tujuan hidup yang kupilih.
 
-# Membangun Impian
+## Membangun Impian
 
 Aku sudah yakin untuk menjadi seorang *underwater robotics engineer*, tapi sebenarnya mimpi apa sih yang ingin aku capai? Dan bagaimana caraku untuk merealisasikan impianku itu?
 
 Untuk menjawab dua pertanyaan yang menghantuiku ini, aku menerawang kembali ke **cita-cita ku sejak kecil** kemudian menentukan **keilmuan apa yang perlu kupelajari** untuk merealisasikannya.
 
-## Mimpi
+### Mimpi
 
 {{<img caption="<i>What motivates me to keep pushing forward</i>"
 source="[Pinterest](https://www.pinterest.com/pin/488359153320778468/)"
@@ -207,7 +210,7 @@ Aku sadar industri ini memiliki *barrier of entry* yang sangat tinggi. Akan dipe
 
 Karena bidang *underwater robotics* adalah keilmuan yang multidisiplin, aku perlu menentukan disiplin apa yang akan kuperdalam dari bidang ini. Spesifiknya, pilihan ini dapat menentukan jurusan apa yang akan kupelajari di S2-ku. Untuk menentukan pilihan ini, aku memanfaatkan konsep *M-Shaped Person*.
 
-## *M-Shaped Person*
+### *M-Shaped Person*
 
 Konsep *T-shaped person* beserta turunannya seperti *M-shaped person* sering digunakan untuk mendeskripsikan tingkat keahlian seseorang. Garis horizontal dalam "T" menggambarkan bidang-bidang keahlian yang berbeda, sedangkan garis vertikal menggambarkan kedalaman pemahaman seseorang di salah satu bidang tersebut.
 
@@ -252,7 +255,7 @@ src="images/M.jpg" >}}
 
 Seseorang dengan keahlian mendalam di tiga bidang inilah yang disebut sebagai *M-Shaped person*. Inilah gambaran keahlian diriku yang menjadi pedomanku untuk merealisasikan impianku menjadi *underwater robotics engineer*.
 
-# Merefleksikan Perjalanan
+## Merefleksikan Perjalanan
 
 Sampai saat aku menulis ini, masih terdapat keraguan di hatiku terhadap jalan yang telah kupilih. Mungkin, menulis *post* ini adalah salah satu caraku untuk kembali meyakinkan diriku. Setiap kali aku merasa keraguan pada masa yang akan datang, aku bisa kembali mengingatkan diri kenapa aku memulai semua ini.
 
@@ -260,7 +263,7 @@ Pelajaran paling penting yang kudapat sejauh ini adalah: *Find your Niche!*. Aku
 
 Ya, perjalanan ini menyadariku akan satu hal yang sangat memotivasiku untuk terus berjuang: **Aku ini orang yang terpilih**.
 
-## Sang Terpilih
+### Sang Terpilih
 
 Seringkali, kisah fiksi menceritakan satu orang terpilih yang ditakdirkan untuk melakukan suatu tugas penting untuk menyelamatkan dunia (atau sejenisnya). *Trope* untuk karakter seperti ini disebut dengan *[The Chosen One](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenOne)*.
 
@@ -281,7 +284,7 @@ Dan aku yang memberanikan diri pindah karir dan pindah jurusan baru.
 
 Maka kalau bukan aku, siapa lagi?
 
-{{<img caption="<i>Likewise, Zelda</i>"
+{{<img caption="<i>So do I, Zelda. So do I.</i>"
 source="<i>The Legend of Zelda: Tears of the Kingdom</i>"
 src="images/Zelda.jpg" >}}
 

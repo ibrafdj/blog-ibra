@@ -141,3 +141,7 @@ DefaultContentLanguageInSubdir = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-B6EJ8EYGWV'
