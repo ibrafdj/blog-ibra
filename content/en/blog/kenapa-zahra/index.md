@@ -9,7 +9,7 @@ thumbnail: "/blog/kuliah-online-adaptasi-atau-mati.jpg"
 draft: true
 ---
 
-Pada bulan Agustus 2020, aku memberanikan diri mengirim pesan DM ke akun instagram [@zazahrarawr]().
+Pada bulan Agustus 2020, aku memberanikan diri mengirim pesan DM ke akun instagram [@zazahrarawr](https://www.instagram.com/zazahrarawr/).
 
 <!-- Gambar chat sama zahra -->
 
