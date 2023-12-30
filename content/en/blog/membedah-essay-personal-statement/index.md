@@ -10,7 +10,7 @@ thumbnail: "/blog/membedah-essay-personal-statement.jpg"
 draft: false
 ---
 
-Selama menulis essay *Personal Statement*-ku untuk mendaftar S2 ke luar negeri, aku belajar dari beragam sumber di internet. Namun, satu sumber yang paling banyak membantuku adalah tulisan [*Another Annotated Example: CS PhD Statement of Purpose*](https://eugenielai.github.io/posts/another-annotated-sop.html). Di tulisan tersebut, Eugene Y. Lai menunjukkan **pertimbangan** dan **pemikirannya** dalam **setiap paragraf** essay *Statement of Purpose* yang ia tulis.
+Selama menulis essay *Personal Statement*-ku untuk mendaftar S2 ke luar negeri, aku belajar dari beragam sumber di internet. Namun, satu sumber yang paling banyak membantuku adalah tulisan [Another Annotated Example: CS PhD Statement of Purpose](https://eugenielai.github.io/posts/another-annotated-sop.html). Di tulisan tersebut, Eugenie Y. Lai menunjukkan **pertimbangan** dan **pemikirannya** dalam **setiap paragraf** essay *Statement of Purpose* yang ia tulis.
 
 Sayangnya, aku sama sekali tidak menemukan tulisan yang membedah essay *Personal Statement* atau *Statement of Purpose* dalam bahasa Indonesia. Mayoritas tulisan yang membahas topik ini bentuknya sebatas *Tips and Tricks* untuk menulis essay. Sudah ada beberapa video di Youtube yang membedah essay pendaftaran kuliah ke luar negeri, namun menurutku format video kurang pantas untuk dijadikan **referensi dalam penulisan essay**. Media tertulis lebih memudahkan untuk dikonsumsi berkali-kali dan untuk dipelajari bagian-bagian tertentu saja.
 
@@ -104,7 +104,7 @@ Untuk lulusan S1, kalian minimal punya satu pengalaman riset yaitu **skripsi** a
 
 Paragraf ini memang isinya "fafifu wasweswos" tentang hal-hal teknis yang kukerjakan dalam tugas akhirku. Aku tidak akan menjelaskan panjang lebar berbagai istilah dalam paragraf ini karena menurutku isinya terlalu teknis. Jika kalian tertarik dengan penjelasannya lengkapnya, silahkan baca [Tugas Akhirku](https://digilib.itb.ac.id/gdl/download/214151).
 
-Ingat prinsip [**"*show, don't tell*"**](https://www.twinkl.co.uk/teaching-wiki/show-dont-tell). Menjelaskan keahlian dengan menulis "*I am experienced in building robots*" atau "*My skills include electrical circuit design and programming*" itu membosankan dan kurang menggambarkan keahlian kalian secara spesifik. Sebagai gantinya, aku menjelaskan secara detil setiap sistem yang kukerjakan dalam tugas akhirku.
+Ingat prinsip ["show, don't tell"](https://www.twinkl.co.uk/teaching-wiki/show-dont-tell). Menjelaskan keahlian dengan menulis "*I am experienced in building robots*" atau "*My skills include electrical circuit design and programming*" itu membosankan dan kurang menggambarkan keahlian kalian secara spesifik. Sebagai gantinya, aku menjelaskan secara detil setiap sistem yang kukerjakan dalam tugas akhirku.
 
 > To move from one waypoint to the next, the ITB-HUG needs to generate paths between each waypoint and steer towards them based on its current position and orientation.
 
@@ -126,7 +126,7 @@ Dan juga penjelasan selanjutnya.
 
 Tentunya tidak lupa untuk memamerkan prestasiku: [dua](https://lpik.itb.ac.id/hki/detail/patent/564) [judul](https://lpik.itb.ac.id/hki/detail/patent/600) paten dalam proses pendaftaran 😎. Paten ini kutunjukkan sebagai bentuk penghargaan dan pengakuan nyata atas hasil riset yang telah kulakukan (Idealnya sih publikasi ya...).
 
-Pola yang kupakai untuk menjelaskan pengalaman riset ini adalah hasil adaptasi dari [tulisan Eugene Lai](https://eugenielai.github.io/posts/another-annotated-sop.html) di atas dan [contoh essay](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) dari MIT EECS Communication Lab.
+Pola yang kupakai untuk menjelaskan pengalaman riset ini adalah hasil adaptasi dari [tulisan Eugenie Lai](https://eugenielai.github.io/posts/another-annotated-sop.html) di atas dan [contoh essay](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) dari MIT EECS Communication Lab.
 
 Menceritakan apa yang kalian kerjakan dengan detil dapat menunjukkan keahlian, pemahaman, sekalius pengalaman kalian dalam bidang yang kalian pilih. Para pemeriksa essay kalian pun seharusnya orang yang paham dengan istilah-istilah teknis di bidang kalian.
 
