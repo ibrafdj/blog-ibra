@@ -2,35 +2,29 @@ baseurl = "https://www.ibrafdj.com/"
 metaDataFormat = "yaml"
 title = "Ibrafdj"
 theme = "blist"
-
-DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
-[languages]
-  [languages.en]
-    contentDir = "content/en" #English
+ 
+[[menu.main]]
+    name = "Blog"
+    url = "blog"
     weight = 1
-    languageName = "English"
-    [languages.en.params]
-      introTitle = "Ibrahim Fadhil's Blog"
-      introSubtitle = "The written thoughts of a simple-minded thinker"
-      introPhoto = "/ibra.jpg"
-      # logo = "/logo.png"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
 
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
-        weight = 2
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 2
 
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
 
 [params]
+  # Intro section
+  introTitle = "Ibrahim Fadhil's Blog"
+  introSubtitle = "The written thoughts of a simple-minded thinker"
+  introPhoto = "/ibra.jpg"
+  # logo = "/logo.png"
+
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
@@ -52,7 +46,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Ibrahim Fadhil Djauhari · All rights reserved"
+  copyright = "Copyright © 2024 - Ibrahim Fadhil Djauhari · All rights reserved"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -123,10 +117,6 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/ibrafdj"
-
-[[menu.main]]
-  name = "About"
-  url = "/about"
 
 [build]
   writeStats = true
