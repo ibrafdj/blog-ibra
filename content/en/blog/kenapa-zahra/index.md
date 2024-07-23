@@ -2,13 +2,15 @@
 author: Ibrahim Fadhil Djauhari
 title: "Kenapa Zahra?"
 description: "Alasanku memilih Zahra Khairunnisa"
-date: "2024-07-22"
+date: "2024-07-23"
 tags: 
   - "indonesian"
 thumbnail: "/blog/kenapa_zahra.jpg"
 ---
 
 "Kenapa aku memilih Zahra Khairunnisa?"
+
+Kenapa aku bisa yakin untuk menghabiskan sisa umurku dengan Zahra setelah mengenalnya selama hampir empat tahun?
 
 Ribuan kata bisa kutuliskan untuk menjawab pertanyaan tersebut. Tapi saat berpikir tentang Zahra, dua kata pertama yang muncul di pikiranku adalah **altruis** dan **idealis**.
 
@@ -17,7 +19,7 @@ Ribuan kata bisa kutuliskan untuk menjawab pertanyaan tersebut. Tapi saat berpik
 {{<img caption="Zahra menyusuri kampung kota di Jakarta"
 src="images/zahra_kampung.jpg" >}}
 
-Aku percaya manusia adalah mahluk yang egois. Secara sadar maupun tidak sadar, kita memiliki kebutuhan untuk bertahan hidup. Di lain sisi, jumlah sumber daya di dunia sangatlah terbatas. Maka, kita pasti cenderung mementingkan kebutuhan diri (egois) dibanding kebutuhan orang lain (altruis).
+Aku percaya manusia adalah mahluk yang egois. Secara sadar maupun tidak sadar, kita memiliki kebutuhan untuk bertahan hidup. Di lain sisi, jumlah sumber daya di dunia sangatlah terbatas. Maka, kita pasti cenderung mementingkan kebutuhan diri (egois) dibanding kebutuhan bersama (altruis).
 
 Kepercayaan ini berulang kali tertantang setelah aku mengenal Zahra Khairunnisa.
 
@@ -35,8 +37,8 @@ Sebagai seseorang dengan egoisme tinggi, kepekaan rendah, dan latar belakang ilm
 
 ## Idealis
 
-{{<img caption="Wisuda S2 Zahra di University College London (UCL)"
-src="images/zahra_wisuda.jpg" >}}
+{{<img caption="Zahra berunjuk rasa mendukung pencabutan Pergub DKI 207/2016 tentang Penertiban Pemakaian / Penguasaan Tanah Tanpa Izin yang Berhak"
+src="images/zahra_pidato_2.jpg" >}}
 
 Empati dan kerendahan hati akan memijakkan kita ke bumi, namun ambisi dan dedikasi juga diperlukan untuk menggapai bintang di angkasa.
 
@@ -48,13 +50,22 @@ Visi tersebut tidak akan pernah terealisasikan jika Zahra tidak memiliki idealis
 
 Di saat banyak orang lain ragu, Zahra berani mengambil risiko dan mengorbankan banyak hal demi mencapai tujuannya. Terutama saat ia bekerja di suatu NGO tata kota di Jakarta setelah lulus S1. Dengan pendapatan yang tidak sebanding, ia rela menghabiskan pagi sampai malamnya menelusuri tiap sudur kampung kota di Jakarta dengan kondisi lingkungan dan ekonomi yang sangat beragam. Semua hal ini ia perjuangkan demi bisa membersamai advokasi hak-hak warga serta penataan wilayah kampung mereka.
 
-Sebagai orang yang juga beridealisme dan berambisi besar, memiliki Zahra sebagai pasangan membuatku merasa aman dengan rencana masa depanku. Apapun yang akan terjadi nanti, aku tau ada Zahra disampingku yang akan berjuang bersama untuk merealisasikan impiannya. Kami berdua tau selalu ada tempat kembali dan bersandar saat kami sedang lelah berjuang di jalan masing-masing.
+{{<img caption="Wisuda Zahra dari program MSc Social Development Practice di University College London (UCL)"
+src="images/zahra_wisuda.jpg" >}}
 
-## Epilog
+Setelah lulus kuliah *MSc Social Development Practice* di University College London (UCL) dengan beasiswa penuh dari negara, ia sekarang mulai merintis karir sebagai seorang akademisi. Memilih untuk memperjuangkan visinya sebagai akademisi adalah jalur yang sulit namun cocok untuk Zahra. Isu-isu rendahnya kesejahteraan dosen dan kurangnya kajian akademis dalam perumusan kebijikan akan menjadi hambatan besar perjuangan di jalur akadmisi. Namun di lain sisi, kebebasan akademik menjamin Zahra bisa mengkaji dan menentukan siakp tentang isu-isu perumahan secara objektif, ilmiah, dan independen.  
+
+Sebagai orang yang juga beridealisme dan berambisi besar, memiliki Zahra sebagai pasangan membuatku merasa aman dengan rencana masa depanku. Apapun yang akan terjadi nanti, aku tau ada Zahra disampingku yang akan berjuang bersama untuk merealisasikan impiannya.
+
+Kami berdua tau selalu ada tempat kembali dan bersandar saat kami sedang lelah berjuang di jalan masing-masing.
+
+## Zahra
 
 Aku percaya Zahra adalah orang yang sangat spesial, bukan hanya bagiku, namun juga bagi dunia. Ia adalah orang yang mementingkan kebutuhan orang-orang yang kesusahan diatas kebutuhannya sendiri. Namun ia bukan orang yang reaktif. Ia memiliki visi besar untuk menyelesaikan isu perumahan di Indonesia dan idealisme yang kuat untuk memperjuangkan visi tersebut.
 
-Aku percaya, jika ada banyak orang seperti Zahra; Indonesia dan dunia pasti akan baik-baik saja.
+Zahra bukan orang yang sempurna. 
+
+Tapi aku percaya, jika ada banyak orang seperti Zahra; Indonesia dan dunia pasti akan baik-baik saja.
 
 *The world needs more people like Zahra. \
 Thus, I will do my part. \
