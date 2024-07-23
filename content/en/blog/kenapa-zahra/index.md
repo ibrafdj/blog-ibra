@@ -61,7 +61,7 @@ Kami berdua tau selalu ada tempat kembali dan bersandar saat kami sedang lelah b
 
 ## Zahra
 
-Aku percaya Zahra adalah orang yang sangat spesial, bukan hanya bagiku, namun juga bagi dunia. Ia adalah orang yang mementingkan kebutuhan orang-orang yang kesusahan diatas kebutuhannya sendiri. Namun ia bukan orang yang reaktif. Ia memiliki visi besar untuk menyelesaikan isu perumahan di Indonesia dan idealisme yang kuat untuk memperjuangkan visi tersebut.
+Aku percaya Zahra adalah orang yang sangat spesial, bukan hanya bagiku, namun juga bagi dunia. Ia adalah seorang **altruis** yang mementingkan kebutuhan orang-orang yang kesusahan diatas kebutuhannya sendiri. Namun ia bukan orang yang reaktif. Ia memiliki visi besar untuk menyelesaikan isu perumahan di Indonesia dan **idealisme** yang kuat untuk memperjuangkan visi tersebut.
 
 Zahra bukan orang yang sempurna. 
 
