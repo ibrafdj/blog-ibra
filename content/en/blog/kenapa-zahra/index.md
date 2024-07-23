@@ -33,7 +33,9 @@ Sebagai contoh, anak-anak penjual tisu bukanlah pemandangan yang langka di pusat
 
 Kadang pun aku penasaran. Apakah kepekaan Zahra terhadap orang-orang di lingkungan sekitarya merupakan sebab, atau akibat, dari pilihannya mempelajari ilmu Perencanaan Wilayah & Kota? Terlepas apapun jawabannya, altruisme Zahra tidak terbatas dengan isu-isu perkotaan saja. Walaupun ia merasa tidak memiliki banyak teman dekat, kepekaan dan kepedulian Zahra tidak terbatas oleh kedekatan hubungannya dengan teman dan keluarganya. Seringkali ia menyisihkan lebih banyak uang untuk keperluan orang lain dibanding keperluan dirinya sendiri.
 
-Sebagai seseorang dengan egoisme tinggi, kepekaan rendah, dan latar belakang ilmu eksakta; cerita isi hati dan pikiran Zahra telah banyak mengubah pandangan duniaku. Bagiku, Zahra adalah "jendela" untuk melihat dunia dari sudut pandangnya. Jendela untuk memahami realita kemiskinan, ketimpangan, keberpihakan, dan ketidakadilan. Realita yang aku tau nyata, namun seringkali luput dari perhatianku tanpa kehadirannya.
+Sebagai seseorang dengan egoisme tinggi, kepekaan rendah, dan latar belakang ilmu eksakta; cerita isi hati dan pikiran Zahra telah banyak mengubah pandangan duniaku. 
+
+Bagiku, Zahra adalah "jendela" untuk melihat dunia dari sudut pandangnya. Jendela untuk memahami realita kemiskinan, ketimpangan, keberpihakan, dan ketidakadilan. Realita yang aku tau nyata, namun seringkali luput dari perhatianku tanpa kehadirannya.
 
 ## Idealis
 
@@ -42,18 +44,18 @@ src="images/zahra_pidato_2.jpg" >}}
 
 Empati dan kerendahan hati akan memijakkan kita ke bumi, namun ambisi dan dedikasi juga diperlukan untuk menggapai bintang di angkasa.
 
-Visi Zahra berakar dari kebutuhan manusia memiliki suatu tempat aman untuk berteduh, beristirahat, dan beraktivitas: rumah. Untuk kita yang beruntung bisa hidup dibawah atap sendiri sejak kecil, rumah adalah suatu aset yang seringkali *taken for granted*. Namun untuk mereka yang mengais-ngais sisa ruang di pusat perkotaan, melewati hari-hari dibawah ancaman penggusuran, dan menempati lahan tanpa kepastian kepemilikan; rumah adalah kemewahan yang harganya tidak bisa diperhitungkan.
+Visi hidup Zahra berakar dari kebutuhan manusia memiliki suatu tempat aman untuk berteduh, beristirahat, dan beraktivitas: rumah. Untuk kita yang beruntung bisa hidup dibawah atap sendiri sejak kecil, rumah adalah suatu aset yang seringkali *taken for granted*. Namun untuk mereka yang mengais-ngais sisa ruang di pusat perkotaan, melewati hari-hari dibawah ancaman penggusuran, dan menempati lahan tanpa kepastian kepemilikan; rumah adalah kemewahan yang harganya tidak bisa diperhitungkan.
 
 Tempat tinggal yang layak bukan cuma hak orang kaya. Namun harga properti yang tinggi dan ketersediaan lahan yang menipis menutup peluang masyarakat miskin untuk tinggal di pusat kota. Bagaimana cara merumuskan kebijakan perumahan yang berpihak kepada masyarakat termarjinalkan di kota? Untuk menjawab permasalahan ini, Zahra memiliki visi membangun *Non-Government Organization (NGO)* berupa *Think-act-tank* untuk riset dan advokasi isu perumahan sosial.
 
-Visi tersebut tidak akan pernah terealisasikan jika Zahra tidak memiliki idealisme yang kuat untuk memperjuangkannya. Untungnya, Zahra adalah seseorang yang *walk the talk*. Ia rela memperjuangkan hak-hak warga kampung kota yang akan digusur paksa, melanjutkan kuliah di program studi terbaik di dunia, dan meninggalkan jabatan di instansi pemerintahan demi tidak mengkhianati nilai-nilai yang ia percaya. Berulang kali Zahra berdebat dengan preman, aparat, birokrat, dan akademisi demi membela sikap dan nilai yang ia miliki. 
+Visi tersebut tidak akan pernah terealisasikan jika Zahra tidak memiliki idealisme yang kuat untuk memperjuangkannya. Untungnya, Zahra adalah seseorang yang *walk the talk*. Ia rela memperjuangkan hak-hak warga kampung kota yang akan digusur paksa, melanjutkan kuliah di program studi terbaik di dunia, dan meninggalkan jabatan di instansi pemerintahan demi tidak mengkhianati nilai-nilai yang ia percaya. Berulang kali Zahra berdebat dengan preman, aparat, birokrat, dan akademisi demi membela sikap dan nilai yang ia miliki.
 
-Di saat banyak orang lain ragu, Zahra berani mengambil risiko dan mengorbankan banyak hal demi mencapai tujuannya. Terutama saat ia bekerja di suatu NGO tata kota di Jakarta setelah lulus S1. Dengan pendapatan yang tidak sebanding, ia rela menghabiskan pagi sampai malamnya menelusuri tiap sudur kampung kota di Jakarta dengan kondisi lingkungan dan ekonomi yang sangat beragam. Semua hal ini ia perjuangkan demi bisa membersamai advokasi hak-hak warga serta penataan wilayah kampung mereka.
+Di saat banyak orang lain ragu, Zahra berani mengambil risiko dan mengorbankan banyak hal demi mencapai tujuannya. Terutama saat ia bekerja di suatu NGO tata kota di Jakarta setelah lulus S1. Dengan pendapatan yang tidak sebanding, ia rela menghabiskan pagi sampai malamnya menelusuri tiap sudut kampung kota di Jakarta dengan kondisi lingkungan dan ekonomi yang sangat beragam. Semua hal ini ia perjuangkan demi bisa membersamai advokasi hak-hak warga serta penataan wilayah kampung mereka.
 
 {{<img caption="Wisuda Zahra dari program MSc Social Development Practice di University College London (UCL)"
 src="images/zahra_wisuda.jpg" >}}
 
-Setelah lulus kuliah *MSc Social Development Practice* di University College London (UCL) dengan beasiswa penuh dari negara, ia sekarang mulai merintis karir sebagai seorang akademisi. Memilih untuk memperjuangkan visinya sebagai akademisi adalah jalur yang sulit namun cocok untuk Zahra. Isu-isu rendahnya kesejahteraan dosen dan kurangnya kajian akademis dalam perumusan kebijikan akan menjadi hambatan besar perjuangan di jalur akadmisi. Namun di lain sisi, kebebasan akademik menjamin Zahra bisa mengkaji dan menentukan siakp tentang isu-isu perumahan secara objektif, ilmiah, dan independen.  
+Setelah lulus kuliah *MSc Social Development Practice* di University College London (UCL) dengan beasiswa penuh dari negara, ia sekarang mulai merintis karir sebagai seorang akademisi. Memilih untuk memperjuangkan visinya sebagai akademisi adalah jalur yang sulit namun cocok untuk Zahra. Isu-isu rendahnya kesejahteraan dosen dan kurangnya kajian akademis dalam perumusan kebijikan akan menjadi hambatan besar perjuangan di jalur akademisi. Namun di lain sisi, kebebasan akademik menjamin Zahra bisa mengkaji dan menentukan siakp tentang isu-isu perumahan secara objektif, ilmiah, dan independen.  
 
 Sebagai orang yang juga beridealisme dan berambisi besar, memiliki Zahra sebagai pasangan membuatku merasa aman dengan rencana masa depanku. Apapun yang akan terjadi nanti, aku tau ada Zahra disampingku yang akan berjuang bersama untuk merealisasikan impiannya.
 
@@ -63,7 +65,7 @@ Kami berdua tau selalu ada tempat kembali dan bersandar saat kami sedang lelah b
 
 Aku percaya Zahra adalah orang yang sangat spesial, bukan hanya bagiku, namun juga bagi dunia. Ia adalah seorang **altruis** yang mementingkan kebutuhan orang-orang yang kesusahan diatas kebutuhannya sendiri. Namun ia bukan orang yang reaktif. Ia memiliki visi besar untuk menyelesaikan isu perumahan di Indonesia dan **idealisme** yang kuat untuk memperjuangkan visi tersebut.
 
-Zahra bukan orang yang sempurna. 
+Zahra bukan orang yang sempurna.
 
 Tapi aku percaya, jika ada banyak orang seperti Zahra; Indonesia dan dunia pasti akan baik-baik saja.
 
