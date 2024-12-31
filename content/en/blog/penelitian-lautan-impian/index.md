@@ -1,9 +1,9 @@
 ---
 author: Ibrahim Fadhil Djauhari
-title: "Penelitian, Lautan, dan Impian: Perjalanan Disertasi S2 di Inggris"
+title: "Penelitian, Lautan, dan Impian: Pengalamanm Disertasi S2 di Inggris"
 description: "Kabel, kabel, di bawah laut; dimana engkau berada?"
 date: "2024-12-31"
-keywords: ["kuliah", "s2", "luar negeri","beasiswa", "tesis","disertasi","skripsi","perkapalan"]
+keywords: ["kuliah", "s2", "luar negeri","beasiswa","pengalaman", "tesis","disertasi","skripsi","perkapalan"]
 tags: 
   - "indonesian"
 thumbnail: "/blog/penelitian-lautan-impian.jpg"
