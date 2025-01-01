@@ -219,7 +219,7 @@ Pengujian di laut Plymouth bukan hanya ujian bagi sistem yang kubuat, tapi juga 
 {{<img caption="Foto bersama Smarty200 AUV setelah pengujian di Plymouth."
 src="images/plymouth.jpg" >}}
 
-## Memanen yang Telah Ditanam
+## Menuai yang Telah Ditabur
 
 Saat pertama kali menginjakkan kaki di kapal survei di Plymouth, aku sering terdiam, memandangi lautan luas yang membentang di hadapanku. Bukan hanya karena ini pengalaman pertamaku melaut dengan kapal sekecil itu, tapi juga karena aku kembali merenungkan alasanku mendalami bidang *underwater robotics*.
 
