@@ -25,17 +25,17 @@ DefaultContentLanguageInSubdir = true
         url = "page/about/"
         weight = 2
 
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
+#    [[languages.en.menu.main]]
+#        name = "Tags"
+#        url = "tags"
+#        weight = 3
 
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
@@ -52,7 +52,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Ibrahim Fadhil Djauhari · All rights reserved"
+  copyright = "Copyright © 2025 - Ibrahim Fadhil Djauhari · All rights reserved"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
