@@ -1,29 +1,26 @@
 ---
 author: Ibrahim Fadhil Djauhari
-# title: "Ibrahim Fadhil Djauhari"
-date: "2025-11-01"
+title: "CV"
+date: "2024-11-01"
 description: "CV of Ibrahim Fadhil Djauhari"
 keywords: ["cv"]
 tags: 
   - "english"
-# type: about
-toc: false
+type: about
+disable_toc: true
 ---
 
-<!-- {{<img caption="Hello there!"
-src="/ibra.jpg" >}} -->
+<!-- {{<img src="/ibra.jpg" >}} -->
+---
 
 # Ibrahim Fadhil Djauhari
-Electrical, Software, and Marine Engineer  
-Jakarta Metropolitan Area  
-📧 [ibrafdj@gmail.com](mailto:ibrafdj@gmail.com) 
-
 ## Summary
 An Electrical, Software, and Marine Engineer with over 4 years of experience developing maritime robotics, particularly Autonomous Underwater Vehicles (AUVs). Specialized in developing autonomous systems while demonstrating success in cloud engineering and IoT applications, spanning embedded systems, computer vision, and cloud architecture.
 
 ## Experience
 
-### Research Assistant | University of Southampton
+### Research Assistant 
+#### University of Southampton
 *September 2024 - November 2024 (3 months)*  
 Southampton, England, United Kingdom
 
@@ -32,7 +29,8 @@ Southampton, England, United Kingdom
 - Developed a cable detection API using Flask to bridge communication between the computer vision model & cable survey system
 - Planned and executed the deployment of an AUV in a four-day sea trial off the coast of Plymouth to test the subsea cable survey system
 
-### Cloud Middleware Engineer | Samsung R&D Institute Indonesia
+### Cloud Middleware Engineer
+#### Samsung R&D Institute Indonesia
 *August 2021 - August 2023 (2 years 1 month)*  
 Jakarta, Indonesia
 
@@ -42,33 +40,38 @@ Jakarta, Indonesia
 - Developed automated CI/CD pipeline with Blue-Green deployment strategy using Github API, AWS SNS, and AWS EC2 to ensure 100% uptime of POI Search API
 - Developed real-time monitoring dashboards using Grafana and Loki to visualise POI Search API performance
 
-### Research Assistant | Institut Teknologi Bandung (ITB-HUG Research Team)
+### Research Assistant
+#### Institut Teknologi Bandung (ITB-HUG Research Team)
 *October 2020 - August 2023 (2 years 11 months)*  
 Bandung Area, West Java, Indonesia
 
 - Developed the guidance and control systems of the ITB Hybrid Underwater Glider (ITB-HUG). A HUG is a type of Autonomous Underwater Vehicle (AUV) capable of underwater movement in six Degrees-of-Freedom (DoF) and two modes of movement: glide and propulsion
 - Deployed the ITB-HUG navigation, guidance, and control systems on an embedded system consisting of UUDOx86 & Beaglebone Black boards for high-level systems and Arduino Nano boards for low-level controllers
 
-### IoT Application Engineer | CAD-IT Consultants (ASIA) Pte Ltd
+### IoT Application Engineer
+#### CAD-IT Consultants (Asia) Pte Ltd
 *December 2020 - July 2021 (8 months)*  
 Bandung, West Java, Indonesia
 
 - Developed full-stack IoT applications for enterprise manufacturing operations management using NodeJS, Flask, React, PostgreSQL, and PTC Thingworx
 
-### Research And Development Engineer | iROS Tech
+### Research And Development Engineer
+#### iROS Tech
 *July 2020 - September 2020 (3 months)*  
 Bandung, West Java, Indonesia
 
 - Implemented people counter system to support COVID-19 health protocol in Paris van Java mall
 - Designed a client-server communication system for IoT devices implemented in ESP32
 
-### Teaching Assistant | Bandung Institute of Technology
+### Teaching Assistant
+#### Bandung Institute of Technology
 *September 2019 - December 2019 (4 months)*  
 Bandung
 
 Tutored Digital Systems to a class of ~80 2nd year ITB Electrical Engineering students. The class materials include introduction to digital logic, binary numbers, and digital circuit design.
 
-### Project Leader | OSKM ITB 2019
+### Project Leader
+#### OSKM ITB 2019
 *April 2019 - September 2019 (6 months)*  
 Bandung Area, West Java, Indonesia
 
@@ -83,16 +86,14 @@ Key Achievements:
 ## Education
 
 ### University of Southampton
-Master of Science - Maritime Engineering Science: Marine Engineering & Autonomy  
-*September 2023 - September 2024*
+#### Master of Science - Maritime Engineering Science: Marine Engineering & Autonomy  
+*September 2023 - September 2024*\
+Graduated with Merit
 
-### Institut Teknologi Bandung (ITB)
-Bachelor of Science - Electrical, Electronics and Communications Engineering  
-*August 2016 - October 2020*
-
-### SMA Negeri 8 Jakarta
-MIPA  
-*2013 - 2016*
+### Bandung Institute of Technology (ITB)
+#### Bachelor of Science - Electrical Engineering  
+*August 2016 - October 2020*\
+GPA: 3.54
 
 <!-- ## Skills
 - Internet of Things (IoT)
