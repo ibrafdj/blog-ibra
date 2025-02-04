@@ -14,8 +14,8 @@ theme = "blist"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
-    url = "tags"
+    name = "CV"
+    url = "page/cv/"
     weight = 3
 
 [params]
@@ -29,7 +29,7 @@ theme = "blist"
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
@@ -46,7 +46,7 @@ theme = "blist"
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Ibrahim Fadhil Djauhari · All rights reserved"
+  copyright = "Copyright © 2025 - Ibrahim Fadhil Djauhari · All rights reserved"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
