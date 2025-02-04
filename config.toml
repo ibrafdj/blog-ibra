@@ -2,39 +2,29 @@ baseurl = "https://www.ibrafdj.com/"
 metaDataFormat = "yaml"
 title = "Ibrafdj"
 theme = "blist"
-
-DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
-[languages]
-  [languages.en]
-    contentDir = "content/en" #English
+ 
+[[menu.main]]
+    name = "Blog"
+    url = "blog"
     weight = 1
-    languageName = "English"
-    [languages.en.params]
-      introTitle = "Ibrahim Fadhil's Blog"
-      introSubtitle = "The written thoughts of a simple-minded thinker"
-      introPhoto = "/ibra.jpg"
-      # logo = "/logo.png"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
 
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
-        weight = 2
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 2
 
-    [[languages.en.menu.main]]
-        name = "CV"
-        url = "page/cv/"
-        weight = 3
-#    [[languages.en.menu.main]]
-#        name = "Tags"
-#        url = "tags"
-#        weight = 3
+[[menu.main]]
+    name = "CV"
+    url = "page/cv/"
+    weight = 3
 
 [params]
+  # Intro section
+  introTitle = "Ibrahim Fadhil's Blog"
+  introSubtitle = "The written thoughts of a simple-minded thinker"
+  introPhoto = "/ibra.jpg"
+  # logo = "/logo.png"
+
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
@@ -127,10 +117,6 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/ibrafdj"
-
-[[menu.main]]
-  name = "About"
-  url = "/about"
 
 [build]
   writeStats = true
