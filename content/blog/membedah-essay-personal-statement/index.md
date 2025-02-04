@@ -104,7 +104,7 @@ Untuk lulusan S1, kalian minimal punya satu pengalaman riset yaitu **skripsi** a
 
 Paragraf ini memang isinya "fafifu wasweswos" tentang hal-hal teknis yang kukerjakan dalam tugas akhirku. Aku tidak akan menjelaskan panjang lebar berbagai istilah dalam paragraf ini karena menurutku isinya terlalu teknis. Jika kalian tertarik dengan penjelasannya lengkapnya, silahkan baca [Tugas Akhirku](https://digilib.itb.ac.id/gdl/download/214151).
 
-Ingat prinsip ["show, don't tell"](https://www.twinkl.co.uk/teaching-wiki/show-dont-tell). Menjelaskan keahlian dengan menulis "*I am experienced in building robots*" atau "*My skills include electrical circuit design and programming*" itu membosankan dan kurang menggambarkan keahlian kalian secara spesifik. Sebagai gantinya, aku menjelaskan secara detil setiap sistem yang kukerjakan dalam tugas akhirku.
+Ingat prinsip [show, don\'t tell](https://www.twinkl.co.uk/teaching-wiki/show-dont-tell). Menjelaskan keahlian dengan menulis "*I am experienced in building robots*" atau "*My skills include electrical circuit design and programming*" itu membosankan dan kurang menggambarkan keahlian kalian secara spesifik. Sebagai gantinya, aku menjelaskan secara detil setiap sistem yang kukerjakan dalam tugas akhirku.
 
 > To move from one waypoint to the next, the ITB-HUG needs to generate paths between each waypoint and steer towards them based on its current position and orientation.
 

@@ -33,7 +33,7 @@ Oke, istilahnya udah *clear*. Selanjutnya, disertasi di Inggris tuh emang ngerja
 
 Mirip seperti skripsi S1 di Indonesia, prosesnya dimulai dengan mengajukan judul penelitian kepada dosen pembimbing. Proses ini biasanya dimulai pada awal semester 2.
 
-Untungnya, aku gaperlu bingung nentuin judul karena aku udah siap dari jauh-jauh hari! Dalam esai [*personal statement*]({{< ref "/blog/membedah-essay-personal-statement/index.md" >}} "Membedah Contoh Essay Personal Statement untuk Kuliah ke Luar Negeri")yang kutulis untuk mendaftar ke University of Southampton, aku telah menulis minat riset dan calon pembimbingku. Alasanku memilih kuliah di Southampton adalah karena aku ingin mengerjakan riset tentang *underwater robotics* dibimbing oleh Profesor [Blair Thornton](https://www.southampton.ac.uk/people/5xh2l8/professor-blair-thornton).
+Untungnya, aku gaperlu bingung nentuin judul karena aku udah siap dari jauh-jauh hari! Dalam esai [personal statement]({{< ref "/blog/membedah-essay-personal-statement/index.md" >}} "Membedah Contoh Essay Personal Statement untuk Kuliah ke Luar Negeri")yang kutulis untuk mendaftar ke University of Southampton, aku telah menulis minat riset dan calon pembimbingku. Alasanku memilih kuliah di Southampton adalah karena aku ingin mengerjakan riset tentang *underwater robotics* dibimbing oleh Profesor [Blair Thornton](https://www.southampton.ac.uk/people/5xh2l8/professor-blair-thornton).
 
 Karena aku sudah memiliki tujuan yang jelas, dari sebelum semester 1 berakhir aku sudah menghubungi calon dosen pembimbingku tentang potensi judul Disertasi yang bisa aku kerjakan.
 
