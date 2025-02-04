@@ -25,6 +25,10 @@ DefaultContentLanguageInSubdir = true
         url = "page/about/"
         weight = 2
 
+    [[languages.en.menu.main]]
+        name = "CV"
+        url = "page/cv/"
+        weight = 3
 #    [[languages.en.menu.main]]
 #        name = "Tags"
 #        url = "tags"
