@@ -15,7 +15,7 @@ theme = "blist"
 
 [[menu.main]]
     name = "CV"
-    url = "page/cv/"
+    url = "page/cv.pdf"
     weight = 3
 
 [params]
