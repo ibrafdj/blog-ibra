@@ -7,7 +7,7 @@ keywords: ["cv"]
 tags: 
   - "english"
 type: about
-disable_toc: true
+toc: false
 ---
 
 <!-- {{<img src="/ibra.jpg" >}} -->
