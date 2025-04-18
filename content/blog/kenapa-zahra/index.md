@@ -5,6 +5,7 @@ description: "Alasanku memilih Zahra Khairunnisa"
 date: "2024-07-23"
 tags: 
   - "indonesian"
+language: "indonesian"
 thumbnail: "/blog/kenapa_zahra.jpg"
 ---
 

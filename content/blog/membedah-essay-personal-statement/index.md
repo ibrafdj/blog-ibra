@@ -6,6 +6,7 @@ date: "2023-12-26"
 keywords: ["kuliah", "s2", "luar negeri", "essay", "contoh essay","pendaftaran", "statement of purpose", "personal statement", "beasiswa", "lpdp"]
 tags:
 - "indonesian"
+language: "indonesian"
 thumbnail: "/blog/membedah-essay-personal-statement.jpg"
 draft: false
 ---

@@ -7,6 +7,7 @@ tags:
   - "crash-landing-on-you"
   - "english"
   - "review"
+language: "english"
 thumbnail: "/blog/a-review-of-crash-landing-on-you-2019.png"
 ---
 

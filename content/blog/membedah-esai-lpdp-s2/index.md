@@ -6,6 +6,7 @@ date: "2025-02-02"
 keywords: ["beasiswa", "lpdp", "kuliah", "s2", "luar negeri", "esai", "contoh esai", "essay", "contoh essay","pendaftaran"]
 tags:
 - "indonesian"
+language: "indonesian"
 thumbnail: "/blog/membedah-essay-personal-statement.jpg"
 draft: true
 ---

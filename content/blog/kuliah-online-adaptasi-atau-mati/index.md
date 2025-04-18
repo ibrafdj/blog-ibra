@@ -7,6 +7,7 @@ tags:
   - "indonesian"
   - "kuliah-online"
   - "analysis"
+language: "indonesian"
 thumbnail: "/blog/kuliah-online-adaptasi-atau-mati.jpg"
 ---
 

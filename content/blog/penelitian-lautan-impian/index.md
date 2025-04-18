@@ -7,7 +7,7 @@ keywords: ["kuliah", "s2", "luar negeri","beasiswa","pengalaman", "tesis","diser
 tags: 
   - "indonesian"
 thumbnail: "/blog/penelitian-lautan-impian.jpg"
-draft: false
+language: "indonesian"
 ---
 <!-- Tulisan tentang pengalaman disertasi S2 di University of Southampton, Inggris. Isinya bukan teknis.
 
