@@ -1,6 +1,6 @@
 baseurl = "https://www.ibrafdj.com/"
 metaDataFormat = "yaml"
-title = "Ibrafdj"
+title = "ibrafdj"
 theme = "blist"
  
 [[menu.main]]
@@ -9,13 +9,13 @@ theme = "blist"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    name = "Projects"
+    url = "project"
     weight = 2
 
 [[menu.main]]
-    name = "Call"
-    url = "https://zcal.co/ibrafdj/meet"
+    name = "About"
+    url = "page/about/"
     weight = 3
 
 [[menu.main]]
@@ -23,10 +23,15 @@ theme = "blist"
     url = "page/cv.pdf"
     weight = 4
 
+[[menu.main]]
+    name = "Call Me!"
+    url = "https://zcal.co/ibrafdj/meet"
+    weight = 5
+
 [params]
   # Intro section
-  introTitle = "Ibrahim Fadhil Djauhari"
-  introSubtitle = "Underwater robotics engineer"
+  introTitle = "Hi, I'm Ibrahim!"
+  introSubtitle = "An Underwater Robotics Engineer with 5 years of experience building field-tested mobile robotics systems"
   introPhoto = "/ibra.jpg"
   # logo = "/logo.png"
 
@@ -34,7 +39,7 @@ theme = "blist"
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = false
+  enableSearch = true
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
@@ -105,7 +110,7 @@ theme = "blist"
 [params.homepage.social]
   # Global params common for both languages
   title = "Want to get in touch?"
-  description = "Contact me up through my social media!"
+  description = "Contact me through my social media!"
 
   [[params.homepage.social.icons]]
     website = "email"

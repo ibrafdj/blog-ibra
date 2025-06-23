@@ -4,10 +4,9 @@ title: "CV"
 date: "2024-11-01"
 description: "CV of Ibrahim Fadhil Djauhari"
 keywords: ["cv"]
-tags: 
-  - "english"
 type: about
 toc: false
+draft: true
 ---
 
 <!-- {{<img src="/ibra.jpg" >}} -->
