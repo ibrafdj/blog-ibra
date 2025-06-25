@@ -2,7 +2,7 @@
 author: Ibrahim Fadhil Djauhari
 title: "Hybrid Underwater Glider (HUG)"
 description: "Developed the navigation, guidance, and control systems of an AUV with two modes of movement"
-# date: "2020-08-12"
+date: "2020-01-01"
 # tags: 
 #   - "english"
 # language: "english"

@@ -50,8 +50,8 @@ Ketiga, karena proyek penelitian ini sudah berjalan, tim penelitian sebelumnya s
 Keempat, AUV yang dipakai dalam penelitian ini memiliki sistem yang sangat mirip dengan AUV yang kugunakan di Tugas Akhir S1-ku. Karena aku sudah sangat *familiar* dengan sistemnya, aku yakin bisa mengerjakan riset ini dengan cepat.
 
 {{<img caption="AUV Smarty200 yang dimiliki dan dioperasikan oleh lab <i>Ocean Perception</i> di University of Southampton"
-source="[Ocean Perception Lab](https://oceanperception.com/research/smarty200/)"
-src="https://oceanperception.com/img/smarty200/go_smarty200.png" >}}
+source="[Ocean Perception Lab](https://oceanperception.com/platforms/smarty200/)"
+src="https://oceanperception.com/media/go_smarty200_hu0d909133655de29696a8529f168fa936_433222_1920x1920_fit_q75_h2_lanczos_3.webp" >}}
 
 Tanpa pikir panjang, aku menyanggupi mengerjakan topik tersebut untuk disertasiku. Blair pun dengan senang hati bersedia untuk membimbingku.
 
