@@ -29,6 +29,8 @@ theme = "blist"
     weight = 5
 
 [params]
+  # Site name in home window
+  homeTitle = "Ibrahim Fadhil Djauhari's Website"
   # Intro section
   introTitle = "Hi, I'm Ibrahim!"
   introSubtitle = "An Underwater Robotics Engineer with 5 years of experience building field-tested mobile robotics systems"
