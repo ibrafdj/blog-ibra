@@ -33,7 +33,7 @@ theme = "blist"
   homeTitle = "Ibrahim Fadhil Djauhari's Website"
   # Intro section
   introTitle = "Hi, I'm Ibrahim!"
-  introSubtitle = "An Underwater Robotics Engineer with 5 years of experience building field-tested mobile robotics systems"
+  introSubtitle = "A Robotics Engineer with 5 years of experience building field-tested mobile robotics systems"
   introPhoto = "/ibra.jpg"
   # logo = "/logo.png"
 
