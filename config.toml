@@ -33,7 +33,7 @@ theme = "blist"
   homeTitle = "Ibrahim Fadhil Djauhari's Website"
   # Intro section
   introTitle = "Hi, I'm Ibrahim!"
-  introSubtitle = "A Robotics Engineer with 5 years of experience building field-tested mobile robotics systems"
+  introSubtitle = "A Lead Robotics Engineer with 6 years of experience building field-tested mobile robotics systems"
   introPhoto = "/ibra.jpg"
   # logo = "/logo.png"
 
@@ -58,7 +58,7 @@ theme = "blist"
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2025 - Ibrahim Fadhil Djauhari · All rights reserved"
+  copyright = "Copyright © 2026 - Ibrahim Fadhil Djauhari · All rights reserved"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -118,23 +118,29 @@ theme = "blist"
   description = "Contact me through my social media!"
 
   [[params.homepage.social.icons]]
+    website = "phone"
+    url = "https://zcal.co/ibrafdj/meet"
+  [[params.homepage.social.icons]]
     website = "email"
     url = "ibrafdj@gmail.com"
-  [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/ibrafdj"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://www.instagram.com/ibrafdj/"
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://www.linkedin.com/in/ibrafdj/"
   [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://www.youtube.com/channel/UCtICwiLkIR1QvWJdVCG85MQ"
+    website = "googlescholar"
+    url = "https://scholar.google.com/citations?user=LwwjG_IAAAAJ"
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/ibrafdj"
+  [[params.homepage.social.icons]]
+    website = "x"
+    url = "https://x.com/ibrafdj"
+  # [[params.homepage.social.icons]]
+  #   website = "instagram"
+  #   url = "https://www.instagram.com/ibrafdj/"
+  # [[params.homepage.social.icons]]
+  #   website = "youtube"
+  #   url = "https://www.youtube.com/channel/UCtICwiLkIR1QvWJdVCG85MQ"
 
 [build]
   writeStats = true

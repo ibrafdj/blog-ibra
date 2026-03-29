@@ -1,0 +1,16 @@
+<div 
+  class="border border-gray-200 dark:border-gray-700 rounded-lg shadow-sm hover:shadow-md transition-all overflow-hidden relative aspect-video group cursor-pointer bg-black"
+  data-highlight-content="{{ .Content }}"
+  onclick="toggleHighlightContent(this)">
+  {{ if .Params.thumbnail }}
+  <img src="{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="w-full h-full object-cover transition-all duration-200 ease-out md:group-hover:scale-105" />
+  {{ end }}
+  <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-100 transition-opacity duration-200 highlight-card-overlay"></div>
+  <div class="absolute bottom-0 left-0 right-0 p-2 text-white pointer-events-none opacity-100 transition-opacity duration-200 highlight-card-header">
+    <h1 class="text-md lg:text-xl font-semibold leading-tight">{{ .Params.title }}</h1>
+    <div class="font-light text-xs lg:text-sm leading-tight">{{ .Params.description }}</div>
+  </div>
+  <div class="absolute inset-0 p-4 opacity-0 transition-opacity duration-200 overflow-y-auto flex items-center justify-center pointer-events-none highlight-card-content">
+    <div class="text-sm leading-relaxed text-center highlight-content-text"></div>
+  </div>
+</div>

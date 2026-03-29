@@ -6,6 +6,7 @@ date: "2024-12-31"
 keywords: ["kuliah", "s2", "luar negeri","beasiswa","pengalaman", "tesis","disertasi","skripsi","perkapalan"]
 tags: 
   - "indonesian"
+  - "Professional"
 thumbnail: "/blog/penelitian-lautan-impian.jpg"
 language: "indonesian"
 ---
@@ -17,11 +18,11 @@ Dengan tulisan ini aku mau menginspirasi orang2 untuk idealis dalam ngerjain skr
 
 Kita tidak bisa tau kapan kesempatan emas akan datang. 
 
-Yang bisa kita lakukan hanyalah bersiap—mengasah diri, merangkul risiko, dan memastikan saat pintu itu terbuka, kita siap melangkah masuk.
+Yang bisa kita lakukan hanyalah bersiap, mengasah diri, merangkul risiko, dan memastikan saat pintu itu terbuka, kita siap melangkah masuk.
 
 Itulah yang terjadi ketika aku memutuskan untuk [pindah jurusan]({{< ref "/blog/merakit-rangkaian-mengarungi-lautan/index.md" >}} "Merakit Rangkaian, Mengarungi Lautan") ke Maritime Engineering saat kuliah S2 di University of Southampton. Langkah yang awalnya penuh keraguan justru menjadi titik balik yang mempertegas arah hidupku: fokus di bidang *Underwater Robotics*.
 
-Ketika kesempatan datang untuk mengerjakan disertasi tentang Autonomous Underwater Vehicle (AUV)—dengan wahana yang mirip dengan saat Tugas Akhir S1-ku dulu—aku tahu, inilah saatnya. *I have to go above and beyond*.
+Ketika kesempatan datang untuk mengerjakan disertasi tentang Autonomous Underwater Vehicle (AUV), dengan wahana yang mirip dengan saat Tugas Akhir S1-ku dulu, aku tahu, inilah saatnya. *I have to go above and beyond*.
 
 Perjuanganku mengerjakan disertasi ini membawaku untuk berkesperimen di *towing tank* universitas terbesar di Inggris, dibayarin tiket penerbangan Indonesia-Inggris beserta akomodasinya, dan melakukan pengujian langsung di laut pesisir kota Plymouth.
 
@@ -208,9 +209,9 @@ Satu hari setelah lamaranku pada tanggal 26 Oktober 2024, aku langsung kembali k
 {{<img caption="Melamar Zahra adalah oase ketenangan di tengah kekeosan bolak-balik terbang Indonesia—Inggris."
 src="images/lamaran.jpg" >}}
 
-Pengujian di laut berlangsung selama empat hari penuh, dari tanggal 5 hingga 8 November, di pesisir kota Plymouth. Lokasinya? Di *Plymouth Marine Autonomous Zone*—sebuah area perairan khusus yang didedikasikan untuk menguji teknologi perkapalan otonom.
+Pengujian di laut berlangsung selama empat hari penuh, dari tanggal 5 hingga 8 November, di pesisir kota Plymouth. Lokasinya? Di *Plymouth Marine Autonomous Zone*, sebuah area perairan khusus yang didedikasikan untuk menguji teknologi perkapalan otonom.
 
-Selama empat hari itu, aku dan tim menjalani jadwal yang bisa dibilang brutal. Pukul 8 pagi, kami sudah berlayar ke tengah laut, menguji AUV di perairan hingga matahari terbenam. Begitu kembali ke darat, ratusan gigabyte data pengujian dipindahkan dari AUV ke hard disk. Tapi pekerjaan belum selesai—data harus segera dianalisis, sistem perlu diperbaiki jika ada masalah, dan rencana untuk pengujian hari berikutnya harus disusun sebelum mentari kembali terbit. Waktu pengujian di laut seperti ini sangat langka dan mahal, jadi kami berkomitmen memanfaatkan setiap detik sebaik-baiknya.
+Selama empat hari itu, aku dan tim menjalani jadwal yang bisa dibilang brutal. Pukul 8 pagi, kami sudah berlayar ke tengah laut, menguji AUV di perairan hingga matahari terbenam. Begitu kembali ke darat, ratusan gigabyte data pengujian dipindahkan dari AUV ke *hard disk*. Tapi, pekerjaan belum selesai. Data harus segera dianalisis, sistem perlu diperbaiki jika ada masalah, dan rencana untuk pengujian hari berikutnya harus disusun sebelum mentari kembali terbit. Waktu pengujian di laut seperti ini sangat langka dan mahal, jadi kami berkomitmen memanfaatkan setiap detik sebaik-baiknya.
 
 Tantangan? Tentu saja ada. Pada hari ketiga, aku akhirnya tumbang, kalah oleh mabuk laut. Perdana muntah-muntah di pinggir kapal. Tapi saat fisikku sempat menyerah, sistem yang kubangun justru berhasil membuktikan diri. Dalam empat hari pengujian, metode *novel* yang kuterapkan terbukti mampu memantau kabel bawah laut, meskipun masih ada banyak ruang untuk perbaikan.
 
@@ -223,11 +224,11 @@ src="images/plymouth.jpg" >}}
 
 Saat pertama kali menginjakkan kaki di kapal survei di Plymouth, aku sering terdiam, memandangi lautan luas yang membentang di hadapanku. Bukan hanya karena ini pengalaman pertamaku melaut dengan kapal sekecil itu, tapi juga karena aku kembali merenungkan alasanku mendalami bidang *underwater robotics*.
 
-*I could've stayed in a cozy office job as a Software Engineer—optimizing business processes, writing functions, and increasing shareholder value day by day. But instead, here I am, in the middle of the ocean, trusting my software to control a robot worth decades of my salary.*
+*I could've stayed in a cozy office job as a Software Engineer; optimizing business processes, writing functions, and increasing shareholder value day by day. But instead, here I am, in the middle of the ocean, trusting my software to control a robot worth decades of my salary.*
 
 Momen itu terasa seperti panen pertama dari bibit yang kutanam bertahun-tahun lalu. Keputusan-keputusan kecil yang kumulai dari memilih topik tugas akhir S1, menjadi asisten riset di ITB, hingga pindah ke bidang Maritime Engineering semuanya bermuara di sini. Untuk pertama kalinya dalam hidupku, aku merasa tervalidasi sepenuhnya. Semua kerja keras itu terbayar, dan aku tidak pernah merasa seberharga ini atas pilihan apapun sebelumnya.
 
-Pengalaman melaut ini bukanlah akhir, melainkan awal dari pintu-pintu kesempatan baru yang akan terbuka di masa depan. Di balik setiap pintu, aku ingin terus mencari momen seperti ini—momen yang membuatku yakin akan jalan hidupku, momen yang kuharapkan bisa terus kutemukan hingga akhir hayatku nanti.
+Pengalaman melaut ini bukanlah akhir, melainkan awal dari pintu-pintu kesempatan baru yang akan terbuka di masa depan. Di balik setiap pintu, aku ingin terus mencari momen seperti ini: momen yang membuatku yakin akan jalan hidupku dan momen yang kuharapkan bisa terus kutemukan hingga akhir hayatku nanti.
 
 Kita tidak bisa tau kapan kesempatan emas akan datang. 
 

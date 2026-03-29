@@ -1,0 +1,93 @@
+{{ define "main" }}
+  {{- partial "intro.html" . -}}
+
+  <section class="max-w-ibrafdj mx-auto">
+    {{/* Competency Triad Section */}}
+    <div class="container p-6 grid grid-cols-1 md:grid-cols-3 gap-2 lg:gap-4">
+      {{ range (where .Site.RegularPages "Type" "highlight") }}
+        {{- partial "highlight-card.html" . -}}
+      {{ end }}
+    </div>
+
+    {{/* Project Repository Section */}}
+    <div class="container px-6">
+      <h2 class="mb-2 text-xl md:text-2xl lg:text-3xl font-bold capitalize">Projects</h2>
+      <p class="text-sm md:text-md lg:text-lg  text-gray-600 dark:text-gray-400">Robotic systems developed and deployed in the field</p>
+    </div>
+    <div class="container p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+      {{ range first 6 (where .Site.RegularPages.ByDate.Reverse "Type" "project")  }}
+        {{- partial "blog-card.html" . -}}
+      {{ end }}
+    </div>
+
+    {{ if gt (len (where .Site.RegularPages.ByDate.Reverse "Type" "project")) 6 }}
+    <div class="text-center mb-8">
+      <a class="px-8 py-3 rounded transition-colors {{ .Site.Params.ascentColor | default "bg-blue-50" }}
+        text-gray-500 hover:text-gray-800 dark:bg-gray-900 dark:text-gray-400 dark:hover:text-white"
+        href="{{ .Site.BaseURL | absLangURL }}project" lang="{{ .Lang }}">
+        View all projects
+      </a>
+    </div>
+    {{ end }}
+
+    {{/* Featured Professional Writing Section */}}
+    <div class="container px-6">
+      <h2 class="mb-2 text-xl md:text-2xl lg:text-3xl font-bold capitalize">Featured Writing</h2>
+      <p class="text-sm md:text-md lg:text-lg text-gray-600 dark:text-gray-400">Professional reflections & technical insights (English & Indonesian)</p>
+    </div>
+    
+    <div class="container p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+      {{/* Featured articles - display specific approved posts */}}
+      {{ $pages := where (where .Site.RegularPages.ByDate.Reverse "Type" "blog") "Params.tags" "intersect" (slice "Professional") }}
+      {{ range first 3 $pages }}
+        {{- partial "blog-card.html" . -}}
+      {{ end }}
+    </div>
+
+  </section>
+
+  {{/* Highlight Card Toggle Script */}}
+  <script>
+    function toggleHighlightContent(card) {
+      // Close any other open cards
+      document.querySelectorAll('[data-highlight-content].active').forEach(c => {
+        if (c !== card) c.classList.remove('active');
+      });
+      
+      const content = card.dataset.highlightContent;
+      const contentDiv = card.querySelector('.highlight-card-content .text-sm');
+      
+      if (card.classList.contains('active')) {
+        // Close content view
+        card.classList.remove('active');
+      } else {
+        // Open content view - extract plain text from HTML content
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = content;
+        contentDiv.textContent = tempDiv.textContent;
+        card.classList.add('active');
+      }
+    }
+    
+    // Close content when clicking outside
+    document.addEventListener('click', (e) => {
+      // If click is on a card itself, let the toggle handler deal with it
+      if (e.target.closest('[data-highlight-content]')) {
+        return;
+      }
+      // Otherwise close all active cards
+      document.querySelectorAll('[data-highlight-content].active').forEach(card => {
+        card.classList.remove('active');
+      });
+    });
+    
+    // Close on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        document.querySelectorAll('[data-highlight-content].active').forEach(card => {
+          card.classList.remove('active');
+        });
+      }
+    });
+  </script>
+{{ end }}

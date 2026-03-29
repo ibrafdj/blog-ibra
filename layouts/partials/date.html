@@ -1,0 +1,9 @@
+{{ $date := .date }}
+{{ $language := .language | default "en" }}
+{{ $format := .format | default "long" }}
+
+{{ if eq $format "short" }}
+  {{ $date.Format "Jan 2, 2006" }}
+{{ else }}
+  {{ $date.Format "Monday, January 2, 2006" }}
+{{ end }}

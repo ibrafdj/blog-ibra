@@ -1,0 +1,104 @@
+{{ define "main" }}
+  {{- partial "intro.html" . -}}
+
+  <div class="container max-w-ibrafdj mx-auto px-6 py-6">
+    <h1 class="text-3xl font-bold mb-4">{{ .Title }}</h1>
+    
+    {{/* Filter UI - Only show on blog section */}}
+    {{ if eq .Type "blog" }}
+    <div class="mb-6 flex flex-wrap gap-2">
+      <button id="filter-professional" class="px-4 py-2 rounded transition-colors font-medium bg-blue-600 text-white dark:bg-blue-700 hover:bg-blue-700 dark:hover:bg-blue-800" onclick="filterPosts('professional')">
+        Professional
+      </button>
+      <button id="filter-personal" class="px-4 py-2 rounded transition-colors font-medium bg-gray-200 text-gray-800 dark:bg-gray-700 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600" onclick="filterPosts('personal')">
+        Personal
+      </button>
+      <button id="filter-all" class="px-4 py-2 rounded transition-colors font-medium bg-gray-200 text-gray-800 dark:bg-gray-700 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600" onclick="filterPosts('all')">
+        All
+      </button>
+    </div>
+    {{ end }}
+  </div>
+
+  {{/* Display all pages with data attributes for filtering */}}
+  {{ $allPages := .Pages.ByDate.Reverse }}
+  {{ $paginator := .Paginate $allPages 6 }}
+  
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8 max-w-ibrafdj" id="blog-grid">
+    {{ range $paginator.Pages }}
+      <div class="blog-card" data-tags="{{ if .Params.tags }}{{ delimit .Params.tags " " }}{{ else }}{{ end }}">
+        {{- partial "blog-card.html" . -}}
+      </div>
+    {{ end }}
+  </div>
+
+  {{- partial "pagination.html" . -}}
+
+  {{ if eq .Type "blog" }}
+  <script>
+    let currentFilter = 'professional';
+    
+    function filterPosts(filter) {
+      currentFilter = filter;
+      const cards = document.querySelectorAll('.blog-card');
+      let visibleCount = 0;
+      
+      cards.forEach(card => {
+        const tags = card.dataset.tags.split(' ').map(t => t.toLowerCase());
+        let shouldShow = false;
+        
+        if (filter === 'all') {
+          shouldShow = true;
+        } else if (filter === 'professional') {
+          shouldShow = tags.includes('professional');
+        } else if (filter === 'personal') {
+          shouldShow = tags.includes('personal');
+        }
+        
+        if (shouldShow) {
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      
+      // Update button states
+      const updateButtonStyle = (buttonId, isActive) => {
+        const button = document.getElementById(buttonId);
+        if (isActive) {
+          button.classList.add('bg-blue-600', 'text-white', 'dark:bg-blue-700', 'hover:bg-blue-700', 'dark:hover:bg-blue-800');
+          button.classList.remove('bg-gray-200', 'text-gray-800', 'dark:bg-gray-700', 'dark:text-gray-200', 'hover:bg-gray-300', 'dark:hover:bg-gray-600');
+        } else {
+          button.classList.remove('bg-blue-600', 'text-white', 'dark:bg-blue-700', 'hover:bg-blue-700', 'dark:hover:bg-blue-800');
+          button.classList.add('bg-gray-200', 'text-gray-800', 'dark:bg-gray-700', 'dark:text-gray-200', 'hover:bg-gray-300', 'dark:hover:bg-gray-600');
+        }
+      };
+      
+      updateButtonStyle('filter-professional', filter === 'professional');
+      updateButtonStyle('filter-personal', filter === 'personal');
+      updateButtonStyle('filter-all', filter === 'all');
+      
+      // Show empty state if no posts visible
+      let emptyState = document.getElementById('empty-state');
+      if (visibleCount === 0) {
+        if (!emptyState) {
+          emptyState = document.createElement('div');
+          emptyState.id = 'empty-state';
+          emptyState.className = 'container px-6 mx-auto max-w-ibrafdj text-center py-8';
+          emptyState.innerHTML = '<p class="text-gray-600 dark:text-gray-400 text-lg">No articles found in this category.</p>';
+          document.getElementById('blog-grid').parentNode.insertBefore(emptyState, document.getElementById('blog-grid').nextSibling);
+        }
+        emptyState.style.display = '';
+      } else if (emptyState) {
+        emptyState.style.display = 'none';
+      }
+    }
+    
+    // Initialize with professional filter
+    document.addEventListener('DOMContentLoaded', () => filterPosts('professional'));
+  </script>
+  {{ end }}
+{{ end }}
+
+

@@ -1,0 +1,112 @@
+/* Highlight Modal Styling */
+
+/* Modal visibility transitions */
+#highlightModal {
+  transition: opacity 0.2s ease-out, visibility 0.2s ease-out;
+}
+
+#highlightModal.visible {
+  visibility: visible;
+}
+
+#highlightModal.invisible {
+  visibility: hidden;
+}
+
+/* Image filter for light/dark mode */
+@media (prefers-color-scheme: light) {
+  #modalImage {
+    filter: brightness(0.3) !important;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  #modalImage {
+    filter: brightness(1.6) !important;
+  }
+}
+
+/* Prose styling for markdown content */
+#modalContent {
+  line-height: 1.6;
+}
+
+#modalContent p {
+  margin: 0.5rem 0;
+}
+
+#modalContent h1,
+#modalContent h2,
+#modalContent h3,
+#modalContent h4,
+#modalContent h5,
+#modalContent h6 {
+  margin: 0.75rem 0 0.5rem 0;
+  font-weight: 600;
+}
+
+#modalContent h1 {
+  font-size: 1.5rem;
+}
+
+#modalContent h2 {
+  font-size: 1.25rem;
+}
+
+#modalContent h3 {
+  font-size: 1.1rem;
+}
+
+#modalContent ul,
+#modalContent ol {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+#modalContent ul li,
+#modalContent ol li {
+  margin: 0.25rem 0;
+}
+
+#modalContent code {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  #modalContent code {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+}
+
+#modalContent a {
+  color: #3b82f6;
+  text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+  #modalContent a {
+    color: #60a5fa;
+  }
+}
+
+#modalContent a:hover {
+  text-decoration: none;
+}
+
+#modalContent blockquote {
+  border-left: 4px solid #e5e7eb;
+  padding-left: 1rem;
+  margin: 0.5rem 0;
+  font-style: italic;
+  color: #666;
+}
+
+@media (prefers-color-scheme: dark) {
+  #modalContent blockquote {
+    border-left-color: #4b5563;
+    color: #aaa;
+  }
+}
