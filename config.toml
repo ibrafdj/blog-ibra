@@ -1,4 +1,4 @@
-baseurl = "https://www.ibrafdj.com/"
+baseurl = "https://ibrafdj.com/"
 metaDataFormat = "yaml"
 title = "ibrafdj"
 theme = "blist"
