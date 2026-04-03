@@ -13,11 +13,9 @@ draft: true
 ---
 Cara terbaik untuk belajar menulis adalah dengan membaca tulisan orang lain. Begitu juga untuk belajar menulis esai pendaftaran beasiswa. Sekadar membaca *tips & tricks* menulis esai di internet seringkali terasa tidak cukup untuk belajar karena kita tidak terbayang cara mengimplementasikannya ke tulisan esai kita. Namun memberikan esai yang sudah jadi secara cuma-cuma pun tidak cukup karena minim konteks dibalik penulisannya.
 
-Oleh karena itu, tahun 2023 lalu aku membuat tulisan [ini](https://www.ibrafdj.com/en/blog/membedah-essay-personal-statement/ "Membedah Esai Personal Statement Kuliah S2") untuk menuliskan **alasan** dan **pertimbanganku** dibalik **setiap paragraf dalam esai *personal statement*** pendaftaran kuliah S2-ku. Format tulisan "pembedahan esai" ini terinspirasi dari [tulisan Eugenie Y. Lai]() tentang pembedahan esai pendaftaran kuliah S3-nya.
+Oleh karena itu, tahun 2023 lalu aku membuat tulisan [ini](https://www.ibrafdj.com/blog/membedah-essay-personal-statement/ "Membedah Esai Personal Statement Kuliah S2") untuk menuliskan **alasan** dan **pertimbanganku** dibalik **setiap paragraf dalam esai *personal statement*** pendaftaran kuliah S2-ku. Format tulisan "pembedahan esai" ini terinspirasi dari [tulisan Eugenie Y. Lai]() tentang pembedahan esai pendaftaran kuliah S3-nya.
 
-
-
-Tujuan esai ini adalah untuk meyakinkan pembaca bahwa aku ini pantas untuk menerima beasiswa LPDP. Tujuan hidupku adalah membangun industri maritime / underwater robotics di Indonesia (Lengkapnya bisa dibaca di: [link blog](https://www.ibrafdj.com/en/blog/merakit-rangkaian-mengarungi-lautan/)). Narasi yang ingin kubuat dalam esai ini adalah:
+Tujuan esai ini adalah untuk meyakinkan pembaca bahwa aku ini pantas untuk menerima beasiswa LPDP. Tujuan hidupku adalah membangun industri maritime / underwater robotics di Indonesia (Lengkapnya bisa dibaca di: [link blog](https://www.ibrafdj.com/blog/merakit-rangkaian-mengarungi-lautan/)). Narasi yang ingin kubuat dalam esai ini adalah:
 
 - Underwater robotics adalah bidang yang penting
 - Aku adalah orang yang berpengalaman dalam bidang underwater robotics
@@ -31,7 +29,7 @@ Esai ini ku bagi jadi beberapa bagian dengan tema berbeda untuk mempermudah pemb
 
 > On 24 April 2021, over 838 meters deep under the waves of the Bali Sea, the wreckage of navy submarine KRI Nanggala 402 found its final resting place. All of Indonesia mourned over the loss of the submarine and the 53 brave sailors who served within. Lacking the required tools to search over 800 meters deep underwater, Indonesia had to rely on equipment from its neighbors to discover the submarine's remains. Among that equipment is the Singaporean navy’s MV *Swift Rescue*, the only vessel in Southeast Asia equipped with a unique Remotely Operated Vehicle (ROV) for submarine rescue missions [^1]. As sorrow swept over the nation, this tragedy steeled my resolve to build the means to scour the depths where no human could: underwater robots.
 
-Pembukaan dengan insiden yang baru satu tahun berlalu pada saat itu. Aku menekankan peran ROV dalam menemukan kapal selam ini karena sangat relevan dengan bidang perkuliahanku. Kalimat terakhir menonjolkan seberapa berdampak insiden ini dalam membuatku yakin atas jalan yang kupilih. Penjelasan lengkap motivasiku bisa dibaca di [sini](https://www.ibrafdj.com/en/blog/merakit-rangkaian-mengarungi-lautan/)!
+Pembukaan dengan insiden yang baru satu tahun berlalu pada saat itu. Aku menekankan peran ROV dalam menemukan kapal selam ini karena sangat relevan dengan bidang perkuliahanku. Kalimat terakhir menonjolkan seberapa berdampak insiden ini dalam membuatku yakin atas jalan yang kupilih. Penjelasan lengkap motivasiku bisa dibaca di [sini](https://www.ibrafdj.com/blog/merakit-rangkaian-mengarungi-lautan/)!
 
 > Exploring the depths of the sea is an enormous challenge due to its crushing pressure, uneven terrain, and pitch darkness. By using underwater robots, we can submerge underwater without exposing ourselves to the dangers of the depths. There are two types of underwater robots: ROVs and Autonomous Underwater Vehicles (AUVs). ROVs are controlled remotely by a human pilot, while AUVs can move autonomously following a set of waypoints specified by the user.
 
