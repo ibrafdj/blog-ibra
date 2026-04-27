@@ -53,7 +53,7 @@ src="https://akcdn.detik.net.id/community/media/visual/2020/12/28/benda-asing-mi
 
 Seorang nelayan bernama Saerudin (60) menemukan wahana mirip rudal dengan 2 buah sayap masing-masing panjangnya 50cm, ekor 18cm, antena belakang 93cm, dan panjang badan wahana 225cm. Enam hari setelah ditemukan, wahana ini diamankan oleh pihak TNI [^5].
 
-### Kepulauan Anambas, Kepulauan Riau (Januari 2021)
+### Desa Air Putih, Kepulauan Anambas, Kepulauan Riau (Januari 2021)
 
 {{<img caption="Penemuan wahana di Kepulauan Anambas (2021)"
 source="[Warta Kepri](https://wartakepri.co.id/2021/01/20/heboh-warga-desa-air-putih-anambas-temukan-benda-mirip-roket-pelacak/)"
@@ -73,7 +73,7 @@ src="https://www.katantt.com/webmin/images/posts/1/2022/2022-03-30/2383e51324efa
 
 Warga bernama Bernadus Kamata (42) menemukan wahana mirip rudal yang terbawa arus ke pesisir pantai Kalunan. Wahana ini panjangnya 2.5m dan terbuat dari plastik fiber padat. Wahana ini telah diamanakan oleh aparat TNI setempat [^6].
 
-### Gili Trawangan, Lombok, Nusa Tenggara Barat  (April 2026)
+### Gili Trawangan, Lombok, Nusa Tenggara Barat (April 2026)
 
 {{<img caption="Penemuan wahana di pulau Gili Trawangan (2026)"
 source="[SCMP](https://www.scmp.com/week-asia/politics/article/3350349/chinese-drone-exposes-indonesias-insufficient-undersea-capabilities)"
