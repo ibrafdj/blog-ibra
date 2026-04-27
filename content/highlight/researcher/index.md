@@ -7,4 +7,4 @@ thumbnail: "/highlight/researcher.JPG"
 hideMeta: true
 ---
 
-I build innovative robotics systems and produce novel insight from field data collected by robots, validated by two patents registered and two published academic papers.
+I build innovative robotics systems and produce novel insights from field data, validated by two patents registered and two published academic papers.

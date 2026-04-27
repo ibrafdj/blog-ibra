@@ -5,10 +5,11 @@ description: "I have never watched a single K-drama series before this"
 date: "2020-04-15"
 tags: 
   - "english"
-  - "Personal"
+  - "personal"
 keywords: ["review", "crash landing on you", "cloy"]
 language: "english"
 thumbnail: "/blog/a-review-of-crash-landing-on-you-2019.png"
+draft: true
 ---
 
 I have never watched a single Korean drama series before Crash Landing on You.

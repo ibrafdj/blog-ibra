@@ -30,7 +30,7 @@
     </div>
     {{ end }}
 
-    {{/* Featured Professional Writing Section */}}
+    {{/* Featured Writing Section */}}
     <div class="container px-6">
       <h2 class="mb-2 text-xl md:text-2xl lg:text-3xl font-bold capitalize">Featured Writing</h2>
       <p class="text-sm md:text-md lg:text-lg text-gray-600 dark:text-gray-400">Professional reflections & technical insights (English & Indonesian)</p>
@@ -38,7 +38,7 @@
     
     <div class="container p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
       {{/* Featured articles - display specific approved posts */}}
-      {{ $pages := where (where .Site.RegularPages.ByDate.Reverse "Type" "blog") "Params.tags" "intersect" (slice "Professional") }}
+      {{ $pages := where (where .Site.RegularPages.ByDate.Reverse "Type" "blog") "Params.tags" "intersect" (slice "highlight") }}
       {{ range first 3 $pages }}
         {{- partial "blog-card.html" . -}}
       {{ end }}

@@ -6,7 +6,8 @@ date: "2023-09-07"
 keywords: ["kuliah", "s2","maritime robotics","underwater robotics","kuliah luar negeri","contoh ikigai","ikigai","motivasi"]
 tags: 
   - "indonesian"
-  - "Professional"
+  - "professional"
+  - "highlight"
 language: "indonesian"
 thumbnail: "/blog/merakit-rangkaian-mengarungi-lautan.jpg"
 ---

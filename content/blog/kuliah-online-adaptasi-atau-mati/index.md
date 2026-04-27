@@ -5,7 +5,7 @@ description: "Tantangan era baru pendidikan"
 date: "2020-08-12"
 tags: 
   - "indonesian"
-  - "Personal"
+  - "personal"
 keywords: ["kuliah online", "adaptasi"]
 language: "indonesian"
 thumbnail: "/blog/kuliah-online-adaptasi-atau-mati.jpg"

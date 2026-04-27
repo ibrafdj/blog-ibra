@@ -6,7 +6,8 @@ date: "2024-12-31"
 keywords: ["kuliah", "s2", "luar negeri","beasiswa","pengalaman", "tesis","disertasi","skripsi","perkapalan"]
 tags: 
   - "indonesian"
-  - "Professional"
+  - "professional"
+  - "highlight"
 thumbnail: "/blog/penelitian-lautan-impian.jpg"
 language: "indonesian"
 ---
