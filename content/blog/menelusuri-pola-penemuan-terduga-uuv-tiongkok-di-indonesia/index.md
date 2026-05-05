@@ -11,7 +11,7 @@ language: "indonesian"
 thumbnail: "/blog/auv_intrusion_map.png"
 ---
 
-> Catatan: **Tulisan ini disertai dengan sebuah [peta interaktif](/peta-penemuan-uuv-indonesia/)!** 
+> Catatan: **Tulisan ini disertai dengan sebuah [peta interaktif](/uuv-discoveries-map-indonesia/?lang=id)!** 
 > 
 > Read this article in [English](/blog/tracing-patterns-behind-suspected-chinese-uuv-findings-in-indonesia)
 
@@ -166,9 +166,9 @@ Di wahana ini terdapat dua ADCP (300 kHz dan 75 kHz), satu CTD, dan satu sensor 
 
 ## Menelusuri Pola Penemuan UUV
 
-<iframe id="peta-penemuan-uuv-indonesia" title="Peta Penemuan Terduga UUV Tiongkok di Indonesia 2019--2026" src="/peta-penemuan-uuv-indonesia/" style="width: 100%; height: clamp(350px, 35vh, 600px); border: none; border-radius: 8px; margin: 1rem 0;"></iframe>
+<iframe id="uuv-discoveries-map-indonesia" title="Peta Penemuan Terduga UUV Tiongkok di Indonesia 2019--2026" src="/uuv-discoveries-map-indonesia/?lang=id" style="width: 100%; height: clamp(350px, 35vh, 600px); border: none; border-radius: 8px; margin: 1rem 0;"></iframe>
 <p style="text-align: center; font-size: 0.9em; color: gray; margin-top: -1rem;">
-  Peta Penemuan Terduga UUV Tiongkok di Indonesia 2019–2026. Buka peta <i>full</i> di <a href="/peta-penemuan-uuv-indonesia/" target="_blank" rel="noopener noreferrer">sini.</a>
+  Peta Penemuan Terduga UUV Tiongkok di Indonesia 2019–2026. Buka peta <i>full</i> di <a href="/uuv-discoveries-map-indonesia/?lang=id" target="_blank" rel="noopener noreferrer">sini.</a>
 </p>
 
 Ketika keenam lokasi penemuan UUV dipetakan, tidak terdapat pola yang langsung jelas terlihat. Namun, dengan mempertimbangkan jangkauan underwater glider Sea Wing (500km), terdapat pola besar yang dapat dilihat dari posisi penemuan UUV tersebut: Arus Lintas Kepulauan Indonesia (ALKI). Spesifiknya, UUV ditemukan di sekitar tiga jalur ALKI: ALKI I, ALKI II, dan ALKI IIIA.

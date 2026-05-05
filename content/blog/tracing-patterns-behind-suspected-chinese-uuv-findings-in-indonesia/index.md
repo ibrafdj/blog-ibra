@@ -12,7 +12,7 @@ language: "english"
 thumbnail: "/blog/auv_intrusion_map.png"
 ---
 
-> Note: **This article is accompanied by an [interactive map](/peta-penemuan-uuv-indonesia/)!**
+> Note: **This article is accompanied by an [interactive map](/uuv-discoveries-map-indonesia/)!**
 > 
 > Baca artikel ini dalam [Bahasa Indonesia](/blog/menelusuri-pola-penemuan-terduga-uuv-tiongkok-di-indonesia/)
 
@@ -166,12 +166,12 @@ This device carries two ADCPs (300 kHz and 75 kHz), one CTD, and one acoustic se
 
 ## Tracing the Pattern of UUV Discoveries
 
-<iframe id="peta-penemuan-uuv-indonesia" title="Map of Suspected Chinese UUV Discoveries in Indonesia 2019--2026" src="/peta-penemuan-uuv-indonesia/" style="width: 100%; height: clamp(350px, 35vh, 600px); border: none; border-radius: 8px; margin: 1rem 0;"></iframe>
+<iframe id="uuv-discoveries-map-indonesia" title="Map of Suspected Chinese UUV Discoveries in Indonesia 2019--2026" src="/uuv-discoveries-map-indonesia/?lang=en" style="width: 100%; height: clamp(350px, 35vh, 600px); border: none; border-radius: 8px; margin: 1rem 0;"></iframe>
 <p style="text-align: center; font-size: 0.9em; color: gray; margin-top: -1rem;">
-  Map of Suspected Chinese UUV Discoveries in Indonesia 2019–2026. Open the full map <a href="/peta-penemuan-uuv-indonesia/" target="_blank" rel="noopener noreferrer">here.</a>
+  Map of Suspected Chinese UUV Discoveries in Indonesia 2019–2026. Open the full map <a href="/uuv-discoveries-map-indonesia/?lang=en" target="_blank" rel="noopener noreferrer">here.</a>
 </p>
 
-When the six discovery locations are plotted on a map, no immediately obvious pattern emerges. However, taking into account the Sea Wing underwater glider's range (500 km), a larger pattern becomes visible from the positions of these UUV discoveries: the Indonesian Archipelagic Sea Lanes (ALKI). Specifically, the UUVs were found near three ALKI routes: ALKI I, ALKI II, and ALKI IIIA.
+When the six UUV discovery locations are plotted on a map, no immediately obvious pattern emerges. However, taking into account the Sea Wing underwater glider's range (500 km), a larger pattern becomes visible: the Indonesian Archipelagic Sea Lanes (ALKI). Specifically, the UUVs were found near three ALKI routes: ALKI I, ALKI II, and ALKI IIIA.
 
 > Disclaimer: The device found on Alor Island (2022) is likely not a Sea Wing UUV. However, its range is still assumed to be 500 km for consistency with the other Sea Wing UUVs.
 
@@ -204,7 +204,7 @@ Launching a UUV from a surface ship is far simpler than from a submarine. A Laun
 source="[Naval News](https://www.navalnews.com/naval-news/2026/01/hii-successfully-demonstrates-sea-launcher-ship-based-automated-launch-and-recovery-of-remus-auv/)"
 src="https://www.navalnews.com/wp-content/uploads/2026/01/hii-remus-scaled.png.webp" >}}
 
-The plausible scenario is therefore: a Chinese vessel legally transits ALKI, and en route, deploys a Sea Wing UUV. The UUV then carries out its mission autonomously for days or weeks. Upon completion, it surfaces to transmit data via satellite. At the surface, the UUV can either be recovered by a ship or left to drift with ocean currents.
+The plausible scenario is therefore: a vessel legally transits ALKI, and en route, deploys a Sea Wing UUV. The UUV then carries out its mission autonomously for days or weeks. Upon completion, it surfaces to transmit data via satellite. At the surface, the UUV can either be recovered by a ship or left to drift with ocean currents.
 
 The 500 km range from each discovery point also covers areas beyond Indonesia's territorial waters but still within Indonesia's Exclusive Economic Zone (EEZ). The EEZ is the area extending 200 nautical miles from Indonesia's territorial sea. Foreign vessels are permitted to operate in the EEZ, but deploying military intelligence equipment in another nation's EEZ, including UUVs, remains a grey area in international law.
 
@@ -248,9 +248,9 @@ Based on the CTD and ADCP sensors found on the discovered UUVs, the data being c
 
 It is possible these devices were used not for military intelligence operations, but for civilian oceanographic research. Perhaps all the UUV discoveries at strategic locations around ALKI are just a coincidence.
 
-Perhaps this is not the tip of the iceberg. Surely there couldn't be many more UUVs out there that have not yet been accidentally found by our fishermen, right?
+Maybe, just maybe, this is not the tip of the iceberg. Surely there couldn't be many more UUVs out there that have not yet been accidentally found by our fishermen, right?
 
-Setting aside all the geopolitical implications, as an engineer, I can't help but be impressed.
+Geopolitical implications aside, as an engineer, I can't help but be impressed.
 
 China has developed its underwater robotics and submarine capabilities remarkably well. Its underwater robotics capacity is no longer limited to securing its own waters, it is now proactively mapping strategic sea areas beyond its own borders.
 

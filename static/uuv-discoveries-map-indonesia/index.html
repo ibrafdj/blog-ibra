@@ -153,6 +153,175 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
 
+    <div id="language-toggle" style="
+        position: fixed;
+        top: 10px;
+        right: 260px;
+        background-color: white;
+        border: 2px solid #ccc;
+        border-radius: 5px;
+        padding: 3px;
+        font-size: 0.9em;
+        z-index: 9999;
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-weight: 700;
+        cursor: pointer;
+        user-select: none;
+        display: flex;
+        gap: 2px;
+        align-items: center;
+    ">
+        <span id="lang-en" style="padding: 2px 8px; border-radius: 3px;">EN</span>
+        <span id="lang-id" style="padding: 2px 8px; border-radius: 3px; background-color: #0066cc; color: white;">ID</span>
+    </div>
+    
+    <script>
+        const translationDict = {
+            "Peta Penemuan Terduga UUV Tiongkok di Indonesia 2019–2026": "Map of Suspected Chinese UUV Discoveries in Indonesia 2019–2026",
+            "Legenda": "Legend",
+            "Koordinat ALKI I": "ALKI I Coordinates",
+            "Koordinat ALKI II": "ALKI II Coordinates",
+            "Koordinat ALKI IIIA": "ALKI IIIA Coordinates",
+            "Estimasi Batas Simpangan ALKI I": "Estimated ALKI I Deviation Limit",
+            "Estimasi Batas Simpangan ALKI II": "Estimated ALKI II Deviation Limit",
+            "Estimasi Batas Simpangan ALKI IIIA": "Estimated ALKI IIIA Deviation Limit",
+            "Lokasi Penemuan UUV": "UUV Discovery Locations",
+            "Estimasi Jangkauan UUV": "Estimated UUV Range",
+            "Batas Laut Teritorial Indonesia": "Indonesian Territorial Sea",
+            "Garis Sumbu ALKI I": "ALKI I Axis Line",
+            "Garis Sumbu ALKI II": "ALKI II Axis Line",
+            "Garis Sumbu ALKI IIIA": "ALKI IIIA Axis Line",
+            "Titik IIIA-": "Point IIIA-",
+            "Titik II-": "Point II-",
+            "Titik I-": "Point I-",
+            "Pulau Poto (2019)": "Poto Island (2019)",
+            "Kepulauan Masalembu (2020)": "Masalembu Islands (2020)",
+            "Kepulauan Selayar (2020)": "Selayar Islands (2020)",
+            "Kepulauan Anambas (2021)": "Anambas Islands (2021)",
+            "Pulau Alor (2022)": "Alor Island (2022)",
+            "Pulau Gili Trawangan (2026)": "Gili Trawangan Island (2026)",
+            "Dugaan Jenis UUV:": "Suspected UUV Type:",
+            "Sea Wing (Haiyi) Underwater Glider": "Sea Wing (Haiyi) Underwater Glider",
+            "Profiling Float": "Profiling Float",
+            "Sub-buoy / Deep-Sea Real-Time Transmission Mooring System": "Sub-buoy / Deep-Sea Real-Time Transmission Mooring System",
+            "Jangkauan 500km dari Pulau Poto (2019)": "500km Range from Poto Island (2019)",
+            "Jangkauan 500km dari Kepulauan Masalembu (2020)": "500km Range from Masalembu Islands (2020)",
+            "Jangkauan 500km dari Kepulauan Selayar (2020)": "500km Range from Selayar Islands (2020)",
+            "Jangkauan 500km dari Pulau Alor (2022)": "500km Range from Alor Island (2022)",
+            "Batas penyimpangan 25 NM, dibatasi oleh aturan jarak 10% dari garis pantai": "25 NM deviation limit, restricted by the 10% distance-to-shore rule",
+            "name": "Name",
+            "description": "Description",
+            "Klik untuk toggle": "Click to toggle"
+        };
+        
+        const reverseTranslationDict = {};
+        for (const [k, v] of Object.entries(translationDict)) {
+            reverseTranslationDict[v] = k;
+        }
+
+        let mapCurrentLang = 'ID';
+        
+        function translateTextNode(node) {
+            if (node.id === 'language-toggle') return;
+            if (node.nodeType === Node.TEXT_NODE) {
+                if (node.parentElement && node.parentElement.closest && node.parentElement.closest('.leaflet-control-layers')) {
+                    return;
+                }
+                let text = node.textContent;
+                let trimmed = text.trim();
+                if (!trimmed) return;
+                
+                const dictionary = mapCurrentLang === 'EN' ? translationDict : reverseTranslationDict;
+                
+                // Exact match
+                if (dictionary[trimmed]) {
+                    node.textContent = text.replace(trimmed, dictionary[trimmed]);
+                    return;
+                }
+                
+                // Partial match
+                const sortedKeys = Object.keys(dictionary).sort((a, b) => b.length - a.length);
+                for (const key of sortedKeys) {
+                    if (node.textContent.includes(key)) {
+                        node.textContent = node.textContent.replace(key, dictionary[key]);
+                    }
+                }
+            } else {
+                for (let child of node.childNodes) {
+                    if (child.id !== 'language-toggle') {
+                        translateTextNode(child);
+                    }
+                }
+            }
+        }
+
+        function translateAll() {
+            translateTextNode(document.body);
+            const title = document.querySelector('title');
+            if (title) translateTextNode(title);
+            
+            const dictionary = mapCurrentLang === 'EN' ? translationDict : reverseTranslationDict;
+            document.querySelectorAll('.legend-item').forEach(el => {
+                const currentTitle = el.getAttribute('title');
+                if (currentTitle && dictionary[currentTitle]) {
+                    el.setAttribute('title', dictionary[currentTitle]);
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const toggleBtn = document.getElementById('language-toggle');
+
+            // Initialize from URL parameters
+            const urlParams = new URLSearchParams(window.location.search);
+            const langParam = urlParams.get('lang') || urlParams.get('language');
+
+            const updateToggleUI = () => {
+                if (mapCurrentLang === 'EN') {
+                    toggleBtn.innerHTML = '<span style="padding: 2px 8px; border-radius: 3px; background-color: #0066cc; color: white;">EN</span><span style="padding: 2px 8px; border-radius: 3px; color: #333;">ID</span>';
+                } else {
+                    toggleBtn.innerHTML = '<span style="padding: 2px 8px; border-radius: 3px; color: #333;">EN</span><span style="padding: 2px 8px; border-radius: 3px; background-color: #0066cc; color: white;">ID</span>';
+                }
+            };
+            
+            if (langParam && langParam.toLowerCase() === 'id') {
+                mapCurrentLang = 'ID';
+                updateToggleUI();
+            } else {
+                mapCurrentLang = 'EN';
+                updateToggleUI();
+                translateAll();
+            }
+
+            toggleBtn.addEventListener('click', () => {
+                mapCurrentLang = mapCurrentLang === 'ID' ? 'EN' : 'ID';
+                updateToggleUI();
+                translateAll();
+            });
+
+            const observer = new MutationObserver((mutations) => {
+                mutations.forEach(mutation => {
+                    mutation.addedNodes.forEach(node => {
+                        if (node.nodeType === Node.ELEMENT_NODE) {
+                            if (node.classList && (node.classList.contains('leaflet-popup') || node.classList.contains('leaflet-tooltip'))) {
+                                translateTextNode(node);
+                            } else {
+                                const popups = node.querySelectorAll ? node.querySelectorAll('.leaflet-popup, .leaflet-tooltip') : [];
+                                popups.forEach(p => translateTextNode(p));
+                            }
+                        }
+                    });
+                });
+            });
+
+            const mapContainer = document.querySelector('.folium-map');
+            if (mapContainer) {
+                observer.observe(mapContainer, { childList: true, subtree: true });
+            }
+        });
+    </script>
+
     <div id="custom-legend" style="
         position: fixed;
         top: 10px;
