@@ -25,8 +25,6 @@ Fast forward four years later, to three weeks ago. On Monday, April 6, 2026, a d
 
 With this latest case, six such devices have now been found in Indonesia since 2019 (Yes, turns out I missed some when I wrote my LPDP essay back then). One or two might be a coincidence. But when it happens six times, can we really be sure there's no pattern behind it?
 
-<!-- As someone who spent years building navigation and control systems for AUVs, this incident caught my attention in a way that differs from most people. Not just about geopolitics — but about what these devices were doing, how they work, and why their locations are no coincidence. -->
-
 This writing serves as a follow-up and concrete contribution to the issue I first raised back in my 2022 LPDP essay. I will trace the pattern across these six UUV discoveries based on the type and location of each device.
 
 ## Timeline of UUV Discoveries
@@ -115,7 +113,7 @@ Underwater gliders can travel long distances to collect subsea data, covering te
 source="[SeaGlide](http://seaglide.org/about)"
 src="https://images.squarespace-cdn.com/content/v1/52f69916e4b0393d858e6f9f/1391897542872-AHSFKSCSSGJ9WF7VMAZ4/GliderMecnaicsOverview.png?format=2500w" >}}
 
-Buoyancy is controlled using a buoyancy engine, a pump that transfers fluid from an internal reservoir to an external bladder. When the bladder expands, the vehicle's volume increases and its effective mass becomes lighter than water, causing it to rise to the surface. Conversely, when the bladder deflates, the vehicle sinks. The two wings convert this vertical motion into forward thrust, exactly like an airplane's wings.
+Buoyancy is controlled using a buoyancy engine, a pump that transfers fluid from an internal reservoir to an external bladder. When the bladder expands, the vehicle's volume increases and its effective mass becomes lighter than water, causing it to rise to the surface. Conversely, when the bladder deflates, the vehicle sinks. The two wings convert this vertical motion into forward thrust, exactly like an airplane's wings. The full specifications of the Sea Wing UUV is as follows [^107]:
 
 | Specification | Value |
 |---|---|
@@ -127,10 +125,6 @@ Buoyancy is controlled using a buoyancy engine, a pump that transfers fluid from
 | Communications sensors | RF modem and Iridium satellite |
 | Navigation sensors | GPS, altimeter, TCM |
 | Scientific sensors | CTD (Conductivity, Temperature, Depth) |
-
-<!-- In addition to the standard CTD, the Sea Wing can carry an ADCP, hydrophone, chlorophyll sensor, dissolved oxygen sensor, and various others. Its developers describe it for "oceanographic research and marine environmental observation" — which of course has a clear overlap with military interests [^8]. -->
-
-<!-- The Sea Wing is an **active UUV** — capable of autonomous movement, self-navigation, and mission execution without direct control. -->
 
 ### Profiling Float? (2021)
 
@@ -298,3 +292,5 @@ Can we truly be responsible for our oceans, and everything within, that is besto
 [^102]: Hendra Cipto, Ardi Priyatno Utomo (2022). Polisi Selidiki Seaglider yang Ditemukan Nelayan di Kepulauan Selayar. Retrieved from https://makassar.kompas.com/read/2022/02/19/071110778/polisi-selidiki-seaglider-yang-ditemukan-nelayan-di-kepulauan-selayar
 
 [^103]: Mystery Object Found On Indonesian Beach Identified. (2022). Retrieved from https://www.hisutton.com/Mystery-Object-Found-On-Indonesian-Beach.html
+
+[^107]: J. Wang, Z. Wu, H. Dong, M. Tan and J. Yu, "Development and Control of Underwater Gliding Robots: A Review," in IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 9, pp. 1543-1560, September 2022, doi: 10.1109/JAS.2022.105671.

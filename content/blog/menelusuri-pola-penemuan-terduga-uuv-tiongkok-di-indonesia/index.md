@@ -24,8 +24,6 @@ Fast forward 4 years later, to three weeks ago. Pada hari Senin, 6 April 2026, t
 
 Dengan kasus terbaru ini, enam wahana serupa telah ditemukan di Indonesia sejak tahun 2019 (Yes, turns out I missed some when I wrote my LPDP essay back then). Satu atau dua mungkin kebetulan. Namun saat sudah enam kali berulang, apakah kita bisa yakin tidak ada pola dibaliknya?
 
-<!-- Sebagai seseorang yang menghabiskan bertahun-tahun membangun sistem navigasi dan kendali untuk AUV, kejadian ini menarik perhatianku dengan cara yang berbeda dari kebanyakan orang. Bukan sekadar soal geopolitik — tapi soal apa yang wahana-wahana ini lakukan, cara kerjanya, dan mengapa lokasinya bukan kebetulan. -->
-
 Sebagai bentuk kontribusi dan tindak lanjut dari isu yang telah kubawa pada esai LPDP-ku tahun 2022 lalu, aku akan menelusuri pola dari enam penemuan UUV ini berdasarkan jenis dan lokasi penemuan wahana tersebut. 
 
 ## Linimasa Penemuan UUV
@@ -115,7 +113,7 @@ Underwater glider dapat bergerak jarak jauh untuk mengumpulkan data bawah laut. 
 source="[SeaGlide](http://seaglide.org/about)"
 src="https://images.squarespace-cdn.com/content/v1/52f69916e4b0393d858e6f9f/1391897542872-AHSFKSCSSGJ9WF7VMAZ4/GliderMecnaicsOverview.png?format=2500w" >}}
 
-Gaya apung dapat dikendalikan menggunakan buoyancy engine, sebuah pompa yang memindahkan cairan dari penyimpanan internal wahana ke bladder di luar badan wahana. Saat bladder mengembang, volume wahana menjadi lebih besar dan massanya menjadi lebih ringan dari air, membuat wahana bergerak naik ke permukaan. Sebaliknya, saat bladder mengempis, wahana tenggelam. Kedua sayap wahana fungsinya mendorong wahana maju saat wahana sedang bergerak naik dan turun, persis seperti sayap pesawat terbang.
+Gaya apung dapat dikendalikan menggunakan buoyancy engine, sebuah pompa yang memindahkan cairan dari penyimpanan internal wahana ke bladder di luar badan wahana. Saat bladder mengembang, volume wahana menjadi lebih besar dan massanya menjadi lebih ringan dari air, membuat wahana bergerak naik ke permukaan. Sebaliknya, saat bladder mengempis, wahana tenggelam. Kedua sayap wahana fungsinya mendorong wahana maju saat wahana sedang bergerak naik dan turun, persis seperti sayap pesawat terbang. Spesifikasi lengkap dari UUV Sea Wing adalah sebagai berikut [^107]:
 
 | Spesifikasi | Nilai |
 |---|---|
@@ -127,10 +125,6 @@ Gaya apung dapat dikendalikan menggunakan buoyancy engine, sebuah pompa yang mem
 | Sensor komunikasi | RF modem dan satelit Iridium |
 | Sensor navigasi | GPS, altimeter, TCM |
 | Sensor ilmiah | CTD (Conductivity, Temperature, Depth) |
-
-<!-- Selain CTD standar, Sea Wing bisa membawa ADCP, hidrofon, sensor klorofil, sensor oksigen terlarut, dan berbagai sensor lainnya. Pengembangnya menyebutnya untuk "riset oseanografi dan observasi lingkungan laut" — yang tentu saja punya irisan jelas dengan kepentingan militer [^8]. -->
-
-<!-- Sea Wing termasuk **UUV aktif** — bisa bergerak secara otonom, menavigasi dirinya sendiri, menjalankan misi tanpa dikendalikan langsung. -->
 
 ### Profiling Float? (2021)
 
@@ -171,7 +165,7 @@ Di wahana ini terdapat dua ADCP (300 kHz dan 75 kHz), satu CTD, dan satu sensor 
   Peta Penemuan Terduga UUV Tiongkok di Indonesia 2019–2026. Buka peta <i>full</i> di <a href="/uuv-discoveries-map-indonesia/?lang=id" target="_blank" rel="noopener noreferrer">sini.</a>
 </p>
 
-Ketika keenam lokasi penemuan UUV dipetakan, tidak terdapat pola yang langsung jelas terlihat. Namun, dengan mempertimbangkan jangkauan underwater glider Sea Wing (500km), terdapat pola besar yang dapat dilihat dari posisi penemuan UUV tersebut: Arus Lintas Kepulauan Indonesia (ALKI). Spesifiknya, UUV ditemukan di sekitar tiga jalur ALKI: ALKI I, ALKI II, dan ALKI IIIA.
+Ketika keenam lokasi penemuan UUV dipetakan, tidak terdapat pola yang langsung jelas terlihat. Namun, dengan mempertimbangkan jangkauan underwater glider Sea Wing (500km), terdapat pola besar yang dapat dilihat dari posisi penemuan UUV tersebut: Alur Laut Kepulauan Indonesia (ALKI). Spesifiknya, UUV ditemukan di sekitar tiga jalur ALKI: ALKI I, ALKI II, dan ALKI IIIA.
 
 > Disclaimer: Wahana yang ditemukan di Pulau Alor (2022) kemungkinan bukan UUV Sea Wing. Namun, jangkauannya tetap diasumsikan sebagai 500km untuk menyamakan dengan UUV Sea Wing lainnya.
 
@@ -298,3 +292,5 @@ Apakah kita bisa merasa bertanggung jawab terhadap lautan kita dan segala isinya
 [^102]: Hendra Cipto, Ardi Priyatno Utomo (2022). Polisi Selidiki Seaglider yang Ditemukan Nelayan di Kepulauan Selayar. Retrieved from https://makassar.kompas.com/read/2022/02/19/071110778/polisi-selidiki-seaglider-yang-ditemukan-nelayan-di-kepulauan-selayar
 
 [^103]: Mystery Object Found On Indonesian Beach Identified. (2022). Retrieved from https://www.hisutton.com/Mystery-Object-Found-On-Indonesian-Beach.html
+
+[^107]: J. Wang, Z. Wu, H. Dong, M. Tan and J. Yu, "Development and Control of Underwater Gliding Robots: A Review," in IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 9, pp. 1543-1560, September 2022, doi: 10.1109/JAS.2022.105671.

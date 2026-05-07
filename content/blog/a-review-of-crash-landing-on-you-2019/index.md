@@ -9,7 +9,7 @@ tags:
 keywords: ["review", "crash landing on you", "cloy"]
 language: "english"
 thumbnail: "/blog/a-review-of-crash-landing-on-you-2019.png"
-draft: false
+draft: true
 ---
 
 I have never watched a single Korean drama series before Crash Landing on You.
